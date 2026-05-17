@@ -1,62 +1,62 @@
 <Document>
-  # Space Law: Crime Listing
-  Crime codes are colored by linked crime groups, which are collections of non-stackable crimes. Suffixes are also included in the Quick Crime Guide to identify linked crimes.
+  # Космічний закон: Перелік злочинів
+  Коди злочинів пофарбовані за пов'язаними групами злочинів — це набори злочинів, що не складаються. Суфікси також включено в Швидкий гід злочинів для ідентифікації пов'язаних злочинів.
 
-  ## Quick Crime Guide
+  ## Швидкий гід злочинів
   <Table Columns="6">
     <ColorBox>
       <Box>
-        1-XX - Minor
+        1-XX - Дрібні
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        2-XX - Moderate
+        2-XX - Помірні
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        3-XX - Major
+        3-XX - Серйозні
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        4-XX - Extreme
+        4-XX - Екстремальні
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        5-XX - Capital
+        5-XX - Капітальні
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Код
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Animal Cruelty
+        Жорстокість до тварин
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Failure to Comply (E)
+        Невиконання вимог (E)
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Arrest (E)
+        Опір при арешті (E)
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Custody (E)
+        Втеча з-під варти (E)
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Permanent Confinement (E)
+        Втеча з постійного ув'язнення (E)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -66,17 +66,17 @@
     </ColorBox>
     <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession: Minor (P)
+        Володіння: Дрібне (P)
       </Box>
     </ColorBox>
     <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession: Major (P)
+        Володіння: Серйозне (P)
       </Box>
     </ColorBox>
     <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession: Syndicate (P)
+        Володіння: Синдикат (P)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -94,7 +94,7 @@
     </ColorBox>
     <ColorBox Color="#2e422e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Petty Theft (H)
+        Дрібна крадіжка (H)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -103,12 +103,12 @@
     </ColorBox>
     <ColorBox Color="#2e422e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Grand Theft (H)
+        Велика крадіжка (H)
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Kidnapping
+        Викрадення
       </Box>
     </ColorBox>
     <ColorBox>
@@ -122,17 +122,17 @@
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Vandalism (D)
+        Вандалізм (D)
       </Box>
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Damage of Property (D)
+        Пошкодження майна (D)
       </Box>
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Destruction (D)
+        Масове руйнування (D)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -141,7 +141,7 @@
     </ColorBox>
     <ColorBox Color="#453a59">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Station-Wide Destruction (D)
+        Загальностанційне руйнування (D)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -151,7 +151,7 @@
     </ColorBox>
     <ColorBox Color="#59563a">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Trespass (T)
+        Незаконний прохід (T)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -160,7 +160,7 @@
     </ColorBox>
     <ColorBox Color="#59563a">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Secure Trespass (T)
+        Незаконний прохід у захищену зону (T)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -180,24 +180,24 @@
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
       </Box>
     </ColorBox>
-    <ColorBox Color="#4d2e2e">
+    <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Endangerment (V)
+        Створення небезпеки
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Assault (V)
+        Напад/побої (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Attempted Murder (V)
+        Замах на вбивство (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Prevention of Revival (V)
+        Запобігання оживленню (V)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -215,17 +215,17 @@
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Manslaughter (V)
+        Вбивство з необережності (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Murder (V)
+        Вбивство (V)
       </Box>
     </ColorBox>
     <ColorBox Color="#4d2e2e">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Murder (V)
+        Масове вбивство (V)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -235,7 +235,7 @@
     </ColorBox>
     <ColorBox Color="#3b4354">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Disturbance (R)
+        Порушення громадського спокою (R)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -244,7 +244,7 @@
     </ColorBox>
     <ColorBox Color="#3b4354">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Rioting (R)
+        Бунт (R)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -253,7 +253,7 @@
     </ColorBox>
     <ColorBox Color="#3b4354">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Refusal of Mental Shielding (R)
+        Відмова від ментального захисту (R)
       </Box>
     </ColorBox>
     <ColorBox>
@@ -263,44 +263,43 @@
     </ColorBox>
   </Table>
 
-  ## Minor Crimes
-  - Warnings should be issued for a first offense.
-  - If multiple minor crimes have been committed or it is a repeat offense, 5 minutes per minor crime is the maximum.
+  ## Дрібні злочини
+  - За перше правопорушення слід видавати попередження.
+  - Якщо вчинено кілька дрібних злочинів або це повторне правопорушення, максимум — 5 хвилин за дрібний злочин.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Правопорушення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Примітки
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Код
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Animal Cruelty
+        Жорстокість до тварин
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To inflict unnecessary suffering or harm on a non-sapient being with malicious intent.
+        Заподіяння необґрунтованих страждань або шкоди не-розумній істоті зі злим наміром.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        This doesn’t include legitimate and authorized animal testing and usually doesn't extend to vermin or creatures
-        that could pose a threat to the station.
+        Це не включає легітимне і авторизоване тестування на тваринах і зазвичай не поширюється на шкідників чи створінь, які можуть становити загрозу для станції.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -310,17 +309,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession/Use of Minor Contraband
+        Володіння/Використання дрібної контрабанди
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To make, hold, or use minor contraband without authorization.
+        Виготовлення, зберігання чи використання дрібної контрабанди без авторизації.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        The Captain or Head of Security may authorize individual use of minor contraband. Any contraband which is restricted to a department other than command or security is minor contraband unless otherwise specified.
+        Капітан або керівник безпеки можуть авторизувати індивідуальне використання дрібної контрабанди. Будь-яка контрабанда, обмежена відділом, відмінним від командування чи безпеки, є дрібною контрабандою, якщо інше не зазначено.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -330,20 +329,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Petty Theft
+        Дрібна крадіжка
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To take non-vital or inexpensive property of another individual, organization, or common property, without
-        consent.
+        Взяття не-критичного або недорогого майна іншої особи, організації чи спільної власності, без згоди.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        The difference between petty theft and grand theft is based on how crucial the stolen item is, things like
-        instruments, clothing and tools fall under petty theft. In most cases all you need to do is detain the thief,
-        return the stolen item and let them go with a warning.
+        Різниця між дрібною крадіжкою і великою крадіжкою заснована на тому, наскільки вкрадений предмет важливий; такі речі, як інструменти, одяг та інструменти, підпадають під дрібну крадіжку. У більшості випадків усе, що потрібно зробити, — затримати злодія, повернути вкрадений предмет і відпустити з попередженням.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -353,18 +349,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Vandalism
+        Вандалізм
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To intentionally deface or superficially damage public or private property.
+        Навмисне псування або поверхневе пошкодження публічного чи приватного майна.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Painting graffiti, smashing bar glasses, and cracking internal windows is vandalism, breaking a window into
-        space or secure areas is not.
+        Малювання графіті, биття склянок у барі та розколювання внутрішніх вікон — це вандалізм; розбиття вікна в космос або в безпечні зони — ні.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -374,17 +369,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Trespass
+        Незаконний прохід
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To enter a non-secured area without permission.
+        Вхід у незахищену зону без дозволу.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        It's best to just remove them from the area unless this is a repeated crime.
+        Найкраще просто видалити їх із зони, якщо це не повторний злочин.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -394,18 +389,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Disturbance
+        Порушення громадського спокою
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To cause a public disturbance.
+        Спричинення публічного безладу.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Sometimes referred to as hooliganism. The catch-all for obnoxious crewmates. Covers things such as public
-        nudity, needless insults, obstructing authorities, and inciting crime or violence.
+        Іноді називають хуліганством. Загальне для всіх неприємних членів екіпажу. Охоплює такі речі, як публічна оголеність, безпідставні образи, перешкоджання владі та підбурювання до злочину чи насильства.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -415,44 +409,43 @@
     </ColorBox>
   </Table>
 
-  ## Moderate Crimes
-  - The maximum sentence per moderate crime is 5 minutes.
-  - Depending on the situation you may want to issue a warning instead of a detaining.
+  ## Помірні злочини
+  - Максимальний вирок за помірний злочин — 5 хвилин.
+  - Залежно від ситуації, ви можете замість затримання видати попередження.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Правопорушення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Примітки
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Код
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Failure to Comply
+        Невиконання вимог
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To resist reasonable orders given by an authority. This extends to authorized searches.
+        Опір розумним наказам, виданим владою. Поширюється на авторизовані обшуки.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        The order has to be reasonable and the person has to receive a good amount of warning before the arrest is
-        issued.
+        Наказ має бути розумним, і особа має отримати достатню кількість попереджень перед арештом.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -462,17 +455,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession/Use of Major Contraband
+        Володіння/Використання серйозної контрабанди
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To make, hold, or use major contraband without authorization.
+        Виготовлення, зберігання чи використання серйозної контрабанди без авторизації.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        The Captain may authorize individual use of major contraband. Any contraband which is restricted to the command or security department is major contraband unless otherwise specified.
+        Капітан може авторизувати індивідуальне використання серйозної контрабанди. Будь-яка контрабанда, обмежена відділом командування чи безпеки, є серйозною контрабандою, якщо інше не зазначено.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -482,18 +475,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Damage/Destruction of Property
+        Пошкодження/Знищення майна
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To maliciously damage or deface public or private property or equipment
+        Зловмисне пошкодження або псування публічного чи приватного майна або обладнання.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Includes destruction of job equipment such as hydro trays, booze dispensers, chemical dispensers. Step up from
-        vandalism but a step down from mass destruction.
+        Включає знищення робочого обладнання, як-от гідропонні лотки, диспенсери для алкоголю, хімічні диспенсери. Крок вгору від вандалізму, але крок униз від масового руйнування.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -503,17 +495,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Endangerment
+        Створення небезпеки
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To recklessly put yourself or others in danger, either through direct action, or failure to act.
+        Безрозсудне піддавання себе чи інших небезпеці, через пряму дію або через бездіяльність.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Covers industrial accidents, industrial negligence, self-experimentation, or even medical malpractice.
+        Охоплює промислові аварії, промислову недбалість, самоексперименти або навіть медичну халатність.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -523,45 +515,44 @@
     </ColorBox>
   </Table>
 
-  ## Major Crimes
-  - The maximum sentence per major crime is 10 minutes.
-  - Assault and Manslaughter are linked crimes, and cannot be stacked against a suspect.
-  - It is recommended to not use maximum sentences for those being compliant.
+  ## Серйозні злочини
+  - Максимальний вирок за серйозний злочин — 10 хвилин.
+  - Напад і Вбивство з необережності — пов'язані злочини, які не можуть складатися проти підозрюваного.
+  - Рекомендується не використовувати максимальні вироки для тих, хто співпрацює.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Правопорушення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Примітки
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Код
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Arrest
+        Опір при арешті
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To intentionally resist and flee arrest or detainment by an authorized staff.
+        Навмисний опір і втеча від арешту чи затримання уповноваженим персоналом.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        This only applies if someone is actively being physically arrested. People uncuffing or assisting others out of
-        an arrest can also be charged with this. Breach of custody is a separate crime.
+        Це застосовується лише якщо когось активно фізично арештовують. Особам, які знімають наручники чи допомагають іншим уникнути арешту, також можна висунути це звинувачення. Втеча з-під варти — окремий злочин.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -571,17 +562,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession/Use of Syndicate Contraband
+        Володіння/Використання контрабанди Синдикату
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To make, hold, or use Syndicate contraband.
+        Виготовлення, зберігання чи використання контрабанди Синдикату.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Syndicate contraband may only be used in emergencies, and only to prevent death or gross bodily harm.
+        Контрабанда Синдикату може використовуватися лише в надзвичайних ситуаціях і лише для запобігання смерті чи серйозній тілесній шкоді.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -591,19 +582,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Grand Theft
+        Велика крадіжка
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To take critical or unreplaceable property of another individual or organization without consent.
+        Взяття критичного чи незамінного майна іншої особи чи організації без згоди.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        The difference between petty theft and grand theft is based on how crucial the stolen item is, this mostly is
-        used for the theft of command staff items, things like door remotes, hardsuits, jetpacks, and unreplaceable
-        machine parts.
+        Різниця між дрібною крадіжкою і великою крадіжкою заснована на тому, наскільки вкрадений предмет важливий; це здебільшого використовується для крадіжки предметів командного складу — таких речей, як пульти дверей, хардсьюти, джетпаки та незамінні частини машин.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -613,18 +602,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Destruction
+        Масове руйнування
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To cause massive damage to an area or major station system.
+        Заподіяння масивних пошкоджень зоні чи основній станційній системі.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        This is mostly used for deadly bombings or sabotage of major station systems such as power production,
-        chemistry, substations, or atmos.
+        Це здебільшого використовується для смертоносних бомбардувань або саботажу основних станційних систем, як-от виробництво енергії, хімія, підстанції чи атмос.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -634,17 +622,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Secure Trespass
+        Незаконний прохід у захищену зону
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To enter a secured area without permission.
+        Вхід у захищену зону без дозволу.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        This covers places like telecomms, head offices, security zones, command areas, the vault and armory.
+        Це охоплює такі місця, як телекомунікації, офіси керівників, зони безпеки, командні зони, сховище та збройова.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -654,18 +642,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Assault/Battery
+        Напад/Побої
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To threaten to or to use physical force against someone without the intent to kill.
+        Погроза використати або використання фізичної сили проти когось без наміру вбити.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Attempted murder and battery are different; a fist fight is most likely assault. A shooting is most likely an
-        attempt at murder.
+        Замах на вбивство і побої — різні; кулачний бій — це найімовірніше напад. Стрілянина — це найімовірніше замах на вбивство.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -675,17 +662,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Manslaughter
+        Вбивство з необережності
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To incidentally kill a person without intent.
+        Випадкове вбивство особи без наміру.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Includes manslaughter in self-defense and negligent manslaughter.
+        Включає вбивство з необережності при самообороні та через недбалість.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -695,17 +682,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Rioting
+        Бунт
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To take part in a large group of personnel creating an unlawful public disturbance.
+        Участь у великій групі персоналу, що створює незаконне публічне порушення спокою.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Crimes like damage of property or battery are expected to be thrown on top of this charge. Leaders of a riot can be charged with all crimes that happen under their lead.
+        Очікується, що такі злочини, як пошкодження майна чи побої, будуть додані до цього звинувачення. Лідерам бунту можуть бути висунуті звинувачення в усіх злочинах, що відбулися під їхнім керівництвом.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -715,45 +702,45 @@
     </ColorBox>
   </Table>
 
-  ## Extreme Crimes
-  - The maximum sentence per extreme crime is 15 minutes.
-  - Particularly violent offenders may be placed in perma. (Attacking officers in an attempt to escape prison)
-  - Attempted murder and murder are linked crimes and cannot be stacked together.
-  - Attempted murderers should be granted a more lenient sentence than a murderer.
+  ## Екстремальні злочини
+  - Максимальний вирок за екстремальний злочин — 15 хвилин.
+  - Особливо насильницькі правопорушники можуть бути поміщені в перму. (Атака офіцерів при спробі втечі з тюрми)
+  - Замах на вбивство і вбивство — пов'язані злочини, які не можуть складатися разом.
+  - Особам, що зробили замах на вбивство, слід надавати м'якший вирок, ніж вбивцям.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Правопорушення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Примітки
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Код
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Custody
+        Втеча з-під варти
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To break out of a cell or custody with the intention of escaping.
+        Втеча з камери чи з-під варти з наміром втекти.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Includes breaking out other people.
+        Включає звільнення інших осіб.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -763,17 +750,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Kidnapping
+        Викрадення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To unlawfully restrain, transport, control or confine a person against that individual’s will.
+        Незаконне утримання, перевезення, контроль чи ув'язнення особи проти її волі.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        A large range of things, used mostly as a catch all when dealing with unlawful control of another being.
+        Великий діапазон речей, використовується здебільшого як загальний термін при роботі з незаконним контролем над іншою істотою.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -783,17 +770,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Attempted Murder
+        Замах на вбивство
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To make an attempt to use physical force against someone with the clear intent to kill.
+        Спроба використати фізичну силу проти когось з чітким наміром убити.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Make sure you've got the proof to back up the intention claims, such as proof of a lethal weapon being used.
+        Переконайтеся, що у вас є докази, що підтверджують претензії про намір, наприклад, докази використання летальної зброї.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -803,17 +790,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Murder
+        Вбивство
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To kill a person with malicious intent.
+        Вбивство особи зі злим наміром.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        This only changes from attempted to full-on murder if the victim enters a state of being deceased, having to be resurrected.
+        Це переходить від замаху до повного вбивства лише якщо жертва входить у стан смерті, потребуючи воскресіння.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -823,42 +810,42 @@
     </ColorBox>
   </Table>
 
-  ## Capital Crimes
-  - Capital crimes should usually lead to a death sentence or shift lasting detainment.
+  ## Капітальні злочини
+  - Капітальні злочини зазвичай мають призводити до смертного вироку чи затримання на всю зміну.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Offense
+        Правопорушення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Notes
+        Примітки
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Code
+        Код
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Permanent Confinement
+        Втеча з постійного ув'язнення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To break someone sentenced to Permanent Confinement out of a cell or custody with the intention of escaping.
+        Звільнення особи, засудженої до Постійного ув'язнення, з камери чи з-під варти з наміром втекти.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Includes breaking out other people sentenced to Permanent Confinement.
+        Включає звільнення інших осіб, засуджених до Постійного ув'язнення.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -868,17 +855,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Station-Wide Destruction
+        Загальностанційне руйнування
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To engage in maliciously destructive actions which threaten to destroy, or successfully destroy a vessel or habitat.
+        Участь у зловмисно руйнівних діях, що загрожують знищенням, або успішне знищення судна чи поселення.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Summed up; extreme sabotage of station systems or setting off self-destruction systems. This includes any means causing the entire station to become uninhabitable, such as through station-wide atmospherics sabotage.
+        Підсумовуючи: екстремальний саботаж станційних систем чи запуск систем самознищення. Це включає будь-які засоби, що роблять цілу станцію непридатною для життя, як-от загальностанційний саботаж атмосферики.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -888,17 +875,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Prevention of Revival
+        Запобігання оживленню
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To render a body unresurrectable.
+        Зробити тіло невоскресиним.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        This covers gibbing, spacing, intentionally hiding a body, or other ways of preventing a body with a soul from being resurrected.
+        Це охоплює розрив на шматки, викидання в космос, навмисне приховування тіла чи інші способи запобігання оживленню тіла з душею.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -908,17 +895,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Mass Murder
+        Масове вбивство
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To kill three or more people with malicious intent.
+        Вбивство трьох або більше осіб зі злим наміром.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Only applies when there have been multiple killings with intention.
+        Застосовується лише коли є кілька навмисних вбивств.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -928,17 +915,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Refusal of Mental Shielding
+        Відмова від ментального захисту
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        To refuse to comply with a reasonable Mind Shielding procedure.
+        Відмова виконати розумну процедуру встановлення Mind Shield.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Applies if the suspect is excessively uncooperative or the implant fails to function due to the mental state of the prisoner already being too far gone. If the implant fails execution is heavily recommended.
+        Застосовується, якщо підозрюваний надмірно несприятливий або імплант не функціонує через те, що ментальний стан в'язня вже занадто далеко зайшов. Якщо імплант відмовляє, страта настійно рекомендується.
       </Box>
     </ColorBox>
     <ColorBox>
