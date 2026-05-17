@@ -145,8 +145,8 @@ namespace Content.Client.Wires.UI
 
             LayoutContainer.SetAnchorPreset(topContainerWrap, LayoutContainer.LayoutPreset.Wide);
 
-            var font = _resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13);
-            var fontSmall = _resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 10);
+            var font = _resourceCache.GetFont("/Fonts/Cozette/CozetteVectorBold.ttf", 13);
+            var fontSmall = _resourceCache.GetFont("/Fonts/Cozette/CozetteVector.ttf", 10);
 
             Button helpButton;
             var topRow = new BoxContainer
@@ -564,7 +564,7 @@ namespace Content.Client.Wires.UI
                     };
                 }
 
-                var font = resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 12);
+                var font = resourceCache.GetFont("/Fonts/Cozette/CozetteVector.ttf", 12);
 
                 var hBox = new BoxContainer
                 {
