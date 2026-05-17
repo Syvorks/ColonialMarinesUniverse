@@ -1,7 +1,7 @@
 ﻿- type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforPlatCo
-  name: platoon commander ID card
+  name: "iD-карта командира взводу"
   components:
   - type: PresetIdCard
     job: AU14JobOpforPlatCo
@@ -12,7 +12,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforPlatOp
-  name: platoon operations officer ID card
+  name: "iD-карта офіцера операцій взводу"
   components:
   - type: PresetIdCard
     job: AU14JobOpforPlatOp
@@ -23,7 +23,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforDSPilot
-  name: dropship pilot ID card
+  name: "iD-карта пілота десантного корабля"
   components:
   - type: PresetIdCard
     job: AU14JobOpforDSPilot
@@ -34,7 +34,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforDCC
-  name: dropship crew chief ID card
+  name: "iD-карта начальника екіпажу десантного корабля"
   components:
   - type: PresetIdCard
     job: AU14JobOpforDCC
@@ -45,7 +45,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforSecSergeant
-  name: platoon sergeant ID card
+  name: "iD-карта взводного сержанта"
   components:
   - type: PresetIdCard
     job: AU14JobOpforSectionSergeant
@@ -56,7 +56,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforSquadSergeant
-  name: squad sergeant ID card
+  name: "iD-карта сержанта відділення"
   components:
   - type: PresetIdCard
     job: AU14JobOpforSquadSergeant
@@ -67,7 +67,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforSquadRifleman
-  name: squad rifleman ID card
+  name: "iD-карта стрільця відділення"
   components:
   - type: PresetIdCard
     job: AU14JobOpforSquadRifleman
@@ -78,7 +78,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardopforSquadAutomaticRifleman
-  name: squad sergeant ID card
+  name: "iD-карта сержанта відділення"
   components:
   - type: PresetIdCard
     job: AU14JobOpforSquadAutomaticRifleman
@@ -89,7 +89,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14JobIDCardopforPlatoonCorpsman
-  name: platoon corpsman ID card
+  name: "iD-карта взводного санітара"
   components:
   - type: PresetIdCard
     job: AU14JobOpforPlatoonCorpsman
@@ -100,7 +100,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14JobIDCardopforRadioTelephoneOperator
-  name: radio telephone operator ID card
+  name: "iD-карта радіотелефоніста"
   components:
   - type: PresetIdCard
     job: AU14JobOpforRadioTelephoneOperator
@@ -111,7 +111,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardOPFORAuxSupportSynth
-  name: support synthetic ID card
+  name: "iD-карта синтетика підтримки"
   components:
   - type: PresetIdCard
     job: AU14JobOPFORAuxSupportSynth
@@ -122,7 +122,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardOPFORCT
-  name: combat technician ID card
+  name: "iD-карта бойового техніка"
   components:
   - type: PresetIdCard
     job: AU14JobOPFORSquadCombatTech
@@ -133,7 +133,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardOPFORAdvisor
-  name: advisor ID card
+  name: "iD-карта радника"
   components:
   - type: PresetIdCard
     job: AU14JobOPFORadvisor
@@ -144,7 +144,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardOPFORDoctor
-  name: doctor ID card
+  name: "iD-карта лікаря"
   components:
   - type: PresetIdCard
     job: AU14JobOPFORMilitaryDoctor
@@ -156,7 +156,7 @@
   parent: CMIDCardBase
   id: AU14IDCardOPFORWorkingJoe
   categories: [ HideSpawnMenu ]
-  name: Working Joe ID card
+  name: "ID-карта Воркінг Джо"
   components:
   - type: PresetIdCard
     job: AU14JobOPFORWorkingJoe

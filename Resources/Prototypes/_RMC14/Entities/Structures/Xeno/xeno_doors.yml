@@ -1,8 +1,8 @@
 - type: entity
   parent: CMBaseXenoStructure
   id: DoorXenoResin
-  name: resin door
-  description: That's a resin door.
+  name: "смоляні двері"
+  description: "Це смоляні двері."
   placement:
     mode: SnapgridCenter
   components:
@@ -111,8 +111,8 @@
 - type: entity
   parent: DoorXenoResin
   id: DoorXenoResinThick
-  name: thick resin door
-  description: A thick resin door, which is more durable.
+  name: "товсті смоляні двері"
+  description: "Товсті смоляні двері, які є більш міцними."
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_resin_door.rsi
@@ -168,8 +168,8 @@
 - type: entity
   parent: DoorXenoResin
   id: DoorXenoResinWeedbound
-  name: weedbound resin door
-  description: That's a resin door, bound to weeds.
+  name: "резинові двері, переплетені бур'янами"
+  description: "Це резинові двері, переплетені з бур'янами."
   components:
   - type: GuideHelp
     guides:
@@ -196,8 +196,8 @@
 - type: entity
   parent: DoorXenoResinThick
   id: DoorXenoResinThickWeedbound
-  name: thick weedbound resin door
-  description: A thick resin door, bound to weeds.
+  name: "товсті резинові двері, переплетені бур'янами"
+  description: "Товсті резинові двері, переплетені з бур'янами."
   components:
   - type: GuideHelp
     guides:

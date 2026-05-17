@@ -1,8 +1,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyGOVFOR
-  name: GOVFOR encryption key
-  description: An encryption key used to communicate on the GOVFOR channel.
+  name: "ключ шифрування урядових сил"
+  description: "Ключ шифрування для зв’язку на каналі урядових сил."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -17,8 +17,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyGOVFORCommand
-  name: GOVFOR command encryption key
-  description: An encryption key used to communicate on all GOVFOR channels.
+  name: "командний ключ шифрування урядових сил"
+  description: "Ключ шифрування для зв’язку на всіх каналах урядових сил."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -41,8 +41,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyGOVFORauxiliarysupport
-  name: GOVFOR auxiliary support encryption key
-  description: An encryption key used to communicate on auxiliary support channels.
+  name: "ключ шифрування допоміжної підтримки урядових сил"
+  description: "Ключ шифрування для зв’язку на каналах допоміжної підтримки."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -61,8 +61,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyGOVFORBravo
-  name: GOVFOR Bravo encryption key
-  description: An encryption key used to communicate on the GOVFOR Bravo channel.
+  name: "ключ шифрування урядових сил Браво"
+  description: "Ключ шифрування для зв’язку на каналі урядових сил Браво."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -80,8 +80,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyGOVFORCharlie
-  name: GOVFOR Charlie encryption key
-  description: An encryption key used to communicate on the GOVFOR Charlie channel.
+  name: "ключ шифрування урядових сил Чарлі"
+  description: "Ключ шифрування для зв’язку на каналі урядових сил Чарлі."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -99,8 +99,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyGOVFORIntel
-  name: GOVFOR Intel encryption key
-  description: An encryption key used to communicate on the GOVFOR Intel channel.
+  name: "ключ шифрування розвідки урядових сил"
+  description: "Ключ шифрування для зв’язку на каналі розвідки урядових сил."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -118,7 +118,7 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyMarineJTAC
-  name: JTAC encryption key
+  name: "ключ шифрування JTAC"
   components:
   - type: EncryptionKey
     channels:
@@ -128,8 +128,8 @@
 - type: entity
   parent: RMCHeadsetShip
   id: AU14HeadsetSectionMarine
-  name: GOVFOR radio headset
-  description: This is used by GOVFOR personnel to communicate on the radio.
+  name: "радіогарнітура урядових сил"
+  description: "Використовується персоналом урядових сил для радіозв’язку."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -147,8 +147,8 @@
 - type: entity
   parent: AU14HeadsetSectionMarine
   id: AU14HeadsetSectionMarineFTL
-  name: GOVFOR FTL radio headset
-  description: This is used by GOVFOR fireteam leaders to communicate on the radio.
+  name: "радіогарнітура командира вогневої групи урядових сил"
+  description: "Використовується командирами вогневих груп урядових сил для радіозв’язку."
   components:
   - type: ContainerFill
     containers:
@@ -159,8 +159,8 @@
 - type: entity
   parent: RMCHeadsetShip
   id: AU14HeadsetSectionLeader
-  name: GOVFOR command radio headset
-  description: This is used by GOVFOR command members to communicate on the radio.
+  name: "командна радіогарнітура урядових сил"
+  description: "Використовується членами командування урядових сил для радіозв’язку."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader
@@ -182,8 +182,8 @@
 - type: entity
   parent: RMCHeadsetShip
   id: AU14HeadsetGOVFORAux
-  name: GOVFOR auxiliary support headset
-  description: This is used by GOVFOR auxiliary support members to communicate on the radio.
+  name: "гарнітура допоміжної підтримки урядових сил"
+  description: "Використовується членами допоміжної підтримки урядових сил для радіозв’язку."
   components:
   - type: GrantSquadLeaderTracker
     defaultMode: SquadLeader

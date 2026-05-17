@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseStorageItem
   id: AU14CBRNKitWeYu
-  name: WeYu CBRN Kit
+  name: "комплект CBRN ВеЮ"
   description: 
   components:
   - type: Sprite

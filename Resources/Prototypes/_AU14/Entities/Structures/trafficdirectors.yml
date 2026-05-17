@@ -38,8 +38,8 @@
   parent: AU14TrafficDirectorProp
   id: AU14PropTrafficDirector1
   suffix: TrafficDirector
-  name: Traffic Director
-  description: A Traffic Director.
+  name: "напрямник руху"
+  description: "Напрямник руху."
   components:
   - type: Sprite
     state: traffic_1
@@ -59,8 +59,8 @@
   parent: AU14TrafficDirectorProp
   id: AU14PropTrafficDirector2
   suffix: TrafficDirector
-  name: Traffic Director
-  description: A Traffic Director.
+  name: "напрямник руху"
+  description: "Напрямник руху."
   components:
   - type: Sprite
     state: traffic_2
@@ -80,8 +80,8 @@
   parent: AU14TrafficDirectorProp
   id: AU14PropTrafficDirector3
   suffix: TrafficDirector
-  name: Traffic Director
-  description: A Traffic Director.
+  name: "напрямник руху"
+  description: "Напрямник руху."
   components:
   - type: Sprite
     state: traffic_3
@@ -101,8 +101,8 @@
   parent: AU14TrafficDirectorProp
   id: AU14PropTrafficDirector4
   suffix: TrafficDirector
-  name: Traffic Director
-  description: A Traffic Director.
+  name: "напрямник руху"
+  description: "Напрямник руху."
   components:
   - type: Sprite
     state: traffic_4
@@ -122,8 +122,8 @@
   parent: AU14TrafficDirectorProp
   id: AU14PropTrafficDirector5
   suffix: TrafficDirector
-  name: Traffic Director
-  description: A Traffic Director.
+  name: "напрямник руху"
+  description: "Напрямник руху."
   components:
   - type: Sprite
     state: traffic_5
@@ -143,8 +143,8 @@
   parent: AU14TrafficDirectorProp
   id: AU14PropTrafficDirector6
   suffix: TrafficDirector
-  name: Traffic Director
-  description: A Traffic Director.
+  name: "напрямник руху"
+  description: "Напрямник руху."
   components:
   - type: Sprite
     state: traffic_6
