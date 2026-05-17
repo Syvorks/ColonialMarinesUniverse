@@ -1,30 +1,30 @@
 ﻿<Document>
-  # Roleplay Rule 15 - Command and Security must follow Space Law
-  All non-antagonist command and security roles must obey [textlink="Space Law" link="SpaceLaw"]. This includes non-antagonists who are promoted to or gain a position during the round in any way. This also includes non-antagonists who are acting as a security role.
+  # Рольове правило 15 — Командування та Безпека мають дотримуватися Космічного закону
+  Усі неантагоністичні ролі командування та безпеки мусять виконувати [textlink="Космічний закон" link="SpaceLaw"]. Це включає неантагоністів, що підвищені або отримують посаду під час раунду будь-яким способом. Це також включає неантагоністів, що діють як роль безпеки.
 
-  Space Law violations should be prioritized based on severity and the current situation.
+  Порушення Космічного закону мають пріоритезуватися на основі серйозності та поточної ситуації.
 
-  This prohibits use of syndicate items outside extreme emergencies, including uplinks by command and security. This also prohibits the preparing of syndicate items for an emergency.
+  Це забороняє використання предметів Синдикату поза екстремальними надзвичайними ситуаціями, включно з аплінками для командування та безпеки. Це також забороняє підготовку предметів Синдикату для надзвичайної ситуації.
 
-  ## Examples
-  Acceptable:
-  - After a war announcement, a security officer ignores crewmembers carrying contraband so that they can focus on preparing to defend the station.
-  - A security officer disarms someone attacking them with an energy sword, then uses the sword to kill the attacker.
+  ## Приклади
+  Прийнятно:
+  - Після оголошення війни, офіцер безпеки ігнорує членів екіпажу з контрабандою, щоб зосередитися на підготовці до захисту станції.
+  - Офіцер безпеки роззброює когось, хто атакує його енергетичним мечем, потім використовує меч, щоб вбити нападника.
 
-  Prohibited:
-  - A security officer carries around an energy sword in case of an emergency.
+  Заборонено:
+  - Офіцер безпеки носить енергетичний меч на випадок надзвичайної ситуації.
 
-  Roles that are included:
-  - A security officer
-  - The Captain
-  - The Chief Engineer
-  - A passenger promoted to "bounty hunter"
-  - A mime promoted to "security mime"
+  Включені ролі:
+  - Офіцер безпеки
+  - Капітан
+  - Головний інженер
+  - Пасажир, підвищений до "мисливця за нагородами"
+  - Мім, підвищений до "мім-безпеки"
 
-  Roles that are not included:
-  - A passenger
-  - The clown
-  - An antagonist in any role
-  - A cyborg
-  - A passenger who is helping to fight off nuclear operatives
+  Не включені ролі:
+  - Пасажир
+  - Клоун
+  - Антагоніст у будь-якій ролі
+  - Кіборг
+  - Пасажир, що допомагає відбивати ядерних оперативників
 </Document>

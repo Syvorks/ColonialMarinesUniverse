@@ -1,25 +1,25 @@
 <Document>
-  # Do not Powergame
+  # Не Powergam'іть
 
-  You must have an In-Character justification for your actions. The Research Director does not need a gun when the station is code-green. The Head of Security does not need All Access at shift start when no threat is identified.
+  Ви маєте мати IC-обґрунтування для своїх дій. Директор з досліджень не потребує зброї, коли станція на code-green. Керівник безпеки не потребує All Access на старті зміни, коли загрозу не визначено.
 
-  ## Examples
+  ## Приклади
 
- Acceptable:
- - Command carrying non-lethals when there is a plausible threat
- - Command carrying lethals when there is a confirmed threat
- - Command carrying (non-)lethals they start with in their rooms at any time
- - Captain hiding the spare ID in a properly secure location
- - Increasing security (such as bolting doors, adding walls, etc) during Red or Blue alert
- - Several minutes into the round, Captain promotes Warden to HoS because there isn’t one on station
- - General situations where a character is reacting to information during a round in a way that makes logical sense
+ Прийнятно:
+ - Командування носить нелетальну зброю, коли є правдоподібна загроза
+ - Командування носить летальну зброю, коли є підтверджена загроза
+ - Командування носить (не)летальну зброю, з якою стартує у своїх кімнатах, у будь-який час
+ - Капітан ховає запасну ID у належно безпечному місці
+ - Збільшення безпеки (заболтування дверей, додавання стін тощо) під час Червоної чи Синьої тривоги
+ - Через кілька хвилин у раунд Капітан підвищує Warden до HoS, оскільки на станції немає
+ - Загальні ситуації, де персонаж реагує на інформацію під час раунду способом, що логічно має сенс
 
-  Not Acceptable:
-  - Roundstart Captain granting all heads AA
-  - Roundstart HoP takes Ian to ATS because “He’s a high profile target”
-  - Creating duplicates of high-value or unique items to hand off to others
-  - Using low-effort roleplay to skirt the metashield
-  - Bolting doors to areas to increase their security before a threat is confirmed that makes that security inefficient
-  - Setting the alert level to Blue or Red when the situation does not have a need for the severity implied (this includes maintaining these levels far past when said threats have been confirmed as no longer in play)
-  - General situations where a character is preemptively preparing for situations that have yet to happen in ways that logically do not make sense
+  Не прийнятно:
+  - На старті раунду Капітан надає всім головам AA
+  - На старті раунду HoP бере Іена в ATS, бо "він high-profile target"
+  - Створення дублікатів цінних чи унікальних предметів для передачі іншим
+  - Використання низькозусильної рольової гри для обходу metashield
+  - Заболтування дверей до зон для збільшення безпеки до підтвердження загрози, що робить цю безпеку неефективною
+  - Встановлення рівня тривоги на Синій або Червоний, коли ситуація не потребує такої серйозності (включно з підтриманням цих рівнів далеко після підтвердження, що ці загрози більше не в грі)
+  - Загальні ситуації, де персонаж попередньо готується до ситуацій, що ще не сталися, способом, що логічно не має сенсу
 </Document>

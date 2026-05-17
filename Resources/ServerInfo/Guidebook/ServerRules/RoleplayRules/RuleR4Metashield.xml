@@ -1,92 +1,92 @@
 <Document>
-  # Roleplay Rule 4 - Do not metagame, obey the Metashield
-  Something that is "shielded" cannot be known by your character during a round until the "revealing condition" happens. This also means that your character cannot do things based on "shielded" information. Knowing or acting on something that is shielded before the revealing condition is met is referred to as metagaming.
+  # Рольове правило 4 — Не метаграйте, дотримуйтесь Metashield
+  Щось, що "зашиточене" (shielded), не може бути відомим вашому персонажу під час раунду до моменту, коли відбудеться "умова розкриття". Це також означає, що ваш персонаж не може робити речі на основі "зашиточеної" інформації. Знання чи дії на основі чогось, що зашиточене, перед виконанням умови розкриття, називається метаграю.
 
-  Revealing conditions reveal the shielded information for the round, not for a specific instance. This means that once a revealing condition is met in a round, the shield no longer applies in any case for the remainder of the round.
+  Умови розкриття розкривають зашиточену інформацію для раунду, не для конкретного випадку. Це означає, що як тільки умова розкриття виконана в раунді, щит більше не застосовується в жодному випадку до кінця раунду.
 
-  ## Never Revealed IC
-  Some shields are never revealed IC. This means that your character can never act as if they know about that shielded thing.
+  ## Ніколи не розкривається IC
+  Деякі щити ніколи не розкриваються IC. Це означає, що ваш персонаж ніколи не може діяти так, ніби знає про цю зашиточену річ.
 
-  The following are shielded:
-  - Current game mode and possible antags during the current game mode.
-  - Events from previous rounds.
-  - Events you experienced as a different character.
-  - All information related to the player of a character rather than the character itself. (See "Metafriending and Metagrudging" below.)
-  - All information gained while dead or a ghost.
-  - The fact that a round will end.
+  Наступне зашиточене:
+  - Поточний режим гри та можливі антагоністи в поточному режимі гри.
+  - Події з попередніх раундів.
+  - Події, які ви пережили як інший персонаж.
+  - Уся інформація, що стосується гравця персонажа, а не самого персонажа. (Див. "Метадружба та Метаненависть" нижче.)
+  - Уся інформація, отримана в мертвому стані чи як примара.
+  - Той факт, що раунд закінчиться.
 
-  This does not prevent knowing that a shift will end, but does prohibit things like preparing to kill people at central command when roleplay rules stop being enforced on LRP.
+  Це не запобігає знанню, що зміна закінчиться, але забороняє такі речі, як підготовка вбити людей у Центральному командуванні, коли рольові правила перестають дотримуватися на LRP.
 
-  ## Nuclear Operatives
+  ## Ядерні оперативники
 
-  The existence of Nuclear Operatives beyond a myth that no one would act on is shielded.
+  Існування Ядерних Оперативників понад міф, на який ніхто не діятиме, зашиточене.
 
-  The fact that the nuke disk must be protected and could be used by a bad actor to try to destroy the station is not shielded.
+  Той факт, що nuke disk треба захищати і він може бути використаний поганим актором для знищення станції, не зашиточений.
 
-  The revealing condition for this shield is any of the following:
-  - discovering a blood red hardsuit
-  - discovering a nuclear operative's shuttle
-  - an operative name
-  - a War Ops announcement
-  - being a nuclear operative
+  Умова розкриття цього щита — будь-яка з наступних:
+  - виявлення кривавого червоного хардсьюту
+  - виявлення шатла ядерного оперативника
+  - ім'я оперативника
+  - оголошення War Ops
+  - бути ядерним оперативником
 
-  ## Chameleon Items
+  ## Chameleon-предмети
 
-  Chameleon items are shielded.
+  Chameleon-предмети зашиточені.
 
-  Being suspicious of an item being fake or stolen is not shielded, but testing items or calling them chameleon is covered by this shield.
+  Підозра, що предмет фейк або вкрадений, не зашиточена, але тестування предметів чи названня їх chameleon охоплене цим щитом.
 
-  The revealing condition for this shield is any of the following:
-  - seeing someone else cause any chameleon item to change
-  - finding holographic nanomachine fibers
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  Умова розкриття цього щита — будь-яка з наступних:
+  - бачення, як хтось інший викликає зміну будь-якого chameleon-предмета
+  - знаходження голографічних наномашинних волокон
+  - переживання ситуації, де абсолютно жодне інше пояснення не можливе
+  - виявлення розблокованого аплінку
 
-  ## Stealth Items
+  ## Stealth-предмети
 
-  The fact that an item can be something other than what its visual appearance and examine description indicate is shielded.
+  Той факт, що предмет може бути чимось іншим, ніж його візуальний вигляд та опис огляду вказують, зашиточений.
 
-  This shield protects stealth items, including protecting them from being tested.
+  Цей щит захищає stealth-предмети, включно із захистом від тестування.
 
-  The revealing condition for this shield is any of the following:
-  - seeing the item behave differently than the expected behavior for the item
-  - seeing the item used for its hidden purpose
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  Умова розкриття цього щита — будь-яка з наступних:
+  - бачення, як предмет поводиться інакше, ніж очікувана поведінка для предмета
+  - бачення предмета, що використовується за прихованим призначенням
+  - переживання ситуації, де абсолютно жодне інше пояснення не можливе
+  - виявлення розблокованого аплінку
 
-  ## MRP Amendment 1
-  A shield prevents your character from remembering anything that happened while unconscious. This shield is never revealed IC.
+  ## Поправка MRP 1
+  Щит запобігає тому, щоб ваш персонаж пам'ятав щось, що сталося, коли він був непритомним. Цей щит ніколи не розкривається IC.
 
-  ## MRP Amendment 2
-  There is a "New Life Rule" shield. It prevents you from remembering anything that lead to your death, even if you are put into an MMI. If you are cloned, it also prevents you from remembering everything from that round. This shield is never revealed IC.
+  ## Поправка MRP 2
+  Існує щит "New Life Rule". Він запобігає тому, щоб ви пам'ятали щось, що призвело до вашої смерті, навіть якщо вас помістили в MMI. Якщо вас клонують, він також запобігає тому, щоб ви пам'ятали все з того раунду. Цей щит ніколи не розкривається IC.
 
-  ## Metafriending and Metagrudging
-  This section provides additional information on a concept that is prohibited by multiple metashield items that are never revealed IC. Giving a person or character preferential treatment based on something that your character should not know is considered metafriending. Treating a person or character negatively based on something that your character should not know is considered metagrudging.
+  ## Метадружба та Метаненависть
+  Цей розділ надає додаткову інформацію про концепцію, заборонену кількома пунктами metashield, що ніколи не розкриваються IC. Надання особі чи персонажу преференційного ставлення на основі чогось, що ваш персонаж не повинен знати, вважається метадружбою. Поводження з особою чи персонажем негативно на основі чогось, що ваш персонаж не повинен знати, вважається метаненавистю.
 
-  ## Metafriending Examples
-  These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
-  - Giving a character additional access or a job because you are friends with the player who is playing that character.
-  - Trusting a character because you are friends with the player who is playing that character.
-  - Not fighting a character because you are friends with the player who is playing that character.
-  - Ignoring your objective to kill a character because your character and theirs became friends in a previous round.
+  ## Приклади метадружби
+  Це все приклади речей, заборонених щонайменше одним пунктом metashield, що ніколи не розкривається IC.
+  - Надання персонажу додаткового доступу чи роботи, бо ви друг гравця, що грає цього персонажа.
+  - Довіра персонажу, бо ви друг гравця, що грає цього персонажа.
+  - Не битися з персонажем, бо ви друг гравця, що грає цього персонажа.
+  - Ігнорування цілі вбити персонажа, бо ваш персонаж і його стали друзями в попередньому раунді.
 
-  ## Metagrudging Examples
-  These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
-  - Not giving a character additional access or a job because you are mad at or don't like the player who is playing that character.
-  - Not trusting a character because you are mad at or don't like the player who is playing that character.
-  - Starting a fight with a character because of something that they did last round.
-  - Starting a fight with a character because they killed you while you were playing a different character.
-  - Targeting or harassing a character based on anything which that character did outside the current round.
-  - Targeting or harassing a character based on anything which the character's player did while not playing the character.
+  ## Приклади метаненависті
+  Це все приклади речей, заборонених щонайменше одним пунктом metashield, що ніколи не розкривається IC.
+  - Не надавати персонажу додатковий доступ чи роботу, бо ви роздратовані чи не любите гравця, що грає цього персонажа.
+  - Не довіряти персонажу, бо ви роздратовані чи не любите гравця, що грає цього персонажа.
+  - Почати бійку з персонажем через щось, що він робив у минулому раунді.
+  - Почати бійку з персонажем, бо він вбив вас, поки ви грали іншим персонажем.
+  - Прицілювання чи переслідування персонажа на основі будь-чого, що цей персонаж робив поза поточним раундом.
+  - Прицілювання чи переслідування персонажа на основі будь-чого, що гравець персонажа робив, не граючи цього персонажа.
 
-  ## Explicitly Not Shielded
-  The following is a list of things that are explicitly not shielded. If something is not on this list, it doesn't mean that it is shielded, but if something is on it then it definitely is not shielded.
-  - The fact that the nuke disk must be protected and could be used by a bad actor to try to destroy the station.
-  - Items that are of high value or are desired by the Syndicate, and therefore are likely targets of theft.
-  - The idea that any Syndicate agent or other bad actor has goals or objectives that they are attempting to accomplish.
-  - The number of goals or objectives that a Syndicate agent or other bad actor has.
-  - The fact that the Syndicate are enemies of Nanotrasen, and that they regularly attempt to send covert agents to spy on, sabotage, or attack Nanotrasen.
-  - A character's typical appearance. Though you should keep in mind that multiple characters can share the same name.
-  - The fact that the Syndicate have covert items capable of getting items to them, and that these items are known as uplinks.
-  - The fact that the Syndicate can provide subdermal implants to their agents with various capabilities.
+  ## Явно не зашиточене
+  Наступне — список речей, явно не зашиточених. Якщо щось не у списку, це не означає, що воно зашиточене, але якщо щось у ньому, тоді воно точно не зашиточене.
+  - Той факт, що nuke disk треба захищати і він може бути використаний поганим актором для знищення станції.
+  - Предмети, що мають високу цінність або бажані Синдикатом, і тому є ймовірними цілями крадіжки.
+  - Ідея, що будь-який агент Синдикату чи інший поганий актор має цілі чи завдання, які намагається виконати.
+  - Кількість цілей чи завдань, які має агент Синдикату чи інший поганий актор.
+  - Той факт, що Синдикат — вороги Nanotrasen, і вони регулярно намагаються відправити прихованих агентів шпигувати, саботувати або атакувати Nanotrasen.
+  - Типовий вигляд персонажа. Хоча ви маєте мати на увазі, що кілька персонажів можуть мати одне ім'я.
+  - Той факт, що Синдикат має приховані предмети, здатні переправляти предмети до них, і ці предмети відомі як аплінки.
+  - Той факт, що Синдикат може надавати subdermal-імпланти своїм агентам з різними можливостями.
 </Document>
