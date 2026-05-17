@@ -1,54 +1,54 @@
 <Document>
 
-  #So, you've ascended to the throne of the Hive!
+  #Отже, ви піднялися на трон Гнізда!
   <Box>
     <GuideEntityEmbed Entity="CMXenoQueen"/>
   </Box>\n
-  - As the matriarch, your duty is to expand, defend, and lead. Without you, the Hive crumbles, but with you, it thrives.
-  - For intermediate players wishing to try out the commanding side of Xenonids, this will start with what should be done at the start.
+  - Як матріарх, ваш обов'язок — розширюватися, захищати та вести. Без вас Гніздо розпадається, з вами — процвітає.
+  - Для гравців середнього рівня, що бажають спробувати командну сторону Ксенонідів, це почне з того, що слід зробити на початку.
 
-  #Now what?
-  First we must choose our hive location, this is not that all important and selecting where you spawn as your hive location will do. Once you have found a hive location follow the steps.
+  #Що тепер?
+  Спочатку треба обрати локацію Гнізда — це не настільки важливо, і вибір місця спавну як локації Гнізда теж підходить. Як тільки знайшли локацію Гнізда, дотримуйтеся кроків.
   <Box>
     <GuideEntityEmbed Entity="RMCGuidebookActionXenoOrderConstruction"/>
     <GuideEntityEmbed Entity="HiveCoreXeno"/>
     <GuideEntityEmbed Entity="RMCGuidebookActionXenoPheromones"/>
   </Box>\n
 
-  - Use your Order Construction ability to create a hive core and then fill it with your plasma.
-  - You can emit recovery pheromones to gain plasma to fill the hivecore, remember your pheromones are the strongest in the hive!
+  - Використайте здібність Order Construction, щоб створити ядро гнізда, потім заповніть його своєю плазмою.
+  - Ви можете випромінювати recovery феромони, щоб отримати плазму для заповнення ядра гнізда; пам'ятайте, ваші феромони найсильніші в гнізді!
   <Box>
     <GuideEntityEmbed Entity="XenoHiveWeeds"/>
     <GuideEntityEmbed Entity="RMCGuidebookActionXenoGrowOvipositor"/>
   </Box>\n
 
-  - Once filled, move on top of the new hive weeds emitted from the hivecore then grow your ovipositor.
+  - Як тільки заповнено, перейдіть на нові бур'яни гнізда, що випромінюються з ядра, і виростіть свій ovipositor.
 
-  Well done, you have successfully grown your ovipositor to allow for your children to gain evolution and thrive, now you can set hive leaders which will emit the same pheromones you are.
+  Молодець, ви успішно виростили свій ovipositor, щоб дозволити вашим дітям отримувати еволюцію та процвітати; тепер ви можете встановити hive leaders, які випромінюватимуть ті ж феромони, що й ви.
   <Box>
     <GuideEntityEmbed Entity="RMCGuidebookActionXenoWatch"/>
     <GuideEntityEmbed Entity="RMCGuidebookActionXenoLeader"/>
   </Box>\n
 
-  - Use the Watch xeno ability to find the xeno you wish to promote to leader.
-  - Once watching them, use the Choose leader ability to promote them to a leader, remember you can only have a max of 4.
-  - Now press a movement key to return back to normal view, and emit a pheromone for your leaders, recovery for now will do.
+  - Використайте здібність Watch xeno, щоб знайти ксено, якого хочете підвищити до лідера.
+  - Спостерігаючи за ним, використайте здібність Choose leader, щоб підвищити його до лідера; пам'ятайте, у вас може бути максимум 4.
+  - Тепер натисніть клавішу руху, щоб повернутися до звичайного огляду, та випромініть феромон для своїх лідерів — recovery поки що підійде.
 
-  Now you have some time to relax until skyhosts (Shipside marines) land, with this you can draw a tactics map or enter your Queen eye.
+  Тепер у вас є трохи часу, щоб розслабитися, поки skyhosts (морпіхи з корабля) приземляться; ви можете намалювати тактичну карту або увійти в Queen eye.
 
   ##Queen eye
-  This form is only usable while in ovi, during it, you ascend to a plane above, able to monitor and secrete resin anywhere your weeds are.
+  Ця форма доступна лише в ovi; під час неї ви піднімаєтеся на план вище, здатні моніторити та секретувати смолу будь-де, де є ваші бур'яни.
 
-  This can be used to scout enemy locations and build up the hive with resin.
+  Це можна використовувати для розвідки локацій ворога та укріплення гнізда смолою.
 
-  ##What to do when skyhosts come
+  ##Що робити, коли приходять skyhosts
   - War Queen
 
-  In the case that you must get up to help aid the battle, make sure to be ready to neurospit and screech at any moment. Fighting at the frontline as a Queen involves the use of your frenzy pheromones and neurospit to drag lone hosts. If there is a big group of hosts, and you can screech onto them, your biggest threat is the specialists so make sure to position around them.
+  У випадку, якщо вам треба піднятися, щоб допомогти у битві, переконайтеся, що готові neurospit та screech у будь-який момент. Бій на фронті як Королева включає використання feromonів frenzy та neurospit для притягання одиноких хостів. Якщо є велика група хостів, і ви можете screech на них — ваша найбільша загроза, це спеціалісти, тож переконайтеся, що позиціонуєтеся навколо них.
 
-  Remember that Xenonids fight best in choked spaces and fortified ground, do not attempt to fight in open ground.
+  Пам'ятайте, що Ксеноніди найкраще б'ються в задушених просторах та укріпленому ґрунті — не намагайтеся битися на відкритому ґрунті.
 
   - Ovi Queen
 
-  This strategy is to stay on ovi for preferably the whole duration of the fight, while on ovi your hive leaders will be able to emit your pheromones the whole way through which are 4x as strong. You can also remotely heal your children to aid them in battle, and you will constantly give evolution and eggs.
+  Ця стратегія полягає в тому, щоб залишатися в ovi бажано весь час бою; під час ovi ваші hive leaders зможуть випромінювати ваші феромони весь час, які в 4 рази сильніші. Ви також можете дистанційно лікувати своїх дітей, щоб допомогти їм у битві, і будете постійно давати еволюцію та яйця.
 </Document>

@@ -1,13 +1,13 @@
 ﻿<Document>
 
-  # Incinerator Fuel
+  # Паливо для вогнемета
 
   <GuideReagentEmbed Reagent="RMCNapalmSticky"/>
   <GuideReagentEmbed Reagent="RMCNapalmHighCombustion"/>
 
-  ## Limited
+  ## Обмежені
 
-  ### Purchaseable
+  ### Можна придбати
 
   <GuideReagentEmbed Reagent="WeldingFuel"/>
   <GuideReagentEmbed Reagent="RMCNapalmUT"/>
@@ -15,13 +15,13 @@
   <GuideReagentEmbed Reagent="RMCNapalmB"/>
   <GuideReagentEmbed Reagent="RMCNapalmX"/>
 
-  ### Un-Purchasable
+  ### Недоступні для купівлі
 
   <GuideReagentEmbed Reagent="RMCNapalmE"/>
   <GuideReagentEmbed Reagent="RMCNapalmEX"/>
   <GuideReagentEmbed Reagent="RMCR189"/>
 
-  # Precursors
+  # Прекурсори
 
   <GuideReagentEmbed Reagent="RMCCLF3"/>
   <GuideReagentEmbed Reagent="RMCSulphuricAcid"/>

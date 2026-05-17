@@ -3,26 +3,26 @@
 
   <GuideEntityEmbed Entity="RMCXenoPraetorianVanguard"/>
 
-  ##Playing as a Vanguard
+  ##Гра за Vanguard
 
-  Firstly let's see what's changed from your Base form. You lose a portion of your health, but you are now slightly faster than your base form. You also trade your corrosive acid and spit to get a regenerating shield that perfectly blocks one attack, which recharges out of combat.
+  Спочатку подивимось, що змінилося від базової форми. Ви втрачаєте частину здоров'я, але тепер трохи швидші за свою базову форму. Ви також обмінюєте свої corrosive acid та spit, щоб отримати щит, що регенерує і ідеально блокує одну атаку, який перезаряджається поза боєм.
 
-  You gain the ability to use Pierce, that penetrates through opponents, and it will also instantly recharge your shield if you hit 2 targets.
+  Ви отримуєте здатність використовувати Pierce, що проникає крізь опонентів, і він також миттєво перезарядить ваш щит, якщо влучите в 2 цілі.
 
-  You also gain cleave, which has two states: Root, which will immobilise a target and Fling, which will fling a target away from you.
+  Ви також отримуєте cleave, який має два стани: Root, що знерухомить ціль, і Fling, що відкине ціль від вас.
 
-  Your dash has changed as well, it now has an area slash after you dash. By activating your dash again, you can do the area slash.
+  Ваш dash також змінився; тепер він має area slash після dash. Активуючи dash знову, ви можете виконати area slash.
 
-  Vanguard is similar to an upgraded Warrior, specializing in consistent melee attacks or doing heavy burst damage and having a dash ability. They can combine multiple abilities to deal bursts of damage from around corners or just frontline combat.
+  Vanguard схожий на покращеного Warrior, спеціалізуючись на постійних ближніх атаках або завданні важкої burst шкоди та маючи здібність dash. Вони можуть поєднувати кілька здібностей, щоб завдавати сплесків шкоди з-за кутів або в фронтовому бою.
 
-  ##Abilities:
-  - [bold][color=green]PASSIVE[/color][/bold]: You are granted a shield that perfectly blocks one attack and rapidly decays after you're hit. The shield recharges while out of combat.
-  - [bold]Pierce[/bold]: Stab through your enemies with your tail against hosts. If you hit two people with your pierce, your shield is instantly recharged. This ability does slight extra damage than normal slash. The ability also has slight AP (armor piercing).
+  ##Здібності:
+  - [bold][color=green]ПАСИВНА[/color][/bold]: Ви отримуєте щит, що ідеально блокує одну атаку і швидко розпадається після удару. Щит перезаряджається поза боєм.
+  - [bold]Pierce[/bold]: Проштрикніть ворогів своїм хвостом проти хостів. Якщо ви влучили в двох людей своїм pierce, ваш щит миттєво перезаряджається. Ця здібність завдає трохи більше шкоди, ніж звичайний слеш. Здібність також має невеликий AP (бронебійність).
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPierce"/>
-  - [bold]Blitz[/bold]: Charge through enemies with a range of 4 tiles. Upon stopping, activate again to do an AoE slash in a 3x3 tile range, otherwise the ability will activate automatically after a 3 second delay. If the AoE slash hits, it will instantly regenerate your shield.
+  - [bold]Blitz[/bold]: Кидайтеся крізь ворогів з радіусом 4 тайли. Зупинившись, активуйте знову, щоб виконати AoE slash у радіусі 3x3 тайли; інакше здібність активується автоматично після затримки 3 секунди. Якщо AoE slash влучить, він миттєво регенерує ваш щит.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoDash"/>
-  - [bold]Root[/bold]: Immobilizes your target shortly, making them a sitting duck. Shares cooldown with Fling.
+  - [bold]Root[/bold]: Знерухомлює вашу ціль ненадовго, роблячи її легкою мішенню. Ділить кулдаун з Fling.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCleaveRoot"/>
-  - [bold]Fling[/bold]: Flings your target away from you, sending them flying backwards. Shares cooldown with Root.
+  - [bold]Fling[/bold]: Кидає вашу ціль від вас, відправляючи її назад. Ділить кулдаун з Root.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCleaveFling"/>
 </Document>

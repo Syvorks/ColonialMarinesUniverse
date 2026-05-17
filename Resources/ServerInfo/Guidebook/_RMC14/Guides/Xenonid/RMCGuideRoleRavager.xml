@@ -1,27 +1,27 @@
 <Document>
   #Ravager Tier 3
   <GuideEntityEmbed Entity="CMXenoRavager"/>
-  ##Playing as a Ravager
-  You don't need to hide anymore.
+  ##Гра за Ravager
+  Вам більше не потрібно ховатися.
 
-  Turning from an ambush caste to a slow brawler, they are very offensive on the frontline and excel at dealing damage. By using their Empower on 3 or more targets, they become super empowered which upgrades their Scissor Cut and Assault.
+  Перетворюючись з касти засідки на повільного бійця, вони дуже наступальні на передовій і чудово завдають шкоди. Використовуючи Empower на 3 чи більше цілях, вони стають супер-empower, що покращує Scissor Cut та Assault.
 
-  Their passives include having their slash damage increased based on the amount of targets they currently empower from, and being fire-proof and explosion-resistant.
+  Їхні пасивки включають збільшення шкоди слешів залежно від кількості цілей, з яких вони наразі empower, а також стійкість до вогню та опір вибухам.
 
-  Your first activation of Empower will grant shield, on the second activation for every target nearby you, gain extra shield. It is suggested that you quickly Empower twice once nearby hosts before unleashing the rest of your attacks.
+  Перша активація Empower надасть щит; на другій активації за кожну ціль поблизу ви отримуєте додатковий щит. Рекомендується швидко двічі Empower, як тільки опинитеся біля хостів, перш ніж випустити решту атак.
 
-  Make sure to play around the demolitions specialist as you will be their biggest target, walk up to hordes from behind doors and quickly double empower, then begin slashing and using Assault. Once your Empower runs out, retreat and heal.
+  Тримайтеся подалі від спеціаліста-демолішніста, оскільки ви будете їхньою найбільшою ціллю; підходьте до орд з-за дверей і швидко двічі empower, потім починайте слешити та використовувати Assault. Як тільки Empower закінчиться, відступайте та лікуйтеся.
 
-  Scissor Cut can also be used to slash hosts from afar, reducing risk.
+  Scissor Cut також можна використовувати для слешу хостів здалеку, зменшуючи ризик.
 
-  ##Abilities:
-  - [bold][color=green]PASSIVE[/color][/bold]: Immune to fire damage, however will still catch on fire and lose armor from green fire.
-  - [bold]Empower[/bold]: On first activation, grants shield, on second activation, for every target in your line of sight and near you, gain extra shield and slash damage.
-  - Empowering from 3 or more targets will make you super empowered, upgrading your other abilities.
+  ##Здібності:
+  - [bold][color=green]ПАСИВНА[/color][/bold]: Імунітет до вогню, але ви все ще можете спалахнути і втратити броню від зеленого вогню.
+  - [bold]Empower[/bold]: При першій активації — надає щит; при другій — за кожну ціль у вашому полі зору і поряд, отримуєте додатковий щит та шкоду слешу.
+  - Empower'ення з 3 чи більше цілями зробить вас супер-empower, покращивши інші здібності.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoEmpower"/>
-  - [bold]Assault[/bold]: Lunge forwards, if super empowered you will fling, knock down, and slash any target you hit. Slashing any targets will reduce this ability's cooldown.
+  - [bold]Assault[/bold]: Кидається вперед; якщо супер-empower, ви кинете, повалите і слешите будь-яку ціль, в яку влучили. Слеш будь-якої цілі зменшить кулдаун цієї здібності.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoAssault"/>
-  - [bold]Scissor Cut[/bold]: Slash in a 2x4 line.
-  - If super empowered, whoever hit will be slowed.
+  - [bold]Scissor Cut[/bold]: Слеш у лінії 2x4.
+  - Якщо супер-empower, кого вдарите — буде сповільнений.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoScissorCut"/>
 </Document>

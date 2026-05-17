@@ -1,21 +1,21 @@
 ﻿<Document>
 
-  #So you've just been born into the hive!
-  #Now what?
+  #Отже, ви щойно народилися в Гнізді!
+  #Що тепер?
 
-  - Rejoice! We've just joined our hive as a larva. We can't do very much right now, but our potential is limitless!
+  - Радійте! Ми щойно приєдналися до Гнізда як личинка. Зараз ми не можемо багато, але наш потенціал безмежний!
   <Box>
     <GuideEntityEmbed Entity="CMXenoLarva"/>
   </Box>\n
-  - It's time to get to work! As soon as we can, we should try to evolve. This will require us to gain some age by waiting however.
-  - For beginners, becoming a drone is recommended. Drones are responsible for building the hive defenses.
+  - Час до роботи! Як тільки зможемо, треба спробувати еволюціонувати. Однак це вимагатиме отримати трохи віку через очікування.
+  - Для початківців рекомендується стати дроном. Дрони відповідають за будівництво оборони Гнізда.
 
   <Box>
     <GuideEntityEmbed Entity="RMCGuidebookActionXenoEvolve"/>
     <GuideEntityEmbed Entity="CMXenoDrone"/>
   </Box>\n
 
-  - Here are a few of the things we can construct!
+  - Ось кілька речей, які ми можемо побудувати!
 
   <Box>
     <GuideEntityEmbed Entity="WallXenoResin"/>
@@ -23,9 +23,9 @@
     <GuideEntityEmbed Entity="DoorXenoResin"/>
   </Box>\n
 
-  - Another important job of the Drone is to plant weeds.
-  - Weeds allow us to rest to regain our health and energy!
-  - We can also only construct the hive on weeds.
+  - Іншою важливою роботою Дрона є посадка бур'янів.
+  - Бур'яни дозволяють нам відпочивати, щоб відновити здоров'я та енергію!
+  - Ми також можемо будувати Гніздо лише на бур'янах.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoRest"/>
   <Box>
     <GuideEntityEmbed Entity="XenoWeeds"/>
@@ -33,9 +33,9 @@
     <GuideEntityEmbed Entity="XenoWeeds"/>
   </Box>\n
 
-  - Our final goal is to protect the Queen and plant her eggs so our hive may grow!
-  - Eggs can be placed on hive weeds, and contain parasites.
-  - Parasites can be extracted from the eggs, but be wary that parasites have short lifespans away from the weeds!
+  - Наша остаточна мета — захищати Королеву та висаджувати її яйця, щоб наше Гніздо могло рости!
+  - Яйця можна розміщувати на бур'янах гнізда, і вони містять паразитів.
+  - Паразитів можна витягувати з яєць, але стережіться — паразити мають короткий термін життя поза бур'янами!
 
   <Box>
     <GuideEntityEmbed Entity="CMXenoQueen"/>
@@ -44,13 +44,13 @@
     <GuideEntityEmbed Entity="CMXenoParasite"/>
   </Box>\n
 
-  - We can also devour captures and transport them to the hive for nesting!
-  - Find a tall and tackle them by right clicking on them with harm mode enabled.
-  - Once they are restrained, click and drag their sprite into yours to start devouring them, remember to keep tackling after!
-  - After devouring, walk to the closest hive to infect them on a egg, then to nest them do the same motion onto a wall.
+  - Ми також можемо поглинати полонених і транспортувати їх до Гнізда для гніздування!
+  - Знайдіть tall'а і затакліте його, клікнувши правою кнопкою з увімкненим режимом шкоди.
+  - Як тільки вони стримані, клікніть і перетягніть їхній спрайт у свій, щоб почати поглинати; не забувайте продовжувати таклити після!
+  - Після поглинання йдіть до найближчого Гнізда, щоб заразити їх на яйці, потім гніздіть їх таким же рухом на стіні.
 
-  - When a parasite is placed on a living host, a new larva will be born! Rejoice!
-  - Hosts that hold the growing larva are very precious, and should be secured to a resin wall supported by hive weeds as soon as possible.
+  - Коли паразит розміщений на живому хості, народжується нова личинка! Радійте!
+  - Хости, що тримають зростаючу личинку, дуже цінні і повинні бути закріплені на смоляній стіні, підтриманій бур'янами Гнізда, якомога швидше.
   <Box>
     <GuideEntityEmbed Entity="RMCGuidebookCorpseColonistBurst"/>
     <GuideEntityEmbed Entity="CMXenoLarva"/>

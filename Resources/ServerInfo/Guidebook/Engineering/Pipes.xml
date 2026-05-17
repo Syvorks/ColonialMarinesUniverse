@@ -1,25 +1,25 @@
 ﻿<Document>
-  # Pipes
-  Pipes are used to distribute gasses from one place to another.
-  There are a wide variety of pipes available to construct:
+  # Труби
+  Труби використовуються для розподілу газів з одного місця в інше.
+  Існує широкий вибір труб для будівництва:
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="straight"/>
-    <GuideEntityEmbed Entity="GasPipeHalf" Caption="half"/>
-    <GuideEntityEmbed Entity="GasPipeBend" Caption="bend"/>
-    <GuideEntityEmbed Entity="GasPipeTJunction" Caption="T junction"/>
-    <GuideEntityEmbed Entity="GasPipeFourway" Caption="fourway"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="пряма"/>
+    <GuideEntityEmbed Entity="GasPipeHalf" Caption="половинна"/>
+    <GuideEntityEmbed Entity="GasPipeBend" Caption="вигин"/>
+    <GuideEntityEmbed Entity="GasPipeTJunction" Caption="Т-з'єднання"/>
+    <GuideEntityEmbed Entity="GasPipeFourway" Caption="чотиристороння"/>
   </Box>
 
-  Pipes will [color=#a4885c]automatically connect[/color] to other pipes when anchored (or wrenched) to the hull to form a [textlink="network of pipes." link="PipeNetworks"]
-  A network of pipes is commonly called a [textlink="pipenet" link="PipeNetworks"].
+  Труби [color=#a4885c]автоматично з'єднуються[/color] з іншими трубами при закріпленні (прикручуванні) до корпусу, утворюючи [textlink="мережу труб." link="PipeNetworks"]
+  Мережу труб зазвичай називають [textlink="пайпнет" link="PipeNetworks"].
 
-  Pipes will [color=red]not connect[/color] to pipes that are already connected to a different pipe.
-  For example, building a bent pipe on top of a straight pipe to form a makeshift T-junction will not work.
+  Труби [color=red]не з'єднуються[/color] з трубами, які вже з'єднані з іншою трубою.
+  Наприклад, побудова вигнутої труби поверх прямої для створення імпровізованого Т-з'єднання не працюватиме.
 
-  However, two pipes can share a tile as long as one isn't obstructing the other's connection to another pipe.
-  For example, two bend pipes can be placed on the same tile, with one moving gas from north to east, and the other moving gas from west to south.
+  Однак дві труби можуть ділити один тайл, якщо одна не перешкоджає з'єднанню іншої.
+  Наприклад, два вигини можна розмістити на одному тайлі: один переміщує газ з півночі на схід, інший — із заходу на південь.
 
-  You can color pipes (and most equipment that handles gasses) using a spray painter.
-  This is commonly done to distinguish the air and waste components of the station's Distro pipenet.
+  Ви можете фарбувати труби (та більшість обладнання для газів) за допомогою фарбопульта.
+  Це зазвичай робиться для розрізнення повітряних та відхідних компонентів станційного Distro-пайпнету.
 </Document>

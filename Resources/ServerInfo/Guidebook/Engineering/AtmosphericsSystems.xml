@@ -1,9 +1,9 @@
 ﻿<Document>
-  # Atmospherics Systems
-  Atmos has a wide variety of devices catered to moving, managing, and otherwise manipulating gas.
-  These devices often work together to maintain a safe, breathable atmosphere for the crew, or to achieve a common task.
+  # Атмосферні системи
+  Атмосферика має широкий спектр пристроїв для переміщення, управління та маніпулювання газом.
+  Ці пристрої часто працюють разом для підтримки безпечної, придатної для дихання атмосфери або для досягнення спільного завдання.
 
-  This section delves into the various systems that Atmos has at their disposal, how they interconnect, and how they are ideally used.
+  Цей розділ описує різні системи Атмосферики, як вони взаємопов'язані та як їх ідеально використовувати.
 
 
   <Box>
@@ -16,10 +16,10 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
   <Box>
-    ## Pipe Networks
+    ## Трубні мережі
   </Box>
   <Box>
-    [color=#999999][italic]Interconnected pipes with a common task — commonly called Pipenets[italic][/color]
+    [color=#999999][italic]Взаємопов'язані труби зі спільним завданням — зазвичай звані Пайпнетами[italic][/color]
   </Box>
 
   <Box>
@@ -27,10 +27,10 @@
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
   </Box>
   <Box>
-    ## Device Monitoring and Control
+    ## Моніторинг та контроль пристроїв
   </Box>
   <Box>
-    [color=#999999][italic]Monitoring and control over devices that manage a local atmosphere[italic][/color]
+    [color=#999999][italic]Моніторинг та контроль пристроїв, що керують локальною атмосферою[italic][/color]
   </Box>
 
   <Box>
@@ -38,10 +38,10 @@
     <GuideEntityEmbed Entity="FireAlarm" Caption=""/>
   </Box>
   <Box>
-    ## Fire and Gas Control
+    ## Контроль пожеж та газу
   </Box>
   <Box>
-    [color=#999999][italic]Devices to control and prevent gas leaks and fires[italic][/color]
+    [color=#999999][italic]Пристрої для контролю та запобігання витокам газу та пожежам[italic][/color]
   </Box>
 
   <Box>
@@ -49,10 +49,10 @@
     <GuideEntityEmbed Entity="AirCanister" Caption=""/>
   </Box>
   <Box>
-    ## Gas Mining and Storage
+    ## Видобуток та зберігання газу
   </Box>
   <Box>
-    [color=#999999][italic] Devices to mine new gas for the station to use, and store it for later[italic][/color]
+    [color=#999999][italic]Пристрої для видобутку нового газу та його зберігання[italic][/color]
   </Box>
 
 </Document>

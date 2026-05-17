@@ -1,29 +1,29 @@
 ﻿<Document>
-  # Air Scrubber
-  The air scrubber is essential in maintaining an atmosphere free of waste gasses emitted by breathing creatures and atmospheric upsets.
-  Its primary job is to scrub unwanted gasses from the atmosphere it's exposed to.
+  # Повітряний скрубер
+  Повітряний скрубер необхідний для підтримки атмосфери, вільної від відхідних газів, що виділяються дихаючими істотами та атмосферними порушеннями.
+  Його основне завдання — очищати небажані гази з атмосфери.
   <Box>
     <GuideEntityEmbed Entity="GasVentScrubber"/>
   </Box>
-  The air scrubber requires [textlink="power" link="Power"] through a nearby [textlink="LV cable" link="VoltageNetworks"] to function.
+  Повітряний скрубер потребує [textlink="енергії" link="Power"] через найближчий [textlink="LV кабель" link="VoltageNetworks"].
 
-  The default behavior of an air scrubber is to scrub all gasses except Nitrogen and Oxygen from the atmosphere it's exposed to. It will continue this behavior unless directed by a [textlink="linked" link="Networking"] [textlink="air alarm" link="AirAlarms"].
+  За замовчуванням скрубер очищає всі гази, крім Азоту та Кисню. Ця поведінка зберігається, поки не буде змінена [textlink="прив'язаною" link="Networking"] [textlink="повітряною тривогою" link="AirAlarms"].
 
-  The scrubber can be welded with any welding tool to stop it from functioning.
+  Скрубер можна заварити зварювальним інструментом, щоб зупинити його роботу.
 
-  ## Configuration Options
-  When [textlink="linked" link="Networking"] to an [textlink="air alarm" link="AirAlarms"], air scrubbers gain more functionality.
+  ## Опції конфігурації
+  При [textlink="прив'язці" link="Networking"] до [textlink="повітряної тривоги" link="AirAlarms"] скрубери отримують додаткову функціональність.
 
-  The target gasses for scrubbing can be defined in the "Gas filters" dropdown. Keep in mind this resets if you change [textlink="air alarm" link="AirAlarms"] modes.
+  Цільові гази для очищення визначаються у випадаючому списку "Gas filters". Пам'ятайте, що це скидається при зміні режимів [textlink="повітряної тривоги" link="AirAlarms"].
 
-  Air scrubbers have two "direction" options: Scrubbing and Siphoning.
-  - Scrubbing scrubs gasses as defined in the gas filters.
-  - Siphoning ignores all gas filters, and sucks all gasses out of the atmosphere.
+  Скрубери мають два режими "напрямку": Scrubbing та Siphoning.
+  - Scrubbing очищає гази згідно з фільтрами.
+  - Siphoning ігнорує всі фільтри та висмоктує всі гази з атмосфери.
 
-  Both of these modes are limited by the Rate setting, which defines the rate (in litres) at which the scrubber sucks gasses from its exposed atmosphere.
+  Обидва режими обмежені налаштуванням Rate (швидкість у літрах).
 
-  Air scrubbers also have a "WideNet" setting, which expands the radius of the scrubber's operating range. Normally, the scrubber scrubs the atmosphere on the single tile it's exposed to.
-  In WideNet mode, the scrubber scrubs gas from the 4 tiles surrounding the scrubber, as shown:
+  Скрубери також мають налаштування "WideNet", що розширює радіус роботи. Зазвичай скрубер очищає лише тайл, на якому стоїть.
+  У режимі WideNet скрубер очищає 4 сусідні тайли:
 
   <Box>
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
@@ -37,10 +37,8 @@
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
   </Box>
 
-  This effectively multiplies its total speed, as air scrubbers will now preform their scrubbing work on 5 tiles at once.
+  Це ефективно множить загальну швидкість, оскільки скрубер працює на 5 тайлах одночасно.
 
-  Scrubbers [textlink="linked" link="Networking"] to an [textlink="air alarm" link="AirAlarms"] in auto mode will automatically enable WideNet mode under the [textlink="air alarm's" link="AirAlarms"] "Filtering (Wide)" mode when a high concentration of unwanted gasses is detected in the atmosphere.
-
-  WideNet is extremely useful in quickly scrubbing large amounts of tritium from plasma burn chambers.
+  WideNet надзвичайно корисний для швидкого очищення великих кількостей тритію з камер плазмового спалювання.
 
 </Document>

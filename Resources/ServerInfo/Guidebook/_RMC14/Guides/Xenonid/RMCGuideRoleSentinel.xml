@@ -1,18 +1,18 @@
 <Document>
   #Sentinel, Tier 1
   <GuideEntityEmbed Entity="CMXenoSentinel"/>
-  ##Playing as a Sentinel
-  You are relatively fragile and ranged. Use your spits to disrupt hosts on the frontline and transport hosts.
+  ##Гра за Sentinel
+  Ви відносно крихкий і дальнобійний. Використовуйте свої плювки, щоб порушувати дії хостів на фронті та транспортувати хостів.
 
-  Corner peak around corners and stack scattered spit and slowing spit in the same volley, this lets you spit while minimizing risk to yourself, if any host gets too close then you can paralyzing slash them.
+  Виглядайте з-за кутів і складайте scattered spit та slowing spit в одному залпі — це дозволяє вам плювати, мінімізуючи ризик для себе; якщо хост підійде занадто близько, ви можете paralyzing slash їх.
 
-  You can also capture hosts that are alone by scatter spitting them and slashing them with paralyzing slash, wait for them to drop and then tackle them.
+  Ви також можете захоплювати хостів, що залишилися самотніми, scatter-плюнувши в них та слешучи paralyzing slash; дочекайтеся, поки вони впадуть, потім таклите їх.
 
-  ##Abilities:
-  - [bold]Slowing Spit[/bold]: Glob a spit that slows hosts and drains their chemicals, if they have no armor it will stun them down.
+  ##Здібності:
+  - [bold]Slowing Spit[/bold]: Грудка плювка, що сповільнює хостів і виснажує їхні хімікати; якщо у них немає броні, оглушить.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoSpit"/>
-  - [bold]Scattered Spit[/bold]: Glob spits in a shotgun like fashion that briefly knocks down hosts, very useful for any hosts that are pushing.
+  - [bold]Scattered Spit[/bold]: Грудки плювків у спосіб дробовика, що коротко повалюють хостів — дуже корисно для будь-яких хостів, що натискають.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoScatteredSpit"/>
-  - [bold]Paralyzing Slash[/bold]: Empowers your next attack or tailstab to inject neurotoxin which will make them fall over after a brief period of time.
+  - [bold]Paralyzing Slash[/bold]: Підсилює вашу наступну атаку або tailstab, щоб ввести нейротоксин, через який вони впадуть через короткий час.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCripplingStrike"/>
 </Document>

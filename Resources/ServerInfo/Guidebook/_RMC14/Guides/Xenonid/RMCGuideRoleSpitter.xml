@@ -1,26 +1,26 @@
 <Document>
   #Spitter, Tier 2
   <GuideEntityEmbed Entity="CMXenoSpitter"/>
-  ##Playing as a Spitter
-  The Spitter turns from a harasser to now being able to go on the offensive. Its slower speed is now counteracted by better health and damaging spits along with stronger Corrosive Acid.
+  ##Гра за Spitter
+  Spitter перетворюється з порушника на здатного йти в наступ. Його повільніша швидкість тепер компенсується кращим здоров'ям і шкідливими плювками разом із сильнішою Corrosive Acid.
 
-  Its new acid based abilities allow it to deal consistent damage at the frontline at range.
+  Його нові кислотні здібності дозволяють йому завдавати постійної шкоди на передовій з дистанції.
 
-  Its unique combo is Charged Spit, Acid Spit and then Acid Spray, if used on the same host it will stun them to the ground and upgrade the Charged Spit on them, this can let you walk up and tailstab.
+  Його унікальне комбо — Charged Spit, Acid Spit і потім Acid Spray; якщо використано на одному хості, це оглушить його до землі і покращить Charged Spit на ньому, що дозволить вам підійти і tailstab.
 
-  Stay at the frontline spitting hosts from afar, and in your downtime use your acid to melt flares and weapons.
+  Залишайтеся на передовій, плюючи на хостів здалеку; у вільний час використовуйте свою кислоту, щоб розплавляти сигнальні ракети та зброю.
 
-  Reminder that charge spits extra movement can be used for escaping, as it lasts a while or until your next spit!
+  Нагадування: додатковий рух charge spit можна використати для втечі, оскільки він триває деякий час або до наступного плювка!
 
-  ##Abilities:
-  - [bold]Acid Spit[/bold]: Glob acid to deal damage to any targets.
+  ##Здібності:
+  - [bold]Acid Spit[/bold]: Грудка кислоти, що завдає шкоди будь-яким цілям.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoSpit"/>
-  - [bold]Charge Spit[/bold]: Grants you extra movement speed and armor and empowers your next spit, which will do extra damage but will be shorter in range. Additionally, it will spatter the target in acid.
+  - [bold]Charge Spit[/bold]: Надає вам додаткову швидкість руху і броню та підсилює наступний плювок, який завдасть додаткової шкоди, але матиме коротший радіус. Додатково забризкає ціль кислотою.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoChargeSpit"/>
-  - [bold]Spray Acid[/bold]: Sprays acid along the ground in a line, covering any barricades and dealing damage to hosts.
-  - Will also extinguish any sisters if they are on fire.
-  - If used on a host affected by Charged Spit, will upgrade the spit and stun them.
+  - [bold]Spray Acid[/bold]: Розпиляє кислоту по землі в лінії, покриваючи будь-які барикади і завдаючи шкоди хостам.
+  - Також гасить сестер, якщо вони горять.
+  - Якщо використано на хості, ураженому Charged Spit, покращить плювок і оглушить.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoSprayAcid"/>
-  - [bold]Corrosive Acid[/bold]: Secretes a glob of acid on items to be dissolved.
+  - [bold]Corrosive Acid[/bold]: Секретує грудку кислоти на предметах для розчинення.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCorrosiveAcid"/>
 </Document>

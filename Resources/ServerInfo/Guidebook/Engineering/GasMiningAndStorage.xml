@@ -1,33 +1,32 @@
 ﻿<Document>
-  # Gas Mining and Storage
-  Gasses are often permanently used. Whether they are lost to [textlink="space" link="Spacing"] or used in a burn chamber, the station needs to be able to produce more gas to replace what is lost.
-  It also needs to store this gas in a safe and efficient manner.
+  # Видобуток та зберігання газу
+  Гази часто використовуються безповоротно. Чи то вони втрачаються в [textlink="космос" link="Spacing"], чи використовуються в камері спалювання — станція має мати можливість виробляти більше газу для заміни втраченого.
+  Також потрібно зберігати цей газ безпечно та ефективно.
 
-  ## Gas Miners
-  Gas miners are used to replenish the station's gas supply. They are found in the gas storage tanks in Atmospherics.
+  ## Газові майнери
+  Газові майнери поповнюють запас газу станції. Вони знаходяться в газосховищах Атмосферики.
 
   <Box>
     <GuideEntityEmbed Entity="GasMinerOxygenStation"/>
     <GuideEntityEmbed Entity="GasMinerNitrogenStation"/>
   </Box>
 
-  Gas miners constantly produce room temperature gas and push it into the exposed atmosphere. They require no power to function, and never stop working unless they have reached the defined [bold]cutoff pressure[/bold].
+  Газові майнери постійно виробляють газ кімнатної температури та виштовхують його в атмосферу. Не потребують енергії та ніколи не зупиняються, поки не досягнуть визначеного [bold]порогу відсічки тиску[/bold].
 
-  You can see more information about the gas miners by inspecting them using [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
-  Try inspecting the gas miners presented above.
+  Більше інформації можна побачити, оглянувши їх через [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
 
-  Gas miners come in tiers, with the larger versions having a higher pressure cutoff than the smaller versions.
+  Газові майнери мають рівні — більші версії мають вищий поріг відсічки:
 
   <Box>
-    <GuideEntityEmbed Entity="GasMinerNitrogen" Caption="300 kPa"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStation" Caption="1000 kPa"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 kPa"/>
+    <GuideEntityEmbed Entity="GasMinerNitrogen" Caption="300 кПа"/>
+    <GuideEntityEmbed Entity="GasMinerNitrogenStation" Caption="1000 кПа"/>
+    <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 кПа"/>
   </Box>
 
-  If gas miners are ever unanchored from the station, they can be reanchored using a regular wrench.
+  Якщо газові майнери відкріплені, їх можна повторно закріпити гайковим ключем.
 
-  ## Gas Storage
-  Gas storage tanks are used to store gas produced by the gas miners, and to make it available to other processes. They are found in Atmospherics.
+  ## Газосховища
+  Газосховища зберігають газ від майнерів та роблять його доступним для інших процесів. Знаходяться в Атмосфериці.
 
   <Box>
     <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
@@ -52,15 +51,15 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]An example of a small gas holding tank[italic][/color]
+    [color=#999999][italic]Приклад малого газосховища[italic][/color]
   </Box>
 
-  Various atmos processes insert and remove gasses from the gas storage tanks.
-  For example:
-  - The gas miner provides fresh gasses to the gas storage tanks, if there is room.
-  - The recyclernet injects reclaimed gasses into the gas storage tanks for reuse.
-  - Setups like the distronet and burn chamber remove gasses from the gas storage tanks.
+  Різні атмосферні процеси вставляють та видаляють гази з газосховищ.
+  Наприклад:
+  - Газовий майнер постачає свіжі гази, якщо є місце.
+  - Рециклернет вводить відновлені гази для повторного використання.
+  - Дістронет та камера спалювання забирають гази з газосховищ.
 
-  Gas storage tanks are designed to be able to be measured using a [textlink="Gas Analyzer" link="AtmosTools"].
-  Because the outflow vent is a [textlink="passive vent" link="PassiveVent"], you can use a [textlink="gas analyzer" link="AtmosTools"] to measure the gas content of the [textlink="pump's" link="Pumps"] input, which is drawing from the gas storage tank.
+  Газосховища можна виміряти [textlink="Газовим аналізатором" link="AtmosTools"].
+  Оскільки вихідний вентиль — [textlink="пасивний" link="PassiveVent"], можна використати [textlink="газовий аналізатор" link="AtmosTools"] на вході [textlink="насоса" link="Pumps"], що забирає з газосховища.
 </Document>

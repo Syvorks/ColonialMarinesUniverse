@@ -1,27 +1,27 @@
 ﻿<Document>
-  # Prisoner Rights
-  This is a list of rights prisoners have.
-  - They cannot be denied, with the exception of radio access, except in extreme situations with authorization from the [color=#008000][bold]Commander[/bold][/color]. Prisoners can fax high command to have their rights be given back.
+  # Права в'язнів
+  Це список прав, які мають в'язні.
+  - Їх не можна забрати, за винятком доступу до радіо, окрім екстремальних ситуацій з авторизацією від [color=#008000][bold]Командира[/bold][/color]. В'язні можуть надіслати факс вищому командуванню, щоб повернути свої права.
 
-  ## Common Space
-  All prisoners are permitted to enter the common brig space by default if available.
+  ## Загальний простір
+  Усім в'язням за замовчуванням дозволено заходити до загального простору бригу, якщо такий є.
 
-  This right can be lost in the event of:
-  - Mutiny, riots, emergencies
-  - Jailbreaking
-  - Commiting a crime within the brig.
+  Це право може бути втрачене у разі:
+  - Заколоту, бунту, надзвичайних ситуацій
+  - Втечі з в'язниці
+  - Скоєння злочину в межах бригу.
 
-  ## Protection and Medical Treatment
-  - Prisoners must be kept safe and unharmed.
-  - Treatment should take place within the brig when possible. If not, personnel must escort the prisoner and watch over them while they are treated.
-  - Prisoners must receive medical aid if needed.
-  - Prisoners must be revived unless they have been legally executed.
-  - Self-harm may result in being constrained for the duration of the sentence.
+  ## Захист та медична допомога
+  - В'язнів треба тримати в безпеці та неушкодженими.
+  - Лікування повинно проводитися в межах бригу, якщо можливо. Якщо ні, персонал повинен супроводжувати в'язня та наглядати за ним під час лікування.
+  - В'язні повинні отримати медичну допомогу, якщо потрібно.
+  - В'язнів треба оживляти, якщо їх не було легально страчено.
+  - Самопошкодження може призвести до обмеження на час відбуття вироку.
 
-  ## Access to a Radio
-  Prisoners are authorized a standard headset with the factions common channel.
-  - If any [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] or officer believes that it is being abused, they can revoke this right after a clear warning of the behavior.
-  - Prisoners may appeal this.
-  - Prisoners may have their radio revoked if a mutiny is active until the mutiny is over.
+  ## Доступ до радіо
+  В'язням дозволено стандартну гарнітуру із загальним каналом фракції.
+  - Якщо будь-який [color=#ff000d][bold]MP/Правоохоронець[/bold][/color] чи офіцер вважає, що цим зловживають, він може забрати це право після чіткого попередження про поведінку.
+  - В'язні можуть подати апеляцію щодо цього.
+  - Радіо в'язня може бути забране, якщо активний заколот, доки заколот не закінчиться.
 
 </Document>

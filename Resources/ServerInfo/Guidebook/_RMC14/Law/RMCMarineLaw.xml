@@ -1,35 +1,35 @@
 ﻿<Document>
-  # UCMJ Law
+  # Закон UCMJ
 
-  UCMJ and SOP applies to all GOVFOR and OPFOR personnel as well as those aboard a GOVFOR/OPFOR vessel or base.
+  UCMJ та SOP застосовуються до всього персоналу GOVFOR і OPFOR, а також до тих, хто знаходиться на борту судна чи бази GOVFOR/OPFOR.
 
-  ## Basics
+  ## Основи
 
-  - Command and [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] are required to both enforce the law and abide by it.
-  - [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] and Command may, at their discretion, ignore Minor Crimes unless they are ordered to enforce one by a higher position.
-  - [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] breaking the law in any capacity cannot be ignored.
+  - Командування та [color=#ff000d][bold]MP/Правоохоронці[/bold][/color] зобов'язані як забезпечувати дотримання закону, так і дотримуватися його.
+  - [color=#ff000d][bold]MP/Правоохоронці[/bold][/color] та Командування можуть на власний розсуд ігнорувати дрібні злочини, якщо їх не наказано вищою посадою забезпечити їх дотримання.
+  - [color=#ff000d][bold]MP/Правоохоронців[/bold][/color], що порушують закон у будь-якій якості, не можна ігнорувати.
 
-  Should [color=#ff000d][bold]MP[/bold][/color]s disagree on cases, GOVFOR/OPFOR Law rank structure must be followed.
+  Якщо [color=#ff000d][bold]MP[/bold][/color] не згодні в справах, треба дотримуватися рангової структури закону GOVFOR/OPFOR.
 
-  - [color=#00CBFE][bold]High Command (Usually Faxed)[/bold][/color] > [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] > Deputized [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] > [color=#8B0000][bold]Faction Command[/bold][/color]
+  - [color=#00CBFE][bold]Вище командування (Зазвичай через факс)[/bold][/color] > [color=#ff000d][bold]MP/Правоохоронці[/bold][/color] > Депутовані [color=#ff000d][bold]MP/Правоохоронці[/bold][/color] > [color=#8B0000][bold]Командування фракції[/bold][/color]
 
-  ## Law and Related
-  - [textlink="Commander Succession" link="RMCCommandChain"]
-  - [textlink="Ranks" link="RMCMarineLawRanks"]
-  - [textlink="Definitions" link="RMCMarineLawDefinitions"]
-  - [textlink="Procedures" link="RMCMarineLawProcedures"]
-  - [textlink="Crimes" link="RMCMarineLawCrimes"]
-  - [textlink="Prisoner Rights" link="RMCMarineLawPrisonerRights"]
-  - [textlink="Prisoner Rights, Appeals" link="RMCMarineLawAppeals"]
-  - [textlink="Special Provisions" link="RMCMarineLawSpecialProvisions"]
-  - [textlink="Synthetics" link="RMCMarineLawSynthetics"]
-  - [textlink="Commanding Officer Provisions and Regulations" link="RMCMarineLawCOProvisions"]
+  ## Закон та пов'язане
+  - [textlink="Спадкоємство Командира" link="RMCCommandChain"]
+  - [textlink="Ранги" link="RMCMarineLawRanks"]
+  - [textlink="Визначення" link="RMCMarineLawDefinitions"]
+  - [textlink="Процедури" link="RMCMarineLawProcedures"]
+  - [textlink="Злочини" link="RMCMarineLawCrimes"]
+  - [textlink="Права в'язнів" link="RMCMarineLawPrisonerRights"]
+  - [textlink="Права в'язнів — Апеляції" link="RMCMarineLawAppeals"]
+  - [textlink="Спеціальні положення" link="RMCMarineLawSpecialProvisions"]
+  - [textlink="Синтетики" link="RMCMarineLawSynthetics"]
+  - [textlink="Положення та правила Командуючого офіцера" link="RMCMarineLawCOProvisions"]
 
-  ## Standard Operating Procedure
+  ## Стандартні Операційні Процедури
 
-  These are sets of regulations and polices of GOVFOR/OPFOR.
-  Failure to follow the Standard Operating Procedure may result in [bold]Failure to Follow Procedure[/bold] charges.
+  Це набори правил та політик GOVFOR/OPFOR.
+  Недотримання Стандартних Операційних Процедур може призвести до звинувачень у [bold]Невиконанні Процедур[/bold].
 
-  - [textlink="Standard Operating Procedure" link="RMCMarineSOP"]
+  - [textlink="Стандартні Операційні Процедури" link="RMCMarineSOP"]
 
 </Document>

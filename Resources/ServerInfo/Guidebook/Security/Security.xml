@@ -1,39 +1,39 @@
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+# Безпека
+Забезпечення безпеки станції та екіпажу — пріоритет номер один для [color=#cb0000]Безпеки[/color]. Вони готові до будь-якої ситуації, і [color=#cb0000]Безпека[/color] завжди напоготові для підтримки порядку та контролю натовпу.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+Вони протистоять [textlink="Агентам Синдикату" link="Traitors"], [textlink="Ядерним оперативникам" link="NuclearOperatives"], [textlink="Зомбі" link="Zombies"] та неслухняному персоналу.
 
-## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, and the Detective. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+## Персонал
+Персонал [color=#cb0000]Безпеки[/color] складається з Курсантів безпеки, Офіцерів безпеки та Детектива. [color=#cb0000]Безпекою[/color] керують Начальник тюрми (Warden) та Керівник безпеки.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
-    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Офіцер"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Детектив"/>
     <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
     <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
   </Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands. Cuffs will also shove the person down if your [color=red]harm mode[/color] is active during uncuff.
+## Спорядження
+Спочатку маємо нелетальне — крок вище від простого прохання співпрацювати. І шокова дубинка, і дизейблер здатні обмежити рух нападника, тоді як наручники можна застосувати, щоб позбавити злочинця вільного руху та доступу до рук. Наручники також повалять людину, якщо ваш [color=red]режим шкоди[/color] активний під час зняття наручників.
   <Box>
     <GuideEntityEmbed Entity="Stunbaton"/>
     <GuideEntityEmbed Entity="Handcuffs"/>
    <GuideEntityEmbed Entity="WeaponDisabler"/>
   </Box>
 
-## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
+## Флешери
+[color=#a4885c]Флешери[/color] — ефективний інструмент для розгону натовпу та затримання особливо ухильних цілей, з великою зоною ураження, що засліплює всіх без захисту.
+Варто зазначити, що флешери можна використовувати як на великій площі (гаряча клавіша [color=yellow]Z[/color]), так і при атаці когось з активним [color=red]режимом шкоди[/color]. Важливо: локалізовані спалахи тривають у [color=yellow]2,5[/color] рази довше, ніж площинні.
+[color=#cb0000]Безпека[/color] та [color=#a4885c]деякі[/color] інші члени персоналу мають захист очей від світлошумових гранат та флешерів.
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
     <GuideEntityEmbed Entity="GrenadeFlashBang"/>
   </Box>
 
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substantial fire against any who would stand against the station.
+## Летальне
+Якщо ситуація вимагає, [color=#cb0000]Безпека[/color] має доступ до лазерних гвинтівок, дробовиків, пістолетів та автоматичних гвинтівок, здатних вести потужний вогонь проти будь-кого, хто виступить проти станції.
   <Box>
     <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
     <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>

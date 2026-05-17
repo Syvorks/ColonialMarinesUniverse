@@ -1,12 +1,12 @@
 ﻿<Document>
-  # Criminal Code
+  # Кримінальний кодекс
 
-The Criminal Code outlines offenses and punishments under the Uniform Code of Military Justice. Below you will find a list of crimes divided by severity.
+Кримінальний кодекс перелічує правопорушення та покарання згідно з Уніфікованим кодексом військової юстиції. Нижче ви знайдете список злочинів, поділених за серйозністю.
 
- ## Categories
-  - [textlink="Optional Crimes" link="AU14UCMJOptionalCrimes"]
-  - [textlink="Minor Crimes" link="AU14UCMJMinorCrimes"]
-  - [textlink="Major Crimes" link="AU14UCMJMajorCrimes"]
-  - [textlink="Capital Crimes" link="AU14UCMJCapitalCrimes"]
-  - [textlink="Precautionary Charges" link="AU14UCMJPrecautionaryCharges"]
+ ## Категорії
+  - [textlink="Опціональні злочини" link="AU14UCMJOptionalCrimes"]
+  - [textlink="Дрібні злочини" link="AU14UCMJMinorCrimes"]
+  - [textlink="Серйозні злочини" link="AU14UCMJMajorCrimes"]
+  - [textlink="Капітальні злочини" link="AU14UCMJCapitalCrimes"]
+  - [textlink="Запобіжні звинувачення" link="AU14UCMJPrecautionaryCharges"]
 </Document>

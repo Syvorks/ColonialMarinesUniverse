@@ -1,9 +1,9 @@
 ﻿<Document>
-  # Gas Manipulation
-  Atmos has a wide variety of tools and equipment at their disposal for the manipulation of gasses throughout the station.
+  # Маніпулювання газом
+  Атмосферика має широкий спектр інструментів та обладнання для маніпулювання газами по всій станції.
 
-  [bold]Warning: unanchoring (unwrenching) most devices containing gas will [color=red]leak gas[/color] into the atmosphere.[/bold]
-  You can safely unanchor [textlink="canisters" link="GasCanisters"], [textlink="portable scrubbers" link="PortableScrubber"], [textlink="condensers" link="GasCondensing"], and [textlink="thermomachines" link="Thermomachines"].
+  [bold]Увага: відкріплення (відкручування) більшості пристроїв з газом [color=red]спричинить витік газу[/color] в атмосферу.[/bold]
+  Безпечно відкріплювати можна [textlink="балони" link="GasCanisters"], [textlink="портативні скрубери" link="PortableScrubber"], [textlink="конденсатори" link="GasCondensing"] та [textlink="термомашини" link="Thermomachines"].
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -13,10 +13,10 @@
     <GuideEntityEmbed Entity="GasPipeFourway" Caption=""/>
   </Box>
   <Box>
-    ## Pipes
+    ## Труби
   </Box>
   <Box>
-    [color=#999999][italic]Distributing gasses from one place to another[italic][/color]
+    [color=#999999][italic]Розподіл газів з одного місця в інше[italic][/color]
   </Box>
 
   <Box>
@@ -24,10 +24,10 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
   <Box>
-    ## Pumps
+    ## Насоси
   </Box>
   <Box>
-    [color=#999999][italic]Forcing the movement of gasses from one place to another[italic][/color]
+    [color=#999999][italic]Примусове переміщення газів[italic][/color]
   </Box>
 
   <Box>
@@ -38,10 +38,10 @@
     <GuideEntityEmbed Entity="PortableScrubber" Caption=""/>
   </Box>
   <Box>
-    ## Atmosphere Input and Output
+    ## Вхід та вихід атмосфери
   </Box>
   <Box>
-    [color=#999999][italic]Inserting and extracting gasses from a present (or non-present) atmosphere[italic][/color]
+    [color=#999999][italic]Вставка та витягування газів з атмосфери[italic][/color]
   </Box>
 
   <Box>
@@ -52,10 +52,10 @@
     <GuideEntityEmbed Entity="GasPressureRegulator" Caption=""/>
   </Box>
   <Box>
-    ## Valves
+    ## Клапани
   </Box>
   <Box>
-    [color=#999999][italic]Controlling the flow of gas through pipes[italic][/color]
+    [color=#999999][italic]Контроль потоку газу через труби[italic][/color]
   </Box>
 
   <Box>
@@ -63,10 +63,10 @@
     <GuideEntityEmbed Entity="GasFilter" Caption=""/>
   </Box>
   <Box>
-    ## Mixing and Filtering
+    ## Міксування та фільтрація
   </Box>
   <Box>
-    [color=#999999][italic]Manipulating the composition of gas[italic][/color]
+    [color=#999999][italic]Маніпулювання складом газу[italic][/color]
   </Box>
 
   <Box>
@@ -78,10 +78,10 @@
     <GuideEntityEmbed Entity="GasPort" Caption=""/>
   </Box>
   <Box>
-    ## Gas Canisters
+    ## Газові балони
   </Box>
   <Box>
-    [color=#999999][italic]Storing and transporting gas for easy use by the crew[italic][/color]
+    [color=#999999][italic]Зберігання та транспортування газу[italic][/color]
   </Box>
 
   <Box>
@@ -91,19 +91,19 @@
     <GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
   </Box>
   <Box>
-    ## Thermomachines and Radiators
+    ## Термомашини та радіатори
   </Box>
   <Box>
-    [color=#999999][italic]Manipulating the temperature of gasses in a pipenet or atmosphere[italic][/color]
+    [color=#999999][italic]Маніпулювання температурою газів[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="BaseGasCondenser" Caption=""/>
   </Box>
   <Box>
-    ## Gas Condensing
+    ## Конденсація газу
   </Box>
   <Box>
-    [color=#999999][italic]Condensing gasses for further use[italic][/color]
+    [color=#999999][italic]Конденсація газів для подальшого використання[italic][/color]
   </Box>
 </Document>

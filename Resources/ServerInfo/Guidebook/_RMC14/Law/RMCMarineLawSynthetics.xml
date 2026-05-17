@@ -1,16 +1,16 @@
 ﻿<Document>
-  # Synthetics
-  Synthetics must be given a chance to stand down, however must be repaired to serve its sentence if lethal force is used.
+  # Синтетики
+  Синтетикам має бути надано шанс зупинитися, однак вони мають бути відремонтовані для відбуття покарання, якщо було застосовано летальну силу.
 
-  ## Faction Synthetics
-  - Synthetics are programmed against being able to break the UCMJ.
-  - These synthetic units are also granted the same rights and privileges of regular faction personnel.
-  - Synthetics not directly part of your faction do not have the above immunities.
+  ## Синтетики фракції
+  - Синтетики запрограмовані на неможливість порушувати UCMJ.
+  - Цим синтетичним юнітам також надаються ті самі права та привілеї, що й звичайному персоналу фракції.
+  - Синтетики, що не належать безпосередньо до вашої фракції, не мають вищезгаданих імунітетів.
 
-  ## Other Synthetics
-  - They may have their arrest ordered by the [color=#008000][bold]Commander[/bold][/color].
-  - Any of these synthetics that act against your faction such as taking valuable supplies without request, or destroying property and defenses can be declared rogue by the [color=#008000][bold]Commander[/bold][/color].
-  - When declared rogue, the synthetic loses any protections and lethal force may be used freely.
+  ## Інші синтетики
+  - Їхній арешт може бути наказаний [color=#008000][bold]Командиром[/bold][/color].
+  - Будь-яких з цих синтетиків, які діють проти вашої фракції — наприклад, забирають цінні припаси без запиту або знищують власність та оборону — можна оголосити "rogue" (відступниками) [color=#008000][bold]Командиром[/bold][/color].
+  - Коли оголошено rogue, синтетик втрачає будь-який захист, і летальну силу можна застосовувати вільно.
 
 
 </Document>

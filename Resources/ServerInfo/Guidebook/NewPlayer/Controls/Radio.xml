@@ -1,64 +1,64 @@
 <Document>
-# Speech and Text Channels
-Talking is a key part of Space Station 14. You can press [keybind="FocusChatInputWindow"/] to jump to the text box.
+# Мова та текстові канали
+Спілкування — ключова частина Space Station 14. Натисніть [keybind="FocusChatInputWindow"/], щоб перейти до текстового поля.
 
-The word next to the text box is the [color=#a4885c]text channel[/color] you're about to send the message to, or rather how you're about to say what you've typed.
+Слово поруч з текстовим полем — це [color=#a4885c]текстовий канал[/color], у який ви збираєтеся надіслати повідомлення, або, точніше, як ви збираєтеся сказати те, що набрали.
 
-Local is normal speech at normal volume.
+Local — це звичайна мова на нормальній гучності.
 
-Whisper can only be heard when nearby somebody. You automatically whisper into your radio to send messages over it.
+Whisper (шепіт) можна почути лише перебуваючи поруч з кимось. Ви автоматично шепочете в радіо, щоб надсилати повідомлення через нього.
 
-Emotes are gestures that you make. Can be recieved by anyone who is not blinded. You will often see mimes do many emotes.
+Emotes (емоції) — це жести, які ви робите. Їх може побачити будь-хто, хто не сліпий. Ви часто бачитимете, як міми використовують багато емоцій.
 
-Whisper messages can be sent by starting your message with [color=#a4885c][keybind="FocusWhisperChatWindow"/][/color] and Emotes can be sent by starting your message with ([color=#a4885c]@[/color]).
-You can also cycle through all of these text channels by pressing [keybind="CycleChatChannelForward"/].
+Повідомлення шепотом можна надіслати, почавши повідомлення з [color=#a4885c][keybind="FocusWhisperChatWindow"/][/color], а Емоції — почавши повідомлення з ([color=#a4885c]@[/color]).
+Ви також можете перемикатися між усіма текстовими каналами натисканням [keybind="CycleChatChannelForward"/].
 
-People may not be able to make out all of what you're saying if you're standing too far away from them. This is especially important if you're whispering.
+Люди можуть не розібрати все, що ви говорите, якщо стоять занадто далеко від вас. Це особливо важливо, якщо ви шепочете.
 
-## Radio
+## Радіо
 
-Your radio allows you to communicate across the entire station and to your specific [color=#a4885c]department[/color].
+Ваше радіо дозволяє спілкуватися по всій станції та з вашим конкретним [color=#a4885c]відділом[/color].
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetGrey"/>
 </Box>
 
-To send a [color=#a4885c]station-wide[/color] message over the radio preface, use the [color=#32cd32]Common[/color] channel by beginning your text with [color=#32cd32]semi-colon (;)[/color].
-People standing right next to you might catch bits of your radio message, even if they don't have the access to the relevant radio channel. Watch for eavesdroppers.
+Щоб надіслати [color=#a4885c]загальностанційне[/color] повідомлення по радіо, використовуйте [color=#32cd32]Загальний[/color] канал, починаючи текст з [color=#32cd32]крапки з комою (;)[/color].
+Люди, що стоять прямо поруч з вами, можуть вловити фрагменти вашого радіоповідомлення, навіть якщо не мають доступу до відповідного радіоканалу. Стережіться підслуховувачів.
 
-## Departmental Radio
+## Відомче радіо
 
-You are able to send messages over your departmental radio channels using [color=#32cd32]colon (:)[/color] followed by the department letter as long as you're wearing a headset with your department's encryption key.
+Ви можете надсилати повідомлення через відомчі радіоканали, використовуючи [color=#32cd32]двокрапку (:)[/color] з наступною літерою відділу, якщо ви носите гарнітуру з шифрувальним ключем вашого відділу.
 
-Examine your headset to see the department channels available to you.
+Огляньте свою гарнітуру, щоб побачити доступні вам канали відділів.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetEngineering"/>
 </Box>
 
-Examining an unmodified engineering headset would show you the prefixes for the [color=#32cd32]Common[/color] and [color=#f37746]Engineering[/color] channels.
+Огляд немодифікованої інженерної гарнітури покаже вам префікси для каналів [color=#32cd32]Загальний[/color] та [color=#f37746]Інженерія[/color].
 
-It is also possible to use [color=#a4885c]:h[/color]. This hotkey will automatically default to your department radio channel.
-For example, if you're a Station Engineer then [color=#a4885c]:h[/color] will default to [color=#f37746]:e[/color].
+Також можна використовувати [color=#a4885c]:h[/color]. Ця гаряча клавіша автоматично переключиться на ваш відомчий радіоканал.
+Наприклад, якщо ви Інженер станції, то [color=#a4885c]:h[/color] за замовчуванням буде [color=#f37746]:e[/color].
 
-## Encryption Keys
-[color=#a4885c]Encryption keys[/color] give you access to their respective channel.
+## Шифрувальні ключі
+[color=#a4885c]Шифрувальні ключі[/color] дають вам доступ до відповідного каналу.
   
-Examining our engineering headset from earlier shows us [color=#32cd32]Common[/color] and [color=#f37746]Engineering[/color] because an engineer's headset starts with those [color=#a4885c]encryption keys[/color].
+Огляд нашої інженерної гарнітури раніше показує [color=#32cd32]Загальний[/color] та [color=#f37746]Інженерія[/color], тому що інженерна гарнітура починає з цими [color=#a4885c]шифрувальними ключами[/color].
   
 <Box>
   <GuideEntityEmbed Entity="EncryptionKeyCommon"/>
   <GuideEntityEmbed Entity="EncryptionKeyEngineering"/>
 </Box>
   
-You can take out encryption keys by using a [color=#a4885c]screwdriver[/color] on a headset. New encryption keys are put into headsets by clicking on one with an encryption key in your hand.
+Ви можете витягти шифрувальні ключі, використавши [color=#a4885c]викрутку[/color] на гарнітурі. Нові шифрувальні ключі вставляються в гарнітуру кліком на неї з ключем у руці.
 
-All command members have extras of their relevant encryption key, but you can also request one at the HoP's office when you're getting your job changed.
+Усі члени командування мають запасні відповідні шифрувальні ключі, але ви також можете попросити один у кабінеті HoP при зміні роботи.
 
-## OOC Channels
-OOC (out-of-character) channels exist outside of the game world. They are LOOC, OOC and Dead chat.
+## OOC канали
+OOC (out-of-character, поза грою) канали існують поза ігровим світом. Це LOOC, OOC та Dead chat (чат мертвих).
 
-LOOC is on during the rounds, OOC is typically off until the round ends and you can only see and talk in Dead chat when you are, well, dead.
+LOOC увімкнений під час раундів, OOC зазвичай вимкнений до завершення раунду, а бачити та писати в Dead chat можна лише коли ви, власне, мертві.
 
-Do not discuss the current round in the Discord or in OOC if it's on during the round.
+Не обговорюйте поточний раунд у Discord або в OOC, якщо він увімкнений під час раунду.
 </Document>

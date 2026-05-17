@@ -1,19 +1,19 @@
 <Document>
-  #Parasite
-  <GuideEntityEmbed Entity="CMXenoParasite" Caption="Child / Parasite"/>
-  ##How to play as a Parasite
-  Parasites are unique from regular Xenonid gameplay, they are expendable and help infect captured hosts, or can attempt to hide under objects to catch unsuspecting victims.
+  #Parasite (Дитина / Паразит)
+  <GuideEntityEmbed Entity="CMXenoParasite" Caption="Дитина / Паразит"/>
+  ##Як грати за Паразита
+  Паразити унікальні від звичайного геймплея Ксенонідів — вони витратні і допомагають заразити захоплених хостів, або можуть намагатися сховатися під об'єктами, щоб зловити нічого не підозрюючих жертв.
 
-  To become a parasite you can use the Find Parasite ability as a ghost or click on an egg. If you have recently died you will have to wait to become one.
+  Щоб стати паразитом, ви можете використати здібність Find Parasite як примара або клікнути на яйце. Якщо ви нещодавно померли, доведеться почекати, щоб стати ним.
 
-  Once you have become a parasite, you can walk to the front and wait for your sisters to drag a cap. To infect somebody on the ground, you must use [color=yellow][bold][keybind="Use"][/bold][/color] on them and wait for the action to complete.
+  Як тільки ви стали паразитом, ви можете йти на фронт і чекати, поки сестри притягнуть кеп. Щоб заразити когось на землі, потрібно використати [color=yellow][bold][keybind="Use"][/bold][/color] на ньому і дочекатися завершення дії.
 
-  Every successful infection you get will let you become a parasite again without the need to wait. You can also infect standing targets by leaping onto them within a one tile range. If you leap from far away it won't infect them, only briefly stunning them and leaving you exposed.
+  Кожне успішне зараження дозволить вам знову стати паразитом без необхідності чекати. Ви також можете заразити стоячі цілі, стрибнувши на них у межах одного тайла. Якщо стрибнути здалеку — це не заразить, лише коротко оглушить і залишить вас вразливим.
 
-  ##Non-Player Parasites
-  Drones, carriers and hivelords can all pick up uncontrolled parasites and use them to infect captures in the same way by using [color=yellow][bold][keybind="Use"][/bold][/color] on them while they are held.
+  ##Паразити, не контрольовані гравцем
+  Дрони, керієри та хайвлорди можуть підбирати неконтрольованих паразитів і використовувати їх для зараження полонених таким же чином, використовуючи [color=yellow][bold][keybind="Use"][/bold][/color] на них під час тримання.
 
-  - If your target is nested on a wall then you may need to walk closer to it with a parasite in hand and use [color=yellow][bold][keybind="UIRightClick"/][/bold][/color] to bring up the context menu, then [color=yellow][bold][keybind="Use"][/bold][/color] the target.
+  - Якщо ваша ціль угнєздована на стіні, можливо, потрібно підійти ближче з паразитом у руці і використати [color=yellow][bold][keybind="UIRightClick"/][/bold][/color], щоб викликати контекстне меню, потім [color=yellow][bold][keybind="Use"][/bold][/color] ціль.
 
-  Uncontrolled parasites will die if not held by a sister and left for 30 seconds. Make sure to keep them in safe spots such as on a host or in an egg morpher. You can also put them inside empty eggs to refill them or fill resin holes as a trap.
+  Неконтрольовані паразити помруть, якщо їх не тримає сестра і залишити на 30 секунд. Тримайте їх у безпечних місцях, як-от на хості або в egg morpher. Ви також можете покласти їх у порожні яйця, щоб поповнити їх, або заповнити resin holes як пастку.
 </Document>

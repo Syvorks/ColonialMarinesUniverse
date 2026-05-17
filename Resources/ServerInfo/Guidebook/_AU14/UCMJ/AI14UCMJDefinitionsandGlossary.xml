@@ -1,62 +1,62 @@
 ﻿<Document>
-  # Definitions and Glossary
+  # Визначення та глосарій
 
 
- ## Prisoner of War (POW)
-POWs are defined as anyone who is a members of a nation's armed forces or in a militia with all of these four distinctions:
-  - Command structure.
-  - Distinctive signs or uniform.
-  - Carrying arms openly.
-  - Following laws of war.
+ ## Військовополонений (POW)
+POW визначаються як будь-хто, хто є членом збройних сил нації або в ополченні, з усіма цими чотирма ознаками:
+  - Командна структура.
+  - Відмінні знаки або уніформа.
+  - Відкрите носіння зброї.
+  - Дотримання законів війни.
 
- ## Commander
-The leader of the faction, interchangeable with the Acting Commander. 
+ ## Командир
+Лідер фракції, взаємозамінний з В.о. командира. 
 
- ## Acting Commander
-The person acting in the place of the commander.
+ ## В.о. командира
+Особа, що діє замість командира.
 
- ## Command Staff
-Personnel holding senior leadership positions responsible for planning, oversight, and command of operations, including the Commander and subordinate officers.
+ ## Командний склад
+Персонал, що займає старші керівні посади, відповідальний за планування, нагляд та командування операціями, включно з Командиром та підлеглими офіцерами.
 
- ## Delegated Command
-The temporary transfer of authority from a superior officer to a subordinate.
+ ## Делеговане командування
+Тимчасова передача повноважень від старшого офіцера підлеглому.
 
- ## Area of Operations (AO)
-The designated zone in which operations are being conducted. This is considered anywhere outside of your faction's ship/installation. 
+ ## Зона операцій (AO)
+Призначена зона, в якій проводяться операції. Вважається будь-чим поза межами корабля/установки вашої фракції. 
 
- ## Hostile Personnel
-Any individual or group demonstrating intent or capability to inflict harm on personnel, civilians or objectives.
+ ## Ворожий персонал
+Будь-яка особа чи група, що демонструє намір або здатність завдати шкоди персоналу, цивільним чи цілям.
 
- ## Non-Combatant
-Individuals not actively participating in hostilities, generally civilians.
+ ## Некомбатанти
+Особи, які активно не беруть участь у бойових діях, зазвичай цивільні.
 
- ## Protected Persons
-Civilians, medical personnel, surrendering combatants and any individual otherwise safeguarded under the laws of war.
+ ## Захищені особи
+Цивільні, медичний персонал, бійці, що здаються в полон, та будь-яка особа, інакше захищена законами війни.
 
- ## Lethal Force
-Force intended or reasonably expected to cause death or serious bodily harm.
+ ## Летальна сила
+Сила, призначена або обґрунтовано очікувана для спричинення смерті чи серйозної тілесної шкоди.
 
- ## Non-Lethal Force
-Force intended to incapacitate or compel compliance without causing death. Less-than-lethal weapons that still deal minor amounts of damage such as baton rounds are counted as Non-Lethal force.
+ ## Нелетальна сила
+Сила, призначена для виведення з ладу або примушення до підкорення без спричинення смерті. Менш-ніж-летальна зброя, що все ж завдає невеликих пошкоджень, як-от резинові кулі, рахується як Нелетальна сила.
 
- ## Secure Area
-Any location defended by your faction that has at least one full line of fortifications or five or more posted guards.
+ ## Захищена зона
+Будь-яке місце, що захищене вашою фракцією, що має щонайменше одну повну лінію укріплень або п'ять чи більше виставлених вартових.
 
- ## Personnel
-All members of the applicable faction.
+ ## Персонал
+Усі члени відповідної фракції.
 
- ## Auxiliary Staff/Support Crew
-Non combat roles that provide logistical, police, medical, or engineering support.
+ ## Допоміжний персонал/Підтримка
+Небойові ролі, що надають логістичну, поліцейську, медичну чи інженерну підтримку.
 
- ## Flight Crew
-Pilots and Dropship Crew Chiefs.
+ ## Льотний екіпаж
+Пілоти та командири екіпажу десантного корабля.
 
- ## Third-Party Personnel
-Individuals or groups not affiliated with the primary factions (OPFOR/GOVFOR/CLF) involved in the operation.
+ ## Сторонній персонал
+Особи чи групи, не пов'язані з основними фракціями (OPFOR/GOVFOR/CLF), залученими до операції.
 
- ## Combat Information Center (CIC)
-The command and control hub of a ship or installation.
+ ## Командно-інформаційний центр (CIC)
+Центр командування та контролю корабля чи установки.
 
- ## Special Weapon
-Any weapon not issued to general members of the faction, usually acquired from the special weapons vendor or requisitions. 
+ ## Спеціальна зброя
+Будь-яка зброя, не видана загальним членам фракції, зазвичай отримується у вендорі спеціальної зброї або в реквізиції. 
 </Document>

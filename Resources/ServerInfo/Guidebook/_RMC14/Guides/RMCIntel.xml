@@ -1,28 +1,28 @@
 <Document>
-  # Intel
+  # Розвіддані (Intel)
 
   <Box>
-    "The six categories of intelligence operations are: planning and direction; collection; processing and exploitation; analysis and production; dissemination and integration; and evaluation and feedback."
-    \n- U.S. mil, JP 2-0
+    "Шість категорій розвідувальних операцій: планування та керівництво; збір; обробка та використання; аналіз і виробництво; розповсюдження та інтеграція; оцінка та зворотний зв'язок."
+    \n- Збройні сили США, JP 2-0
   </Box>
 
-  ## Sources
+  ## Джерела
 
-  - Intelligence can be gathered by anyone, though some sources require specialized training.
+  - Розвіддані може збирати будь-хто, хоча деякі джерела потребують спеціальної підготовки.
 
-  [color=#A88B5E][bold]Uplink[/bold][/color]
+  [color=#A88B5E][bold]Аплінк[/bold][/color]
 
-  - Restoring [textlink="power" link="RMCGuideRoleCombatTechnician"] and [textlink="communications" link="RMCGuideCommunicationsTowers"] for the first time grants intel points.
+  - Відновлення [textlink="живлення" link="RMCGuideRoleCombatTechnician"] та [textlink="зв'язку" link="RMCGuideCommunicationsTowers"] вперше дає очки розвідки.
 
-  [color=#A88B5E][bold]Bodies[/bold][/color]
+  [color=#A88B5E][bold]Тіла[/bold][/color]
 
   <Box>
     <GuideEntityEmbed Entity="CMGuidebookRoleSurvivor" />
     <GuideEntityEmbed Entity="RMCGuidebookCorpseColonistBurst" />
   </Box>
 
-  - Survivors award points the first time they arrive on the warship.
-  - Dead colonists must be stored in the morgue.
+  - Вижилі дають очки вперше, коли прибувають на бойовий корабель.
+  - Мертвих колоністів треба зберігати в моргу.
 
   <Box>
     <GuideEntityEmbed Entity="CMXenoDefender" />
@@ -31,11 +31,11 @@
     <GuideEntityEmbed Entity="CMXenoQueen" />
   </Box>
 
-  - Xenonidss must be stored in the research containment room on the second floor of medical.
-  \n\t- The bigger they are, the more points they award.
-  \n\t- Note that immature ones (Parasites, Larvas and Lesser Drones) do not award any points.
+  - Ксеноніди повинні зберігатися в дослідницькій кімнаті ізоляції на другому поверсі медичного відділу.
+  \n\t- Чим більший — тим більше очок дає.
+  \n\t- Зверніть увагу, що недозрілі (Паразити, Личинки та Менші Дрони) не дають очок.
 
-  [color=#A88B5E][bold]Documents and devices[/bold][/color]
+  [color=#A88B5E][bold]Документи та пристрої[/bold][/color]
 
   <Box>
     <GuideEntityEmbed Entity="RMCIntelPaperScrap" />
@@ -44,19 +44,19 @@
     <GuideEntityEmbed Entity="RMCIntelTechnicalManual" />
   </Box>
 
-  1. These documents must be read by trained personnel.
-  \n\t\t\t- More complex documents require that you have read easier ones before.
-  \n\t\t\t- scrap -> report -> folder -> manual
-  \n2. The gained knowledge must then be entered into the intel computer found in the intel room.
-  \n3. The read document must then be stored in the intel room.
+  1. Ці документи повинні читати навчений персонал.
+  \n\t\t\t- Складніші документи вимагають, щоб ви прочитали простіші раніше.
+  \n\t\t\t- обривок -> звіт -> папка -> мануал
+  \n2. Отримане знання потім має бути введене в комп'ютер розвідки в кімнаті розвідки.
+  \n3. Прочитаний документ потім має бути збережений у кімнаті розвідки.
 
   <Box>
     <GuideEntityEmbed Entity="RMCIntelRetrieveHealthAnalyzer" />
   </Box>
 
-  - These devices must be stored in the intel room.
+  - Ці пристрої повинні зберігатися в кімнаті розвідки.
 
-  ## Working in intelligence
+  ## Робота в розвідці
 
   <Box>
     <GuideEntityEmbed Entity="RMCGuidebookRoleASO" />
@@ -64,8 +64,8 @@
     <GuideEntityEmbed Entity="CMGuidebookRoleYou" />
   </Box>
 
-  You have chosen, or been chosen, to work in intelligence.
-  Your primary role will be to collect and process intel from the sources mentioned above.
+  Ви обрали або були обрані для роботи в розвідці.
+  Ваша основна роль — збирати та обробляти розвіддані з джерел, згаданих вище.
 
   <Box>
     <GuideEntityEmbed Entity="RMCPouchDocument" />
@@ -74,37 +74,37 @@
     <GuideEntityEmbed Entity="CMEncryptionKeyIntel" />
   </Box>
 
-  To aid you in this you have been supplied with the tools listed above.\nNote that [textlink="requisitions" link="RMCRequisitions"] also has these in stock.
+  Щоб допомогти в цьому, ви забезпечені інструментами, переліченими вище.\nЗверніть увагу, що [textlink="реквізиція" link="RMCRequisitions"] також має їх в наявності.
 
   <Box>
     <GuideEntityEmbed Entity="RMCVisorNightVision" />
     <GuideEntityEmbed Entity="RMCKitIntel" />
   </Box>
 
-  There are however two "unique" things that requisitions can't help you with.
-  One is the rechargeable night vision optic that allow you to see in the dark for a limited amount of time.
-  The other is the field intelligence support kit that includes the tools listed above plus an intelligence pamphlet that teaches the reader how to use the intel computer.
+  Однак є дві "унікальні" речі, з якими реквізиція не може допомогти.
+  Одна — перезаряджуваний оптичний прилад нічного бачення, що дозволяє бачити в темряві обмежений час.
+  Інша — польовий кіт підтримки розвідки, що включає інструменти, перелічені вище, плюс розвідувальний памфлет, який вчить читача користуватися комп'ютером розвідки.
 
   <Box>
     <GuideEntityEmbed Entity="RMCComputerIntel" />
     <GuideEntityEmbed Entity="RMCTechTreeConsole" />
   </Box>
 
-  After getting geared up you should make yourself familiar with the devices in the intel room and CIC.
-  The intel computer is used to write down what you have read in documents and the tech tree console allows you to spend your collected intelligence.
+  Після отримання спорядження вам слід ознайомитися з пристроями в кімнаті розвідки та CIC.
+  Комп'ютер розвідки використовується, щоб записати, що ви прочитали в документах, а консоль дерева технологій дозволяє витрачати зібрані розвіддані.
 
-  [color=#A88B5E][bold]Deployment[/bold][/color]
+  [color=#A88B5E][bold]Розгортання[/bold][/color]
 
-  Or rather: "[italic]Thanks for all that but how will it actually go down?[/italic]"
+  Або радше: "[italic]Дякую за все це, але як це насправді буде?[/italic]"
 
-  - The ASO will sit in the intel lab to read and sort all incoming documents, and submit the gained knowledge into the intel computer.
-  - The CMO will drag dead xenonids into the research lab.
-  - The Pilots and DCCs will install a fulton recovery system, normally on the Normandy, but sometimes also on the Alamo.
-  - The IOs will form a squad, sometimes including a couple other marines, to gather intelligence.
-  - Marines that took fultons with them should extract dead xenonids.
-  - Marines that picked up intel should pass it to passing IOs, the FOB or fulton it out in crates.
+  - ASO сидітиме в лабораторії розвідки, читаючи та сортуючи всі вхідні документи, та вводитиме отримане знання в комп'ютер розвідки.
+  - CMO перетягуватиме мертвих ксенонідів у дослідницьку лабораторію.
+  - Пілоти та DCC встановлять систему повернення фултона, зазвичай на Normandy, але іноді й на Alamo.
+  - IO формуватимуть взвод, іноді включаючи кількох інших морпіхів, для збору розвіддумок.
+  - Морпіхи, що взяли з собою фултони, повинні витягувати мертвих ксенонідів.
+  - Морпіхи, що підібрали розвіддані, повинні передавати їх IO, що проходять, FOB або фултонувати в ящиках.
 
-  Talk to your superior or SEA if you are confused or have any questions.
+  Поговоріть зі своїм керівником або SEA, якщо ви розгублені або маєте запитання.
   <Box>
     <GuideEntityEmbed Entity="CMGuidebookRoleSEA"/>
   </Box>

@@ -1,12 +1,12 @@
 <Document>
-  # Networking
-  On the station, devices need to communicate to each other to preform their functions.
-  [textlink="Air alarms" link="AirAlarms"] need to talk to their respective devices, [textlink="doors" link="Airlocks"] need to be linked to form proper airlocks, and much more.
+  # Мережі зв'язку
+  На станції пристрої мають спілкуватися один з одним для виконання своїх функцій.
+  [textlink="Повітряні тривоги" link="AirAlarms"] мають зв'язуватися зі своїми пристроями, [textlink="двері" link="Airlocks"] мають бути з'єднані для формування шлюзів тощо.
 
-  This is done through two systems, the Link system and the List system.
+  Це робиться через дві системи: систему Link та систему List.
 
-  You can use either the Multitool or Network Configurator to interact with these systems.
-  You can switch between the different systems using [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] or by hovering your cursor over the device and using [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
+  Ви можете використовувати Мультитул або Мережевий конфігуратор для взаємодії з цими системами.
+  Перемикайтеся між системами через [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] або наведенням курсора на пристрій та [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
 
   <Box HorizontalAlignment="Stretch">
     <Box>
@@ -17,12 +17,12 @@
     </Box>
   </Box>
 
-  Some devices will require access to link devices to them.
-  For example, you need Atmospherics access to link devices to an [textlink="air alarm" link="AirAlarms"].
-  For doors, you'll need the access level of the door you're linking to.
+  Деякі пристрої потребують доступу для прив'язки.
+  Наприклад, потрібен доступ Атмосферики для прив'язки пристроїв до [textlink="повітряної тривоги" link="AirAlarms"].
+  Для дверей потрібен рівень доступу дверей, до яких прив'язуєте.
 
-  ## Link System
-  The link system is used for explicitly linking two devices, such as linking a door to another door.
+  ## Система Link
+  Система Link використовується для явного з'єднання двох пристроїв, наприклад, двері з дверима.
 
   <Box>
     <GuideEntityEmbed Entity="AirlockExternal"/>
@@ -31,13 +31,13 @@
     <GuideEntityEmbed Entity="SignalButton"/>
   </Box>
 
-  Under the link system, devices have [bold]ports[/bold] that are capable of either sending or receiving signals.
+  У системі Link пристрої мають [bold]порти[/bold], здатні надсилати або отримувати сигнали.
 
-  Hovering over a port using your cursor will show a tooltip that tells you what the port does.
-  For example, output ports will state the conditions under which they will invoke a signal, and input ports will state what the device will do if it receives a signal.
+  Наведення на порт покаже підказку про його функцію.
+  Вихідні порти вказують умови надсилання сигналу, вхідні — що пристрій зробить при отриманні.
 
-  ## List System
-  The list system is used for linking multiple devices to a single primary device, such as linking multiple atmospherics devices to an air alarm.
+  ## Система List
+  Система List використовується для прив'язки кількох пристроїв до одного головного, наприклад, кількох атмосферних пристроїв до повітряної тривоги.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
@@ -47,18 +47,18 @@
     <GuideEntityEmbed Entity="Firelock" Caption=""/>
   </Box>
 
-  Each device has its own unique address, which is used to identify it in the list system. When you link a device to a primary device, you are adding the device's address to a list of devices that the primary device will communicate with.
+  Кожен пристрій має унікальну адресу. При прив'язці ви додаєте адресу пристрою до списку головного пристрою.
 
-  You can save a device's address to your tool by interacting with the device using [color=yellow][bold][keybind="Use"][/bold][/color].
+  Збережіть адресу пристрою в інструмент через [color=yellow][bold][keybind="Use"][/bold][/color].
 
-  Once you have a list of devices saved to your tool, you can link them to a primary device by interacting with the primary device using [color=yellow][bold][keybind="Use"][/bold][/color], which will bring up a UI.
+  Маючи список збережених пристроїв, прив'яжіть їх до головного через [color=yellow][bold][keybind="Use"][/bold][/color] — відкриється інтерфейс.
 
-  The UI has multiple options:
-  - Set: Overwrites the current list of linked devices with the devices saved on the tool.
-  - Add: Adds the devices saved on the tool to the current list of linked devices.
-  - Clear: Removes all linked devices from the air alarm.
-  - Copy: Copies the list of currently linked devices to the tool.
-  - Show: Draws a line between the primary device and all linked devices. This is useful for visualizing the area the air alarm covers.
+  Опції інтерфейсу:
+  - Set: Перезаписує поточний список збереженими пристроями.
+  - Add: Додає збережені пристрої до поточного списку.
+  - Clear: Видаляє всі прив'язані пристрої.
+  - Copy: Копіює поточний список у інструмент.
+  - Show: Малює лінію між головним пристроєм та всіма прив'язаними. Корисно для візуалізації зони покриття.
 
-  If you need to clear your tool, you can press [color=yellow][bold][keybind="Use"][/bold][/color] on the tool or use [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] to bring up a list of saved devices, and then press the "Clear" button.
+  Для очищення інструменту натисніть [color=yellow][bold][keybind="Use"][/bold][/color] на ньому або [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] для списку збережених пристроїв, потім "Clear".
 </Document>

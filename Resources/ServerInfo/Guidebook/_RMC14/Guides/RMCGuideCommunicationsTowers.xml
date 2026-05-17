@@ -1,47 +1,47 @@
 ﻿<Document>
-  Guide by Kynthos on Discord
+  Гайд від Kynthos у Discord
 
-  [color=#5f698a]█    █ █▄ █[/color] [head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]\n
+  [color=#5f698a]█    █ █▄ █[/color] [head=2][bold]КОРПУС МОРСЬКОЇ ПІХОТИ ОБ'ЄДНАНИХ НАЦІЙ[/bold][/head]\n
   [color=#5f698a]▀ ▄▀ █ ▀█ [/color]
 
-  #Telecommunication and Sensor Towers
+  #Телекомунікаційні та сенсорні вежі
 
-  On the Colony there are stationary towers that Marines will need to repair in order to bolster their communication and intelligence gathering capabilities. These are vital objectives that must be repaired and protected to maintain their functionality. To repair this vital equipment, you will need to be specifically trained. Only dedicated Engineers, [textlink="Combat Technicians" link="RMCGuideRoleCombatTechnician"], or Fireteam Leaders have such training.
+  На Колонії є стаціонарні вежі, які морські піхотинці повинні відремонтувати, щоб посилити свої можливості зв'язку та збору розвіддумок. Це життєво важливі цілі, які повинні бути відремонтовані та захищені для підтримки їхньої функціональності. Щоб ремонтувати це життєво важливе обладнання, ви повинні бути спеціально навчені. Лише призначені інженери, [textlink="Бойові техніки" link="RMCGuideRoleCombatTechnician"] або Командири вогневих груп мають таку підготовку.
 
-  ##Telecommunication Towers
+  ##Телекомунікаційні вежі
 
-  Radio communication between Marines on the planet and the staff onboard the Almayer cannot be conducted until one of the two TC-3T Static Telecommunications Tower in the Colony has been repaired to boost the connection.
+  Радіозв'язок між морськими піхотинцями на планеті та персоналом на борту Almayer не може здійснюватися, поки одна з двох статичних телекомунікаційних веж TC-3T у Колонії не буде відремонтована для посилення з'єднання.
 
   <Box>
     <GuideEntityEmbed Entity="RMCCommunicationsTower"/>
   </Box>
 
-The location of the Telecommunication Towers vary between Operations. The CIC will know their exact location, so ensure you communicate with Command to be informed of which towers need to be repaired.
+Розташування телекомунікаційних веж змінюється між операціями. CIC знатиме їхнє точне розташування, тож обов'язково спілкуйтеся з командуванням, щоб дізнатися, які вежі треба відремонтувати.
 
-[bold]Repairing a Telecommunications Tower[/bold] is as simple as [bold]using a blowtorch[/bold] to weld all the panels back together. You may need to repeat this multiple times, so inspect the tower to see if more damage needs to be repaired.
+[bold]Ремонт телекомунікаційної вежі[/bold] такий же простий, як [bold]використання паяльника[/bold] для зварювання панелей назад. Можливо, доведеться повторювати це кілька разів, тож огляньте вежу, щоб побачити, чи треба ще щось ремонтувати.
 
-[bold]Once the tower is repaired[/bold], you will need to [bold]use a Security Access Tuner[/bold] to [bold]add your faction’s frequencies[/bold] to the network. Once this is done, the tower will begin broadcasting those radio frequencies to planetary and extra-planetary locations.
+[bold]Після того як вежа відремонтована[/bold], потрібно [bold]використати Security Access Tuner[/bold], щоб [bold]додати частоти вашої фракції[/bold] до мережі. Як тільки це зроблено, вежа почне транслювати ці радіочастоти на планетарні та позапланетарні локації.
 
-[bold]The Telecommunication Tower will not function if it is not powered[/bold], so you will also need to repair the local APC and potentially the Colony’s Power grid.
+[bold]Телекомунікаційна вежа не працюватиме без живлення[/bold], тож вам також доведеться відремонтувати локальний APC і, можливо, енергомережу Колонії.
 
-Once the Telecommunication Tower is repaired, tuned, and powered, radio communications will resume. The Tower becoming destroyed or depowered in any way will halt communications until the problem is fixed.
+Як тільки телекомунікаційна вежа відремонтована, налаштована та живлена, радіозв'язок відновиться. Знищення або вимкнення живлення вежі будь-яким чином зупинить зв'язок, поки проблему не буде усунено.
 
-##Sensor Tower
+##Сенсорна вежа
 
-The Experimental Sensor Tower found in each colony has been adjusted to track unknown biosignatures in the nearby area. With it repaired, the CIC will be able to [bold]track the exact location of all unknown biosignatures on their TACMAP[/bold] for as long as it is operational.
+Експериментальна сенсорна вежа, знайдена в кожній колонії, була налаштована для відстеження невідомих біосигнатур у найближчій зоні. З нею відремонтованою CIC зможе [bold]відстежувати точне розташування всіх невідомих біосигнатур на своєму TACMAP[/bold] до тих пір, поки вона працює.
 
-The location of the Sensor Tower is predetermined for each AO, remaining the same between operations.
+Розташування Сенсорної вежі заздалегідь визначене для кожного AO і залишається тим самим між операціями.
 
   <Box>
     <GuideEntityEmbed Entity="RMCSensorTower"/>
   </Box>
 
-  If you are unsure on the next step for repairs, make sure to inspect the tower, but the steps are as follows:
-  -First, use a [bold]blowtorch[/bold] to weld the plates back together.
-  -Next, use [bold]wire cutters[/bold] to repair the wires.
-  -Then, use a [bold]wrench[/bold] to realign the tower properly.
-  -Finally, power the Sensor tower on to begin scanning.
+  Якщо ви не впевнені в наступному кроці ремонту, обов'язково огляньте вежу, але кроки такі:
+  -Спочатку використайте [bold]паяльник[/bold] для зварювання плит назад.
+  -Далі використайте [bold]кусачки[/bold] для ремонту проводів.
+  -Потім використайте [bold]гайковий ключ[/bold] для правильного вирівнювання вежі.
+  -Нарешті, увімкніть Сенсорну вежу для початку сканування.
 
-  Once the Sensor Tower has been repaired, it will stay operational for a small while until it [bold]randomly breaks down[/bold]. When this happens, the Sensor Tower must be repaired again to continue tracking unknown biosignatures.
+  Як тільки Сенсорну вежу відремонтовано, вона залишиться працездатною на короткий час, поки [bold]випадково не зламається[/bold]. Коли це станеться, Сенсорну вежу треба знову відремонтувати, щоб продовжити відстежувати невідомі біосигнатури.
 
 </Document>

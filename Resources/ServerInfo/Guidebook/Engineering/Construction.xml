@@ -1,5 +1,5 @@
 <Document>
-  # Construction
+  # Будівництво
 
   <Box>
     <GuideEntityEmbed Entity="Bed" Caption=""/>
@@ -9,17 +9,17 @@
   </Box>
 
 
-  The Construction Menu is how you build and craft objects in the game.
-  It can be accessed by pressing [color=yellow][bold][keybind="OpenCraftingMenu"][/bold][/color].
+  Меню будівництва — це спосіб будувати та крафтити об'єкти в грі.
+  Його можна відкрити натисканням [color=yellow][bold][keybind="OpenCraftingMenu"][/bold][/color].
 
-  When placing objects that "snap" to the grid, you can hold [color=yellow][bold][keybind="EditorLinePlace"][/bold][/color] to place an entire line at a time, and [color=yellow][bold][keybind="EditorGridPlace"][/bold][/color] to place an entire grid at a time.
+  При розміщенні об'єктів, що "прив'язуються" до сітки, ви можете утримувати [color=yellow][bold][keybind="EditorLinePlace"][/bold][/color], щоб розмістити цілу лінію за раз, та [color=yellow][bold][keybind="EditorGridPlace"][/bold][/color], щоб розмістити цілу сітку за раз.
 
-  When crafting objects with a lot of ingredients, keep in mind you don't have to hold everything at once; you can simply place the ingredients on the floor, in your backpack or on a table near you, and they'll be used up during crafting like normal.
+  При крафті об'єктів з багатьма інгредієнтами пам'ятайте, що не потрібно тримати все одночасно; ви можете просто покласти інгредієнти на підлогу, в рюкзак або на стіл поруч, і вони будуть використані під час крафту як зазвичай.
 
-  When placing a "building ghost" somewhere in the world, press [color=yellow][bold][keybind="EditorRotateObject"][/bold][/color] to rotate the ghost clockwise.
-  If you are building a mirrorable component (think: Gas Mixers/Filters), you can press [color=yellow][bold][keybind="EditorFlipObject"][/bold][/color] to flip the ghost.
+  При розміщенні "привида будівлі" десь у світі натисніть [color=yellow][bold][keybind="EditorRotateObject"][/bold][/color], щоб повернути привида за годинниковою стрілкою.
+  Якщо ви будуєте дзеркальний компонент (наприклад, газові міксери/фільтри), натисніть [color=yellow][bold][keybind="EditorFlipObject"][/bold][/color], щоб відзеркалити привида.
 
-  You can also use [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] and [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color] to rotate an object clockwise or counterclockwise if it's already built, as long as it is unanchored (unwrenched).
+  Ви також можете використовувати [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] та [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color], щоб повернути вже побудований об'єкт, якщо він не закріплений (не прикручений).
 
 
 

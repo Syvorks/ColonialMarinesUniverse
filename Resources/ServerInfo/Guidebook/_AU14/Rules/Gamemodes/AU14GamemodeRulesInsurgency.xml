@@ -1,46 +1,46 @@
 ﻿<Document>
-  #INSURGENCY RULES
-    These rules apply to the Insurgency gamemode.
+  #ПРАВИЛА INSURGENCY
+    Ці правила застосовуються до режиму гри Insurgency.
 
-  ##General Rules
-    No player may kill another player within the first 5 minutes of the round.
+  ##Загальні правила
+    Жоден гравець не може вбити іншого гравця протягом перших 5 хвилин раунду.
 
-    Colonists and other non-affiliated roles must be given a valid in-character reason to participate in hostilities.
+    Колоністам та іншим неафілійованим ролям повинна бути надана валідна внутрішньоігрова причина для участі у бойових діях.
 
-    ##Insurgent Rules
+    ##Правила повстанців
 
-    You are a radical devoted to your cause.
-    - Direct orders from the Cell Leader must be followed unless they directly contradict insurgent ideology or server rules. You must refuse orders to indiscriminately kill civilians.
+    Ви — радикал, відданий своїй справі.
+    - Прямі накази Лідера Чарунки повинні виконуватися, окрім випадків, коли вони прямо суперечать ідеології повстанців або правилам сервера. Ви повинні відмовлятися від наказів вбивати цивільних без розбору.
 
-    Insurgents may not kill civilians unless they are clearly hostile toward the insurgency.
-    - Colony Law Enforcement are not considered civilians.
+    Повстанці не можуть вбивати цивільних, якщо вони явно не ворожі до повстання.
+    - Правоохоронці Колонії не вважаються цивільними.
 
-    Insurgents may NOT kill Colony Law Enforcement until 10 minutes into the round.
+    Повстанці НЕ МОЖУТЬ вбивати правоохоронців Колонії до 10-ї хвилини раунду.
 
-    Insurgents may NOT attack the GOVFOR ground base until 30 minutes into the round.
+    Повстанці НЕ МОЖУТЬ атакувати наземну базу GOVFOR до 30-ї хвилини раунду.
 
-    ##GOVFOR Rules
+    ##Правила GOVFOR
 
-    GOVFOR may not enter the colony unless:
-    - They are explicitly alerted by the Colony Command
-    - 30 minutes have passed since round start.
-    - If GOVFOR spawn on a ship, they may deploy to their primary LZ and secure an FOB before the thirty minute mark, but must not leave their FOB.
+    GOVFOR не може заходити в колонію, окрім випадків:
+    - Їх явно сповістило Командування Колонії.
+    - Минуло 30 хвилин з початку раунду.
+    - Якщо GOVFOR спавняться на кораблі, вони можуть розгорнутися до своєї основної LZ і закріпити FOB до 30-хвилинної позначки, але не повинні залишати свій FOB.
 
-    GOVFOR may not shoot civilians without reasonable cause such as:
-    - Ignoring one clear warnings to leave while in sight.
-    - Wearing or possessing illegal firearms or equipment.
-    - Being reported to be carrying explosives.
-    - They are using lethal force or you have seen them use lethal force.
+    GOVFOR не може стріляти по цивільних без розумної причини, як-от:
+    - Ігнорування одного чіткого попередження покинути зону, перебуваючи в полі зору.
+    - Носіння або володіння нелегальною вогнепальною зброєю чи спорядженням.
+    - Повідомлено, що несе вибухівку.
+    - Вони використовують летальну силу або ви бачили, як вони використовували летальну силу.
 
-    GOVFOR may not raid an insurgent base unless:
-    - They are actively following an insurgent member to it.
-    - They have received credible intelligence about its location.
+    GOVFOR не може здійснювати рейд на базу повстанців, окрім випадків:
+    - Вони активно слідують за членом повстання до неї.
+    - Вони отримали достовірні розвіддані про її розташування.
 
-    ##Colony Command Rules
+    ##Правила Командування Колонії
 
-    A valid in-character reason is required to request GOVFOR assistance such as:
-    - Insurgents openly carrying illegal weapons.
-    - Law Enforcement or multiple civilians being killed.
-    - Explicit IC death threats.
-    - An attempt on the life of a colony command member.
+    Валідна внутрішньоігрова причина потрібна для запиту допомоги від GOVFOR, як-от:
+    - Повстанці відкрито носять нелегальну зброю.
+    - Вбито правоохоронців або кількох цивільних.
+    - Явні IC погрози смерті.
+    - Замах на життя члена командування Колонії.
 </Document>

@@ -1,20 +1,20 @@
 <Document>
   #Eggsac, Tier 2
   <GuideEntityEmbed Entity="RMCXenoCarrierEggsac"/>
-  ##Playing as a Eggsac
-  You have given up your ability to store parasites. You can store 12 eggs, produce eggs with your eggsac, place 4 eggs off hive weeds that decay slower if you are near, and your pheromones have been strengthened.
+  ##Гра за Eggsac
+  Ви відмовилися від можливості зберігати паразитів. Ви можете зберігати 12 яєць, виробляти яйця своїм eggsac, розміщувати 4 яйця поза бур'янами гнізда, які повільніше розпадаються, якщо ви поряд, і ваші феромони посилені.
 
-  Eggsac Carriers are specialised for egg production and can keep the hive supplied when queen isn't making eggs
+  Eggsac Carrier'и спеціалізуються на виробництві яєць і можуть тримати гніздо забезпеченим, коли Королева не виробляє яйця.
 
-  Your planted eggs are also unique as they can now be placed on regular weeds, however, they will decay if you move away from them. You can use these to make egg traps that hosts may walk into or help Oppressors by placing eggs near where they are going to hook.
+  Ваші розміщені яйця також унікальні, оскільки тепер їх можна розмістити на звичайних бур'янах; однак вони розпадуться, якщо ви від них відійдете. Ви можете використовувати це для створення яйцевих пасток, у які можуть зайти хости, або допомогти Oppressor'ам, розміщуючи яйця біля місця, де вони збираються hook'нути.
 
-  ##Abilities:
-  - [bold]Emit Pheromones[/bold]: Emits one of the three pheromones, strength of said pheromone is dependent on caste and does not stack with pheromones of the same type.
+  ##Здібності:
+  - [bold]Emit Pheromones[/bold]: Випромінює один із трьох феромонів; сила залежить від касти і не складається з феромонами того ж типу.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPheromones"/>
-  - [bold]Plant Weeds[/bold]: Places a resin node which spreads weeds across a large area.
+  - [bold]Plant Weeds[/bold]: Розміщує смоляний вузол, що поширює бур'яни на велику зону.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPlantWeeds"/>
-  - [bold]Retrieve Egg[/bold]: Retrieves a egg once the ability is used
+  - [bold]Retrieve Egg[/bold]: Витягує яйце після використання здібності.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoRetrieveEgg"/>
-  - [bold]Generate Eggs[/bold]: Produces eggs over time with a passive plasma consumption
+  - [bold]Generate Eggs[/bold]: Виробляє яйця з часом з пасивним споживанням плазми.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoGenerateEggs"/>
 </Document>

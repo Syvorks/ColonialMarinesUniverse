@@ -1,21 +1,21 @@
 ﻿<Document>
-  # Uniform Code of Military Justice
+  # Уніфікований кодекс військової юстиції
 
-  These are sets of laws and rules used by GOVFOR/OPFOR and all relevant military factions.
+  Це набори законів та правил, що використовуються GOVFOR/OPFOR та всіма відповідними військовими фракціями.
 
- ### Basic Principles
-  - All personnel are required to both enforce the law and abide by it.
-  - MP/Law Enforcement and Command may, at their discretion, ignore Minor Crimes unless they are ordered to enforce one by a higher position.
-  - MP/Law Enforcement breaking the law in any capacity cannot be ignored.
-  - Charges are not to be applied to those who use force on others when defending themselves from illegal harm, so long as they defend themselves with proportional force. This also extends to the defense of others if they believe the others are in lethal danger.
-  - No person may serve more than thirty minutes in the brig for the total accumulation of their crimes at time of sentencing, unless on permanent confinement.
-  - At no point is an execution ever to be sanctioned nor is it legal.
+ ### Основні принципи
+  - Весь персонал зобов'язаний як забезпечувати дотримання закону, так і дотримуватися його.
+  - MP/Правоохоронці та Командування можуть на власний розсуд ігнорувати дрібні злочини, якщо їх не наказано вищою посадою забезпечити їх дотримання.
+  - MP/Правоохоронців, що порушують закон у будь-якій якості, не можна ігнорувати.
+  - Звинувачення не висуваються тим, хто застосовує силу до інших, захищаючи себе від незаконної шкоди, доки вони захищаються пропорційною силою. Це також поширюється на захист інших, якщо вони вважають, що інші перебувають у летальній небезпеці.
+  - Жодна особа не може відбути більше тридцяти хвилин у бригу за загальну сукупність своїх злочинів на момент винесення вироку, окрім випадку постійного ув'язнення.
+  - У жодному випадку страта не санкціонується і не є законною.
 
- ## Categories
-  - [textlink="Criminal Code" link="AI14UCMJCriminalCode"]
-  - [textlink="Right To Appeal" link="AI14UCMJRightToAppeal"]
-  - [textlink="Non-Judicial Punishments" link="AI14UCMJNJP"]
-  - [textlink="Arresting Procedures" link="AU14UCMJArrestingProcedure"]
-  - [textlink="Law Rank Structure" link="AU14UCMJLawRankStructure"]
-  - [textlink="Definitions and Glossary" link="AI14UCMJDefinitionsandGlossary"]
+ ## Категорії
+  - [textlink="Кримінальний кодекс" link="AI14UCMJCriminalCode"]
+  - [textlink="Право на апеляцію" link="AI14UCMJRightToAppeal"]
+  - [textlink="Несудові покарання" link="AI14UCMJNJP"]
+  - [textlink="Процедури арешту" link="AU14UCMJArrestingProcedure"]
+  - [textlink="Рангова структура закону" link="AU14UCMJLawRankStructure"]
+  - [textlink="Визначення та глосарій" link="AI14UCMJDefinitionsandGlossary"]
 </Document>

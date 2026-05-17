@@ -1,193 +1,193 @@
 ﻿<Document>
-  # Variable Crimes
-  - These crimes can vary in severity and have scaling punishments.
+  # Змінні злочини
+  - Ці злочини можуть варіюватися за серйозністю та мати масштабовані покарання.
   <Table Columns="4">
     <ColorBox>
       <Box>
-        Charge
+        Звинувачення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Minor
+        Дрібний
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Major
+        Серйозний
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Damage to Property
+        Пошкодження майна
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Damaging the faction property or making any unauthorized modifications to it as outlined in Standard Operating Procedure.\nMaterials for repairs should be taken from maintenance storages.
+        Пошкодження майна фракції або несанкціоновані модифікації, як описано в Стандартних Операційних Процедурах.\nМатеріали для ремонту повинні братися з обслуговувальних сховищ.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Breaking a window, damaging a wall, etc.\n[bold]Return the property to it's exact previous state, or serve 7.5 minutes if not possible.[/bold]
+        Розбити вікно, пошкодити стіну тощо.\n[bold]Повернути майно у точно попередній стан, або відбути 7,5 хвилин, якщо неможливо.[/bold]
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Breaking the law in a major manner includes breaking /dismantling walls or several windows.\n[bold]10 minutes.[/bold]
-      </Box>
-    </ColorBox>
-
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Insubordination
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Failing to follow a lawful order from a superior person of rank or position, while under their command. \n[italic]This does not apply to orders made to a person with intent to arrest, which instead would be [bold]Resisting Arrest[/bold][/italic]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Failing to follow an order which is not personally directed.\n[bold]7.5 minutes.[/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Failing to follow an order personally directed at a person in question using either their name or clearly communicating its meant for them.\n[bold]15 minutes.[/bold]
+        Серйозне порушення закону включає руйнування/демонтаж стін чи кількох вікон.\n[bold]10 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Interference
+        Непокора
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Interfering in a legal arrest being performed.
+        Невиконання законного наказу від вищого за рангом чи посадою, перебуваючи під його командуванням. \n[italic]Це не стосується наказів, відданих особі з наміром арешту, що замість цього було б [bold]Опором арешту[/bold].[/italic]
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Interfering without ill intent, such as blocking the way or helping someone up.\n[bold]7.5 minutes.[/bold]
+        Невиконання наказу, що не спрямований персонально.\n[bold]7,5 хвилин.[/bold]
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Interfering with ill intent or in a clear way to hinder the arrest being performed.\n[bold]15 minutes.[/bold]
-      </Box>
-    </ColorBox>
-
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Illegal use of Listening Devices
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        The unauthorized use of listening devices in violation of Standard Operating Procedures.
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Illegally placing a listening device in a public area such as the gym.\n[bold]7.5 minutes.[/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Illegally placing a listening device in a secure area, or area with privacy shutters.\n[italic]If the listening device is also tied to a foreign government or terror organisation this is additionally considered Subterfuge[/italic].\n[bold]15 minutes.[/bold]
+        Невиконання наказу, спрямованого персонально на особу за допомогою її імені або чітко повідомленого, що він призначений для неї.\n[bold]15 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Resisting Arrest
+        Втручання
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        To resist or refuse to comply with a lawful arrest, detainment, search, or NJP.
+        Втручання у здійснення законного арешту.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Refusing to comply.\n[bold]5 minutes.[/bold]
+        Втручання без злого наміру, як-от перешкоджання шляху або допомога комусь встати.\n[bold]7,5 хвилин.[/bold]
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Resisting by fleeing or using force.\n[bold]10 minutes.[/bold]
-      </Box>
-    </ColorBox>
-
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Aiding and Abetting
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Assisting others in committing a crime, directly or indirectly, or encouraging them to commit one. Any person Aiding and Abetting is required to be told the crimes of the person they aided.
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]Same punishment as crime committed.[/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]Same punishment as crime committed.[/bold]
+        Втручання зі злим наміром або явним способом завадити арешту.\n[bold]15 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Disorderly Conduct in \nConfinement
+        Незаконне використання підслуховувальних пристроїв
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        To cause disruption in a significant manner while in Brig and under arrest. This can be added on to any charge.
+        Несанкціоноване використання підслуховувальних пристроїв з порушенням Стандартних Операційних Процедур.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Breaking a Minor Law while under arrest or in Prison.\n[bold]7.5 minutes.[/bold]
+        Незаконне розміщення підслуховувального пристрою у публічній зоні, як-от спортзал.\n[bold]7,5 хвилин.[/bold]
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Breaking a Major Law while under arrest or in Prison.\n[bold]15 minutes.[/bold]
+        Незаконне розміщення підслуховувального пристрою у захищеній зоні або зоні з шторами приватності.\n[italic]Якщо підслуховувальний пристрій також пов'язаний з іноземним урядом чи терористичною організацією, це додатково вважається Підривом.[/italic]\n[bold]15 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Intentional Public Mischief
+        Опір арешту
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Making a false statement that accuses someone of having committed an offence. \nDoing anything intended to cause someone to be suspected of having committed an offence that the person has not committed. \nTo divert suspicion from themselves, reporting that an offence has been committed when it has not been committed. \nFalse statements relating to investigations are considered [bold]False Testimony[/bold].
+        Опір або відмова виконати законний арешт, затримання, обшук чи NJP.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Relating to a minor crime.\n[bold]7.5 minutes.[/bold]
+        Відмова виконати.\n[bold]5 хвилин.[/bold]
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Relating to a major crime, or anything above this.\n[bold]15 minutes.[/bold]
+        Опір через втечу або застосування сили.\n[bold]10 хвилин.[/bold]
+      </Box>
+    </ColorBox>
+
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Сприяння та підбурювання
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Допомога іншим у скоєнні злочину, прямо чи опосередковано, або заохочення їх до скоєння. Будь-якій особі, що сприяє та підбурює, треба повідомити про злочини того, кому вона допомагала.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        [bold]Те ж покарання, що й за скоєний злочин.[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        [bold]Те ж покарання, що й за скоєний злочин.[/bold]
+      </Box>
+    </ColorBox>
+
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Заворушення в \nув'язненні
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Спричинення значного безладу під час перебування в Бригу та під арештом. Це можна додати до будь-якого звинувачення.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Порушення дрібного закону під час арешту або в'язниці.\n[bold]7,5 хвилин.[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Порушення серйозного закону під час арешту або в'язниці.\n[bold]15 хвилин.[/bold]
+      </Box>
+    </ColorBox>
+
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Навмисні публічні провокації
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Неправдиве висловлювання, що звинувачує когось у скоєнні правопорушення. \nБудь-які дії, спрямовані на те, щоб когось підозрювали у скоєнні правопорушення, якого ця особа не скоювала. \nДля відведення підозри від себе — повідомлення, що скоєно правопорушення, коли його не скоювали. \nНеправдиві заяви, пов'язані з розслідуваннями, вважаються [bold]Неправдивими свідченнями[/bold].
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Стосовно дрібного злочину.\n[bold]7,5 хвилин.[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Стосовно серйозного злочину чи будь-чого вище.\n[bold]15 хвилин.[/bold]
       </Box>
     </ColorBox>
 

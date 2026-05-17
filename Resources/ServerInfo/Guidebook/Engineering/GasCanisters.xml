@@ -1,5 +1,5 @@
 <Document>
-  # Gas Canisters
+  # Газові балони
   <Box>
     <GuideEntityEmbed Entity="AirCanister"/>
     <GuideEntityEmbed Entity="OxygenCanister"/>
@@ -11,20 +11,20 @@
     <GuideEntityEmbed Entity="GasPort"/>
   </Box>
 
-  Gas canisters are a way to store gas in a portable container for easy transport.
-  They can store [color=orange][protodata="StorageCanister" comp="GasCanister" member="Volume"/] liters[/color] of gas.
+  Газові балони — це спосіб зберігання газу в портативному контейнері для зручного транспортування.
+  Вони можуть зберігати [color=orange][protodata="StorageCanister" comp="GasCanister" member="Volume"/] літрів[/color] газу.
 
-  You can connect handheld tanks to a gas canister to refill them using the release valve on the canister.
-  The release valve also has a adjustable pressure regulator to control the pressure of the handheld tank connected.
+  Ви можете підключити ручні балони до газового балона для їх заправки за допомогою випускного клапана на балоні.
+  Випускний клапан також має регульований регулятор тиску для контролю тиску підключеного ручного балона.
 
-  Opening the release valve on a canister with no handheld tank connected will release gas into the atmosphere, at the specified regulator pressure.
+  Відкриття випускного клапана на балоні без підключеного ручного балона випустить газ в атмосферу за вказаним тиском регулятора.
 
-  [bold]Be sure to close the release valve before you eject your handheld tank![/bold]
+  [bold]Обов'язково закрийте випускний клапан перед від'єднанням ручного балона![/bold]
 
-  ## Connector Ports
-  Gas canisters and [textlink="portable scrubbers" link="PortableScrubber"] can be connected to a [textlink="pipenet" link="PipeNetworks"] by anchoring (wrenching) the device on top of a connector.
-  When connected, gas will be free to move in and out of the canister to balance pressure, temperature, and composition.
+  ## Порти-конектори
+  Газові балони та [textlink="портативні скрубери" link="PortableScrubber"] можна підключити до [textlink="пайпнету" link="PipeNetworks"], закріпивши (прикрутивши) пристрій на конекторі.
+  При підключенні газ вільно переміщуватиметься між балоном та мережею для балансування тиску, температури та складу.
 
-  A pump can be used to insert or extract gas from a canister, useful for filling or emptying a canister entirely.
+  Насос можна використовувати для вставки або витягування газу з балона, що корисно для повного заповнення або спорожнення.
 
 </Document>

@@ -1,23 +1,23 @@
 ﻿<Document>
-  # Executions
+  # Страти
 
-  ## Authorization
-  - Executions are limited to prisoners who have committed crimes with execution as a possible punishment.
-  - They must be authorized by [color=#00CBFE][bold]High Command[/bold][/color].
+  ## Авторизація
+  - Страти обмежені в'язнями, які скоїли злочини зі стратою як можливим покаранням.
+  - Вони мають бути авторизовані [color=#00CBFE][bold]Вищим командуванням[/bold][/color].
 
-  ## Authorized methods of execution
-  Authorized methods of execution must be used in executions and are listed below.
-  - Lethal injection.
-  - Firing squad.
+  ## Авторизовані методи страти
+  Авторизовані методи страти повинні використовуватися при стратах і перелічені нижче.
+  - Летальна ін'єкція.
+  - Розстрільна команда.
 
-  ## Procedure
-  [italic]None of the below steps should each exceed 5 minutes to fully process, otherwise they may be skipped if the prisoner was warned prior to the time expiring.[/italic]
+  ## Процедура
+  [italic]Жоден з нижченаведених кроків не повинен перевищувати 5 хвилин для повного виконання, інакше вони можуть бути пропущені, якщо в'язня попередили до закінчення часу.[/italic]
 
-  - The prisoner may request a tobacco product, and a food and drink as a last meal. The items should be reasonably acquirable, else they should be provided an alternative.
-  - The prisoner may request a blindfold for the execution if available.
-  - Up to three people may be requested by the prisoner to view the execution.
-  - The prisoner is given a chance to give final words. The prisoner may use the radio for this.
-  - The execution may proceed.
+  - В'язень може попросити тютюновий продукт, а також їжу та напій як останню трапезу. Предмети мають бути в розумних межах доступними, інакше йому має бути надана альтернатива.
+  - В'язень може попросити пов'язку на очі для страти, якщо вона доступна.
+  - В'язень може попросити до трьох осіб для перегляду страти.
+  - В'язню надається можливість сказати останні слова. В'язень може використати радіо для цього.
+  - Страту можна провести.
 
 
 

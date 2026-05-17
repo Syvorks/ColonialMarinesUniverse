@@ -1,13 +1,13 @@
 ﻿<Document>
-  # Special Provisions
+  # Спеціальні положення
 
-  ## MP/Law Enforcement Involvement in Mutinies
-  - Attempting to overthrow the legitimate command staff is illegal, and [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] must do everything in their power to prevent it.
-  - Should a mutiny be successful, resulting in the [color=#008000][bold]Commander[/bold][/color] being deposed or surrendering, [color=#ff000d][bold]MP/Law Enforcement[/bold][/color] should remain loyal to the previous Commander.
-  - The [color=#90EE90][bold]Duty Officer[/bold][/color] may be optionally skipped in the [textlink="Chain of Command" link="RMCCommandChain"], if the mutiny is successful.
+  ## Залучення MP/Правоохоронців у заколотах
+  - Спроба повалити законний командний склад є нелегальною, і [color=#ff000d][bold]MP/Правоохоронці[/bold][/color] повинні робити все можливе, щоб запобігти цьому.
+  - Якщо заколот успішний і [color=#008000][bold]Командир[/bold][/color] повалений або здається, [color=#ff000d][bold]MP/Правоохоронці[/bold][/color] повинні залишатися лояльними попередньому Командиру.
+  - [color=#90EE90][bold]Черговий офіцер[/bold][/color] може бути додатково пропущений у [textlink="Ланцюгу командування" link="RMCCommandChain"], якщо заколот успішний.
 
-  ## Emergencies
-  - In emergencies, such as significant boardings or a compromised brig, imprisoned personnel may be released by the Commander, if they believe they will not be a further threat or hinderance during the emergency, also particularly if they display good behavior.
-  - A simple red alert is not sufficient reason for release, unless the ship/base is significantly overrun.
+  ## Надзвичайні ситуації
+  - У надзвичайних ситуаціях, як-от значні абордажі або компрометований бриг, ув'язнений персонал може бути звільнений Командиром, якщо він вважає, що вони не становитимуть подальшої загрози чи перешкоди під час надзвичайної ситуації, особливо якщо вони демонструють хорошу поведінку.
+  - Простий червоний рівень тривоги не є достатньою причиною для звільнення, якщо корабель/база не значно захоплена.
 
 </Document>

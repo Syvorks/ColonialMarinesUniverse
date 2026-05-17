@@ -1,20 +1,20 @@
 ﻿<Document>
-  # Standard Operating Procedure
+  # Стандартні Операційні Процедури
 
-  These are sets of regulations and polices of GOVFOR/OPFOR and all relevant factions.
-  \nFailure to follow the Standard Operating Procedure may result in [bold]Failure to Follow Procedure[/bold] charges.
+  Це набір правил та політик GOVFOR/OPFOR та всіх відповідних фракцій.
+  \nНедотримання Стандартних Операційних Процедур може призвести до звинувачень у [bold]Невиконанні Процедур[/bold].
 
- ## Categories
-  - [textlink="General Regulations" link="RMCMarineSOPGeneral"]
-  - [textlink="Equipment" link="RMCMarineSOPEquipment"]
-  - [textlink="NON-Modifiable SOP" link="RMCMarineSOPNONMod"]
+ ## Категорії
+  - [textlink="Загальні правила" link="RMCMarineSOPGeneral"]
+  - [textlink="Спорядження" link="RMCMarineSOPEquipment"]
+  - [textlink="Незмінні SOP" link="RMCMarineSOPNONMod"]
 
-  ## NON-Modifiable SOP
+  ## Незмінні SOP
 
-  The SOP written in these sections may only be modified with High Command permission.
+  SOP, написані в цих розділах, можуть бути змінені лише з дозволу Вищого командування.
 
-  - [textlink="NON-Modifiable Command SOP" link="RMCMarineSOPNONModCommand"]
-  - [textlink="NON-Modifiable Deployment Restrictions" link="RMCMarineSOPNONModDeployment"]
-  - [textlink="NON-Modifiable Third-Party Personnel" link="RMCMarineSOPNONModThirdparty"]
+  - [textlink="Незмінні SOP командування" link="RMCMarineSOPNONModCommand"]
+  - [textlink="Незмінні обмеження розгортання" link="RMCMarineSOPNONModDeployment"]
+  - [textlink="Незмінні правила для сторонніх осіб" link="RMCMarineSOPNONModThirdparty"]
 
 </Document>

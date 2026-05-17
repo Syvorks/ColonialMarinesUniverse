@@ -1,19 +1,19 @@
 <Document>
   #Vampire, Tier 2
   <GuideEntityEmbed Entity="RMCXenoLurkerVampire"/>
-  ##Playing as a Vampire
-  You lose all of your abilities, and you forfeit a chunk of your health and damage in exchange for a large amount of armor, a little bit of movement speed, increased attack and brand new abilities that make you an assassin in the backlines, or a frontline demon if you are good enough.
+  ##Гра за Vampire
+  Ви втрачаєте всі свої здібності, відмовляєтеся від частини здоров'я і шкоди в обмін на велику кількість броні, трохи швидкості руху, збільшену атаку та абсолютно нові здібності, що роблять вас вбивцею на тилу або фронтовим демоном, якщо ви достатньо хороші.
 
-  Rush on your opponent to disorient them and Flurry to unleash a forward cleave that can hit and slow three hosts and heal you for every host you hit. Use your special Tail Jab to knock hosts away. You also deal more damage and a stun if they impact a wall. Finally, execute unconscious hosts with a headbite that bypasses armor and heals you for a grand amount of health.
+  Кидайтеся на опонента, щоб дезорієнтувати його, і Flurry, щоб випустити передній cleave, що може вдарити і сповільнити трьох хостів та зцілити вас за кожного, у кого ви влучили. Використовуйте свій спеціальний Tail Jab, щоб відбити хостів. Ви також завдаєте більше шкоди і оглушуєте, якщо вони вдаряються об стіну. Нарешті, страчуйте непритомних хостів headbite, що обходить броню і зціляє вас на велику кількість здоров'я.
 
-  ##Abilities:
-  - [bold]Rush[/bold]: A four-tile pounce that causes your targets screen to shake. This ability does not stun them.
+  ##Здібності:
+  - [bold]Rush[/bold]: Чотирьох-тайловий стрибок, що змушує екран цілі трястися. Ця здібність не оглушує.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPounce"/>
-  - [bold]Flurry[/bold]: An attack that has a range of 1x3 tiles, dealing moderate damage per target and healing you. A short slow is also applied to you upon landing it.
+  - [bold]Flurry[/bold]: Атака, що має радіус 1x3 тайли, завдаючи помірної шкоди за ціль і зцілюючи вас. Коротке сповільнення також застосовується до вас при влученні.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoFlurry"/>
-  - [bold]Tail Jab[/bold]: An attack dealing high damage to the target, alongside pushing the target back. If they impact an obstacle such as a wall, window, door or barricade, they will take more damage and will temporarily be stunned.
-  - For utility, this can instantly break windows.
+  - [bold]Tail Jab[/bold]: Атака, що завдає високої шкоди цілі, разом з відштовхуванням цілі назад. Якщо вони вдаряються об перешкоду, як-от стіну, вікно, двері чи барикаду — отримають більше шкоди і будуть тимчасово оглушені.
+  - Для утиліті — це може миттєво розбити вікна.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPierce"/>
-  - [bold]Headbite[/bold]: A high-damage attack that bypasses all armor, instantly killing your target and healing you greatly. Requires your target to be unconscious and adjacent to you, and has a windup before it will hit them.
+  - [bold]Headbite[/bold]: Атака високої шкоди, що обходить усю броню, миттєво вбиваючи ціль і зцілюючи вас на велику кількість. Потребує, щоб ціль була непритомною і поруч з вами, та має задержку перед ударом.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoHeadbite"/>
 </Document>

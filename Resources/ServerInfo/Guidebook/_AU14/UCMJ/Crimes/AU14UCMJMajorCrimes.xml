@@ -1,38 +1,38 @@
 ﻿<Document>
-  # Major Crimes
-  These crimes are high severity.
+  # Серйозні злочини
+  Ці злочини високої серйозності.
 
- ## Disorderly Conduct
- Directly and intentionally disrupting primary operations of the group. Fighting in the requisitions line, extensively or repeatedly disrupting the briefing.
-  - 10 Minutes.
-
-
- ## Neglect of duty
- Failure to perform one’s role to an acceptable standard. For example, a Commander failing to properly organize and ensure their personnel are given orders, failing to follow proper procedure in detriment of one’s duties, or ship crew leaving the ship/installation or their post without authorization from Command.
-  - 15 minutes.
+ ## Заворушення
+ Пряме та навмисне порушення основних операцій групи. Бійка в черзі реквізиції, тривале або повторне порушення брифінгу.
+  - 10 хвилин.
 
 
- ## Assault
-To threaten or use physical force against someone with ill intent.
-  - 10 minutes, without a deadly weapon.
-  - 15 minutes, with a deadly weapon.
-
- ## Prevarication
-To intentionally order the arrest of a person on false charges who is then found to be innocent, or to apply an improper or abusive NJP. This includes intentionally arresting a person on false charges, on ones own initiative without orders.
-  - 10 minutes
+ ## Нехтування обов'язком
+ Невиконання своєї ролі на прийнятному рівні. Наприклад, Командир, що не організував належно свій персонал та не забезпечив накази, недотримання правильної процедури на шкоду своїм обов'язкам, або корабельний екіпаж, що залишає корабель/установку чи свою посаду без авторизації Командування.
+  - 15 хвилин.
 
 
- ## Manslaughter
-Killing someone without malicious intent. Manslaughter may be applied if someone dies as a result of a fight where the intent was not to kill.
-  - 15 Minutes
+ ## Напад
+Загроза або застосування фізичної сили проти когось зі злим наміром.
+  - 10 хвилин, без смертельної зброї.
+  - 15 хвилин, зі смертельною зброєю.
+
+ ## Преварикація
+Свідомий наказ заарештувати особу за неправдивими звинуваченнями, яка потім визнана невинною, або застосування неналежного чи зловживаного NJP. Це включає свідомий арешт особи за неправдивими звинуваченнями за власною ініціативою без наказів.
+  - 10 хвилин
 
 
- ## Illegal Confinement
-Unlawfully detaining a person against their will. Includes, kidnapping, hostage-taking, and confining people in cells without charging them for a crime. It does not apply to Prisoners of War.
-  - 20 Minutes.
+ ## Вбивство з необережності
+Вбивство когось без злого наміру. Вбивство з необережності може бути застосоване, якщо хтось помирає в результаті бійки, де намір не був вбити.
+  - 15 хвилин
 
 
- ## Unauthorized Deployment
-To deploy into the area of operations without permission of the relevant command.
-  - 20 minutes.
+ ## Незаконне ув'язнення
+Незаконне затримання особи проти її волі. Включає викрадення, утримання заручників та утримання людей у камерах без висунення їм звинувачень. Не стосується військовополонених.
+  - 20 хвилин.
+
+
+ ## Несанкціоноване розгортання
+Розгортання в зону операцій без дозволу відповідного командування.
+  - 20 хвилин.
 </Document>

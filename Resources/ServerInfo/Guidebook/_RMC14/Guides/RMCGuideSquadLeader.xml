@@ -1,37 +1,37 @@
 <Document>
-  # Squad leading 101
-  [italic]Guide written by UnicornOnLSD on GitHub [/italic]
+  # Лідерство взводу 101
+  [italic]Гайд написаний UnicornOnLSD на GitHub[/italic]
 
   <Box>
-    [italic]"Alright, alpha, we’re pushing nort- wait, where is everyone? Is my squad only made of 5 people? Did they all get kidnapped? Where did everything go wrong?"[/italic]
+    [italic]"Так, alpha, ми штовхаємося на північ- стоп, де всі? Мій взвод складається лише з 5 людей? Їх усіх викрали? Де все пішло не так?"[/italic]
   </Box>
 
-  You might have found yourself in that scenario, wanting to be a charismatic leader and either ending up as one of the first squad casualties or just as lost as every other member of your squad.
+  Ви могли опинитися в такому сценарії, бажаючи бути харизматичним лідером, і або стати однією з перших жертв взводу, або просто загубитися так само, як і кожен інший член вашого взводу.
 
-  This guide is here to teach YOU how to become the squad leader you've always dreamt to be.
+  Цей гайд тут, щоб навчити ВАС стати тим Squad Leader, яким ви завжди мріяли бути.
 
-  ## Gear and Features
+  ## Спорядження та особливості
 
-  As a squad leader, you have access to a lot of limited, better gear and skills for free, contrary to the humble rifleman. Some of note are:
+  Як Squad Leader, ви маєте доступ до багатьох обмеженого, кращого спорядження та навичок безкоштовно, на відміну від скромного стрільця. Деякі варті уваги:
 
-  - A free B12 armor. Upmost robustness.
+  - Безкоштовна броня B12. Найвища міцність.
   <GuideEntityEmbed Entity="CMArmorB12"/>
-  - Cheap access to an RTO pack, grab it.
+  - Дешевий доступ до RTO-рюкзака, беріть його.
   <GuideEntityEmbed Entity="RMCBackpackRTO"/>
-  - Cheap access to a whistle, grab it.
+  - Дешевий доступ до свистка, беріть його.
   <GuideEntityEmbed Entity="RMCWhistle"/>
-  - A 25P cost pair of NVG optics, with a battery of 10 minutes. Rechargeable at any powered recharger, once screwed out of the helmet
+  - Пара NVG-приладів вартістю 25P, з батареєю на 10 хвилин. Перезаряджається на будь-якому енергетичному пристрої, після того як викручені з шолома.
   <GuideEntityEmbed Entity="RMCVisorNightVision"/>
-  - A Medical skill of 1, letting you use auto-injectors instantly.
-  - Large pouches for days.
+  - Медичний скіл рівня 1, що дозволяє миттєво використовувати автоінжектори.
+  - Великі кишені на дні.
 
-  Along with that, you have the most basic leading skill of one. Which is granted to whoever is assigned as the aSL. These grant minor buffs on use:
+  Разом з цим у вас є базовий навичок лідерства один. Він надається тому, кого призначено aSL. Це надає невеликі бафи при використанні:
 
-  - [bold]Issue order - Move[/bold]: grants a small movement speed bonus
+  - [bold]Issue order - Move[/bold]: надає невеликий бонус швидкості руху
 
-  - [bold]Issue order - Hold[/bold]: grants a small damage resistance bonus
+  - [bold]Issue order - Hold[/bold]: надає невеликий бонус опору шкоді
 
-  - [bold]Issue order - Focus[/bold]: grants a small accuracy bonus
+  - [bold]Issue order - Focus[/bold]: надає невеликий бонус точності
 
   <Box>
     <GuideEntityEmbed Entity="RMCGuidebookActionMove"/>
@@ -39,102 +39,102 @@
 	<GuideEntityEmbed Entity="RMCGuidebookActionFocus"/>
   </Box>
 
-  # How to lead
+  # Як вести
 
-  Right, all is well, we are geared, what about the actual job, what do we do?
+  Так, все добре, ми спорядилися — а як щодо самої роботи, що ми робимо?
 
-  You're leading a squad of 20 crayon eating maggots that will do their best to ignore you. And thus, the crucial part of being a squad leader is to be heard. Once people listen to you and your orders, everything should go well, normally.
+  Ви ведете взвод з 20 личинок, що їдять крейду, які зроблять усе, щоб ігнорувати вас. І тому ключова частина бути Squad Leader — щоб вас почули. Як тільки люди слухатимуть вас і ваші накази, все має йти добре, зазвичай.
 
-  Good thing is, because you're a leader, you talk BIG. and when I mean BIG. I MEAN IT. You can speak in [bold]ALL CAPS WITH !![/bold] to have better visibility when talking, along with having innately larger text when speaking.
+  Хороша новина: оскільки ви лідер, ви говорите ВЕЛИКО. І коли я кажу ВЕЛИКО — Я ЦЕ МАЮ НА УВАЗІ. Ви можете говорити [bold]ВЕЛИКИМИ ЛІТЕРАМИ З !![/bold], щоб мати кращу видимість при розмові, разом з природньо більшим текстом при розмові.
 
-  ## How to be heard
-  Then, how do we take advantage of our GRAVE voice? Here's how:
+  ## Як бути почутим
+  Тоді як скористатися перевагою нашого ВАЖКОГО голосу? Ось як:
 
-  - Use LOCAL chat. It ensures people see orders easily.
-  - Give SHORT orders, ones that can be [bold]read in a pinch[/bold] and understand, such as the holy SL trinity: "[bold]HOLD[/bold]","[bold]BACK[/bold]" and "[bold]PUSH[/bold]"
-  - Use your whistle as an [bold]audio cue for people to LISTEN[/bold]
-  - Repeat the order if needed. Better twice than never.
+  - Використовуйте LOCAL чат. Це гарантує, що люди легко бачать накази.
+  - Давайте КОРОТКІ накази, такі що можна [bold]прочитати на ходу[/bold] і зрозуміти, як-от свята трійця SL: "[bold]HOLD[/bold]","[bold]BACK[/bold]" і "[bold]PUSH[/bold]"
+  - Використовуйте свисток як [bold]аудіо-сигнал, щоб люди СЛУХАЛИ[/bold]
+  - Повторюйте наказ, якщо потрібно. Краще двічі, ніж ніколи.
 
 
-  Now you know how to make the goons hear what you want. But how do you make them [bold]truly LISTEN[/bold] ?
+  Тепер ви знаєте, як змусити дурнів почути, що ви хочете. Але як змусити їх [bold]справді СЛУХАТИ[/bold]?
 
-  ## Charisma and You
-  You know what to say, but that's not all. You need to gather an invisible resource called "squad cohesion". Imagine it as a permanently depleting morale bar that you want as HIGH as possible at ALL times.
+  ## Харизма та ви
+  Ви знаєте, що сказати, але це не все. Вам потрібно зібрати невидимий ресурс, що називається "згуртованість взводу". Уявіть це як постійно виснажуючу шкалу моралі, яку ви хочете тримати ВИСОКОЮ ЗАВЖДИ.
 
-  To keep it up you'll can:
+  Щоб тримати її високою, ви можете:
 
-  - Talk with your squaddies, don't leave them hanging, ever.
-  - Hype them up pre-drop. A hyped squad is a deadly squad. [bold]A squad brief is perfect for that. Do it before brief, in dropship, or on ground, -but then keep it short.[/bold]
-  - Compliment your squaddies, if they know they're doing a good job, they'll keep doing it.
-  - Have regulars stick to you, that will come with time by sticking to a squad. The more with you, the more will stay, through sheep mentality.
+  - Спілкуватися зі своїми однополчанами, ніколи не залишайте їх в підвішеному стані.
+  - Хайпити їх перед дропом. Захайплений взвод — смертельний взвод. [bold]Брифінг взводу ідеальний для цього. Робіть це перед брифінгом, у десантному кораблі, або на землі — але тоді тримайте його коротким.[/bold]
+  - Хвалити однополчан — якщо вони знають, що добре виконують свою роботу, вони продовжуватимуть це робити.
+  - Дайте регулярам триматися біля вас — це прийде з часом, тримаючись у взводі. Чим більше з вами, тим більше залишиться, через ментальність вівці.
 
-  Alright, that's cool and all but how to be the bold charismatic guy? Don't worry, I also got you:
+  Так, це круто і все таке, але як бути сміливим харизматичним хлопцем? Не хвилюйтеся, у мене є рішення:
 
-  - Stay in character, stick to a personality (as one should). Be that one cold spec ops dude, or a caring father to his unsuspecting, crayon eating children. You get the idea.
-  - Skill brings trust. If you show marines you are good at your job, be it getting kills, communicating well or doing good rotations, people will naturally follow you.
+  - Залишайтеся в ролі, дотримуйтеся особистості (як і повинно). Будьте тим холодним хлопцем зі спецназу, або турботливим батьком для своїх неприреченних дітей, що їдять крейду. Ви розумієте.
+  - Скіл приносить довіру. Якщо ви показуєте морпіхам, що добре справляєтеся зі своєю роботою, чи то знищенням ворогів, чи добрим спілкуванням, чи добрими ротаціями — люди природно слідуватимуть за вами.
 
-  ## God's finger (Point spamming)
+  ## Палець божий (спам-вказівник)
 
   <Box>
-    [italic]"I POINT, you KILL, BREACH and MOVE. CLEAR CHARLIE?!"[/italic]
+    [italic]"Я ВКАЗУЮ, ви ВБИВАЄТЕ, ПРОРИВАЄТЕ і РУХАЄТЕСЯ. ЯСНО, CHARLIE?!"[/italic]
   </Box>
 
 
-  If you never noticed, most "leadership" roles have a special pointing arrow. By base, it's green. As a Squad Leader, yours will be BIG and of the color of your squad.
+  Якщо ви ніколи не помічали, більшість "лідерських" ролей мають спеціальну стрілку для вказування. За базою — зелена. Як Squad Leader, ваша буде ВЕЛИКА і кольору вашого взводу.
 
-  Why is this important, you may ask?
+  Чому це важливо, можете запитати?
 
-  Because this is the biggest tool to make people do what you want, go where you want to go. The tech humbly called "Point spam".
+  Тому що це найбільший інструмент, щоб змусити людей робити те, що ви хочете, йти туди, куди ви хочете. Техніка, скромно названа "Point spam".
 
-  It consists of getting people's attention, then just pointing where you want to: go, shoot, or destroy. It works all the time, is very visual (WAY better than trying to get people to listen).
+  Вона полягає у привертанні уваги людей, потім просто вказуванні на те, де ви хочете: йти, стріляти або знищувати. Працює завжди, дуже візуально (БАГАТО краще, ніж намагатися змусити людей слухати).
 
-  You see resin? Point at it and go CHOP IT!
+  Бачите смолу? Вкажіть на неї і йдіть РУБАТИ!
 
-  You want your squad to go there? Point the path nonstop to them.
+  Хочете, щоб ваш взвод йшов туди? Постійно вказуйте їм шлях.
 
-  You see big evil bad you want to push? Charge and point, or charge and shoot.
+  Бачите великого злого ворога, якого хочете push'ити? Атакуйте і вказуйте, або атакуйте і стріляйте.
 
-  # Strategy planning
-  This part will cover the more "strategic" part of playing squad leader. Whilst than the previously given basics, it is the key to ensuring you're doing your part to turn that crashing operation into a GLORIOUS MARINE MAJOR, OORAH!
+  # Стратегічне планування
+  Ця частина охоплюватиме більш "стратегічну" частину гри як Squad Leader. На відміну від попередньо наданих основ, це ключ до забезпечення того, що ви робите свою частину, щоб перетворити цю провальну операцію на СЛАВНУ ВЕЛИКУ ПЕРЕМОГУ МОРПІХА, ОУРА!
 
-  ## Orders and you
+  ## Накази і ви
 
-  A single squad going AWOL and pushing a spot away from others without being ordered to can and has on many occasions ruined operations.
+  Один взвод, що пішов AWOL і штовхається у місце, далеко від інших, без наказу — може й часто руйнує операції.
 
-  As a squad leader you are one of the five major pillars that may shift game's outcome in the marine's favor. The four others are composed of the other SLs AND the [bold]commander[/bold].
-  Said [bold]commander[/bold] will give your squad orders that are made for the operation's sake. No matter your rank, you SHOULD follow it. Unless it is unlawful, such as a suicide charge, if so per Marine Law you may refuse the unlawful order by stating why.
+  Як Squad Leader, ви — один з п'яти основних стовпів, що можуть змістити результат гри на користь морпіхів. Чотири інші — інші SL ТА [bold]командир[/bold].
+  Цей [bold]командир[/bold] дасть вашому взводу накази, зроблені для блага операції. Незалежно від вашого рангу, ви ПОВИННІ їх виконувати. Хіба що це незаконно, як-от самогубчий заряд — тоді за Законом морської піхоти ви можете відмовитися від незаконного наказу, заявивши чому.
 
-  ## Comms - communication? The talk.
-  Just as it is important you talk to your squad, it is important you talk to the eyes in the squad, the CIC. They have the big picture (most of the time), and if they know what you're doing, they will (hopefully) adjust things to ensure that you can kill those dirty bugs, together. Together? As in every marine. Because you're not alone. There are three other squads with three others leaders (not as good as you, because you've read this and they haven't, obviously.) but still.
+  ## Зв'язок — спілкування? Розмова.
+  Так само як важливо, щоб ви говорили з взводом, важливо говорити з очима у взводі — CIC. У них велика картина (більшу частину часу), і якщо вони знають, що ви робите, вони (сподіваюся) скоригують речі, щоб забезпечити, що ви зможете вбити цих брудних жуків, разом. Разом? Як кожен морпіх. Тому що ви не самі. Є три інші взводи з трьома іншими лідерами (не такими хорошими, як ви, бо ви прочитали це, а вони ні, очевидно), але все ж.
 
-  Use a phonepack if comms are down, else give regular status reports in the command channel or in your squad channel. Hell, Queen's dead thanks to your men?
+  Використовуйте phonepack, якщо зв'язок впав, інакше давайте регулярні звіти про статус у командному каналі або в каналі вашого взводу. Чорт, Королева мертва завдяки вашим людям?
 
-  ":v Charlie got the queen kill. Pushing further."
+  ":v Charlie взяла кіл Королеви. Штовхаюся далі."
 
-  Along with this, as the squad leader, you're generally expected to know better how to call Orbital Bombardments. You spawn with a laser designator which when switched mode, can turn into rangefinder mode. Use it where you want the entire area to be flattened and share the coordinates.
+  Разом з цим, як Squad Leader, від вас зазвичай очікується знати краще, як викликати орбітальні бомбардування. Ви спавнитеся з лазерним прицілом, який при перемиканні режиму може стати в режим далекоміра. Використовуйте це там, де хочете, щоб уся зона була зрівняна, і поділіться координатами.
 
-  [bold]BE VERY CAUTIOUS WHEN ADJUSTING COORDINATES YOURSELF. [/bold]
+  [bold]БУДЬТЕ ДУЖЕ ОБЕРЕЖНІ ПРИ КОРИГУВАННІ КООРДИНАТ САМОСТІЙНО.[/bold]
 
-  ## Pushing? Backing? What, how and why.
+  ## Push'ити? Назад? Що, як і чому.
 
-  Those dirty 'nids are smart, but you're smarter. You want to know when it's the right time to go in and fuck shit up. Obviously you have your squad orders given by the CIC. Execute them at priority, but make sure it doesn't wipe your squad.
+  Ці брудні 'ніди розумні, але ви розумніше. Ви хочете знати, коли правильний час іти і все рознести. Очевидно, у вас є накази взводу, дані CIC. Виконуйте їх першочергово, але переконайтеся, що це не знищить ваш взвод.
 
-  Using your MOVE order is most appropriate when having to do direct maneuvers.
+  Використання вашого наказу MOVE найбільш доречне при необхідності прямих маневрів.
 
-  Ultimately, the placement of your squad depends on you. The gut feeling of knowing where to do, when to and not to push will come with time. But a few things can help:
+  Зрештою, розташування вашого взводу залежить від вас. Інстинкт знання, де робити, коли і коли не push'ити, прийде з часом. Але кілька речей можуть допомогти:
 
-  - Using your binoculars when rotating to know where the enemy is and isn't
-  - Using your NVGs at appropriate timings (so you don't run into darkness where john lurker is waiting)
-  - Listening to comms, focus on important messages within the lines of "OH GOD QUEEN ON DELTA PLEASE [insert your squad here] GO SAVE THEM EAST"
-  - MAP KNOWLEDGE. Know the place, don't be lost, use tacmap.
+  - Використання бінокля при ротаціях, щоб знати, де ворог є і де його немає
+  - Використання NVG у відповідні моменти (щоб не вбігти в темряву, де чекає john lurker)
+  - Слухання зв'язку, фокус на важливих повідомленнях у стилі "О ГОСПОДИ КОРОЛЕВА НА DELTA, БУДЬ ЛАСКА, [вставте свій взвод] ІДІТЬ РЯТУЙТЕ ЇХ НА СХІД"
+  - ЗНАННЯ КАРТИ. Знайте місце, не губіться, використовуйте tacmap.
 
-  # Conclusion
-  Squad leader is both the heart, brain and voice of the squad, along with one of the most game decisive role. It's up to you to be the ruthless operation finisher through your tactics and formations. Do not forget to communicate, keep your squad together and adjust to threats best you can to keep your lovely gunners in one piece.
+  # Висновок
+  Squad Leader — це і серце, і мозок, і голос взводу, разом з однією з найбільш гра-вирішальних ролей. Залежить від вас, бути нещадним фінішером операції через свої тактики та формування. Не забувайте спілкуватися, тримати взвод разом і пристосовуватися до загроз якнайкраще, щоб тримати своїх любих стрільців цілими.
 
-  Truth is, anyone can lead. But this role is for those who want to shine brighter at it.
+  Правда в тому, що будь-хто може вести. Але ця роль для тих, хто хоче сяяти яскравіше в ній.
 
-  And always remember.
+  І завжди пам'ятайте.
 
-  [bold]You're here to lead your marines to victory, or peril together. Be humble and always seek to improve.[/bold]
+  [bold]Ви тут, щоб вести своїх морпіхів до перемоги — або до загибелі разом. Будьте скромними і завжди прагніть покращуватися.[/bold]
 
 </Document>

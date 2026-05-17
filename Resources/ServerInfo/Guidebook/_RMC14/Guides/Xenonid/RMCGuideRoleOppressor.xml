@@ -1,26 +1,26 @@
 <Document>
   #Oppressor, Tier 3
   <GuideEntityEmbed Entity="RMCXenoPraetorianOppressor"/>
-  ##Playing as an Oppressor
-  You are now specialized in being the Queen of Fishing. Firstly let's see what's changed from your Base form. You trade a portion of your speed, a bit of slash damage, slight loss in armor, and acid abilities to become a bulwark of the Queen that gains stun resistance from grenades. Your slashes deal increased damage to prone targets, and you gain a lash that knocks over and flings opponents in front of you as well as two abilities that can pull in hosts.
+  ##Гра за Oppressor
+  Тепер ви спеціалізуєтесь на тому, щоб бути Королевою Рибалки. Спочатку подивимось, що змінилося від базової форми. Ви обмінюєте частину швидкості, трохи шкоди слешу, незначну втрату броні та кислотні здібності, щоб стати оплотом Королеви, що отримує опір до оглушень від гранат. Ваші слеші завдають збільшеної шкоди поваленим цілям, і ви отримуєте lash, що скидає і кидає опонентів перед вами, а також дві здібності, що можуть притягувати хостів.
 
-  Oppressor is unique in its playstyle, specializing in capturing hosts from afar and keeping them there to them to be captured.
+  Oppressor унікальний у своєму стилі гри, спеціалізуючись на захопленні хостів здалеку та утриманні їх там для захоплення.
 
-  Your dislocation abilities can become very lethal when used in the right way. The usual combo is to first abduct, dislocate them, then walking behind them to tail lash them towards the hive, and tackling if it's safe to do so.
+  Ваші здібності зміщення можуть стати дуже летальними, якщо використовувати їх правильно. Звичайне комбо: спочатку abduct, потім dislocate, ходіть позаду них, щоб tail lash їх до Гнізда, і таклити, якщо безпечно.
 
-  Remember to use fire to your advantage by hooking hosts into them, by either standing behind the fire and abducting or tail seizing.
+  Не забувайте використовувати вогонь у свою користь, гачкуючи хостів у нього — стоячи за вогнем і abduct'ючи або tail seize'ючи.
 
-  ##Abilities:
-  - [bold][color=green]PASSIVE[/color][/bold]: Your slashes deal additional damage to prone/knock targets.
-  - [bold]Abduct[/bold]: Landing this long ranged ability on:
-  - 1 person will drag them in front of you and slow them.
-  - 2 people will drag them in front of you, slow them, daze them and briefly root them.
-  - 3 or more people will drag them in front of you, slow them and briefly stun them.
+  ##Здібності:
+  - [bold][color=green]ПАСИВНА[/color][/bold]: Ваші слеші завдають додаткової шкоди поваленим/збитим цілям.
+  - [bold]Abduct[/bold]: Якщо влучите цією дальньою здібністю в:
+  - 1 особу — перетягне її перед вами і сповільнить.
+  - 2 людей — перетягне їх перед вами, сповільнить, dazes та коротко root'не.
+  - 3 чи більше людей — перетягне їх перед вами, сповільнить і коротко оглушить.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoAbduct"/>
-  - [bold]Dislocate[/bold]: A powerful punch, similar to the warrior's punch. Deals armor piercing damage, more if your enemy is slowed. Will also root slowed targets. Reduces other ability cooldowns.
+  - [bold]Dislocate[/bold]: Потужний удар, схожий на удар warrior'а. Завдає бронебійної шкоди, більше, якщо ваш ворог сповільнений. Також root'не сповільнених цілей. Зменшує кулдауни інших здібностей.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoDislocate"/>
-  - [bold]Tail Lash[/bold]: Knock hosts back in a 2x3 area in front of you and slow them. Take note that this ability has a wind up.
+  - [bold]Tail Lash[/bold]: Скидає хостів назад в зоні 2x3 перед вами і сповільнює їх. Зверніть увагу, що ця здібність має задержку.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoTailLash"/>
-  - [bold]Tail Seize[/bold]: The Oppressor has a unique tail stab, instead called Tail Seize. It has a range of 3 tiles - dealing 40 damage, pulling the target in towards you and slowing them upon their arrival.
+  - [bold]Tail Seize[/bold]: Oppressor має унікальний tail stab, що називається Tail Seize. Він має радіус 3 тайли — завдає 40 шкоди, тягне ціль до вас і сповільнює її при прибутті.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoTailSeize"/>
 </Document>

@@ -1,43 +1,43 @@
 ﻿<Document>
-  #High Roleplay Roles
-  Some roles have a major impact on the round and therefore require a higher level of roleplay.
+  #Ролі високого рольового рівня
+  Деякі ролі мають значний вплив на раунд, тому потребують вищого рівня рольової гри.
 
-  ##Colony Command Roles
-  A person with a "colony command role" is defined as anyone currently in one of the following positions:
-  - The Colony Administrator
-  - Colony Operations Synthetics
-  - The Foreman
-  - Colony Law Enforcement Leaders (CMB Marshal, etc)
+  ##Командні ролі Колонії
+  Особа з "командною роллю Колонії" визначається як будь-хто, хто наразі займає одну з таких посад:
+  - Адміністратор Колонії
+  - Синтетики операцій Колонії
+  - Бригадир (Foreman)
+  - Лідери правоохоронних органів Колонії (Маршал CMB тощо)
 
-  Colony Command must make an attempt to follow Colony Law, except if they are correctly part of a valid mutiny.
+  Командування Колонії повинно намагатися дотримуватися Закону Колонії, окрім випадків, коли вони правильно є частиною валідного заколоту.
 
-  Colony Command may not willingly take any action that would end in the destruction of the colony or the mass harm of its people.
+  Командування Колонії не може свідомо вчиняти будь-які дії, що призведуть до знищення колонії або масової шкоди її людям.
 
-  Those in colony command roles must be able to communicate clearly and concisely when communicating on radio channels and announcements, and while in any professional setting.
+  Особи на командних ролях Колонії повинні мати можливість спілкуватися чітко та лаконічно під час спілкування на радіоканалах та оголошеннях, а також у будь-якій професійній обстановці.
 
-  ##Military Command Roles
-  A person with a "military command role" is defined as anyone currently in one of the following positions:
-  - The Commander of GOVFOR/OPFOR.
-  - Junior Officers in the role of Acting Commander.
-  - Non-Combat Synthetics (Auxiliary Support, etc).
-  - Any role holding a rank above O3 (usually a captain) or equivalent.
+  ##Військові командні ролі
+  Особа з "військовою командною роллю" визначається як будь-хто, хто наразі займає одну з таких посад:
+  - Командир GOVFOR/OPFOR.
+  - Молодші офіцери на ролі В.о. командира.
+  - Небойові синтетики (Допоміжна підтримка тощо).
+  - Будь-яка роль, що має ранг вище за O3 (зазвичай капітан) або еквівалент.
 
-  Military Command must make an attempt to follow the Uniform Code of Military Justice and the Standard Operating Procedures, except if they are correctly part of a valid mutiny.
+  Військове командування повинно намагатися дотримуватися Уніфікованого кодексу військової юстиції та Стандартних Операційних Процедур, окрім випадків, коли вони правильно є частиною валідного заколоту.
 
-  Military Command may not willingly take any action that would end in the destruction of their ship/base or the mass harm of allied military members unless the action would reasonably end in faction mechanical victory (reference the objectives console) or the saving of multiple civilian lives.
+  Військове командування не може свідомо вчиняти будь-які дії, що призведуть до знищення свого корабля/бази або масової шкоди союзним військовим членам, окрім випадків, коли дія обґрунтовано призведе до механічної перемоги фракції (звертайтеся до консолі цілей) або до врятування кількох цивільних життів.
 
-  Military Command may not deploy to the Area of Operations (leave the ship) unless there is a military command role in the CIC.
+  Військове командування не може розгортатися в Зону операцій (покидати корабель), якщо в CIC немає військової командної ролі.
 
-  Those in military command roles must be able to communicate clearly and concisely when communicating on radio channels and announcements, and while in any professional setting.
+  Особи на військових командних ролях повинні мати можливість спілкуватися чітко та лаконічно під час спілкування на радіоканалах та оголошеннях, а також у будь-якій професійній обстановці.
 
-  ##Non-Combat Synthetics
-  A person with a non-combat synthetic role is defined as any Synthetic incapable of handling a firearm who has not been assigned an antag objective or is not apart of a threat.
+  ##Небойові синтетики
+  Особа з небойовою синтетичною роллю визначається як будь-який синтетик, нездатний поводитися з вогнепальною зброєю, якому не призначена антагоністична ціль або який не є частиною загрози.
 
-  Synthetics may only engage an enemy with lethal force to save the lives of any present friendly faction member or innocent/unarmed individual. The Synthetic must immediately disengage and not advance on an enemy if they make an attempt to flee while no-longer inflicting harm or have been incapacitated.
+  Синтетики можуть атакувати ворога з летальною силою лише для врятування життя будь-якого присутнього члена дружньої фракції чи невинної/беззбройної особи. Синтетик повинен негайно припинити атаку і не наближатися до ворога, якщо вони намагаються втекти, більше не завдаючи шкоди, або були виведені з ладу.
 
-  Synthetics who spawn with policing equipment may enforce their assigned law (colony law, UCMJ, etc) but must do so non-lethally where the above does not apply.
+  Синтетики, що спавняться з поліцейським спорядженням, можуть забезпечувати дотримання призначеного їм закону (закон Колонії, UCMJ тощо), але повинні робити це нелетально, якщо вищезгадане не застосовується.
 
-  Synthetics may not opt to leave someone to die/expire (even an enemy), unless doing so in an effort to save fellow faction members first. Synthetics are not required to provide medical aid to those who have gone permanently SSD (ghosted) or when it would put the synthetic at risk of imminent death (ex, the dead is far behind the xeno frontline).
+  Синтетики не можуть обирати залишити когось помирати/закінчити життя (навіть ворога), окрім випадків, коли роблять це у спробі врятувати спочатку колег по фракції. Синтетики не зобов'язані надавати медичну допомогу тим, хто остаточно SSD (привид) або коли це поставило б синтетика під ризик неминучої смерті (наприклад, мертвий далеко позаду фронту ксено).
 
-  Synthetics are permanently bound to the Law/SOP of the faction in-which they spawn and may not violate it.
+  Синтетики постійно прив'язані до Закону/SOP фракції, у якій вони спавняться, і не можуть його порушувати.
 </Document>

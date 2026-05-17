@@ -1,21 +1,21 @@
 <Document>
   #Warrior, Tier 2
   <GuideEntityEmbed Entity="CMXenoWarrior"/>
-  ##Playing as a Warrior
-  Being very different from Defender, you now act as a primary attacker by staying on the frontline. Singling hosts out, use your Lunge to grab hosts and Fling them towards the hive. After this, you can tackle them to capture.
+  ##Гра за Warrior
+  Дуже відмінний від Defender, тепер ви дієте як основний нападник, залишаючись на передовій. Виокремлюйте хостів, використовуйте свій Lunge, щоб схопити їх, і Fling, щоб кинути в напрямку Гнізда. Після цього можна таклити для захоплення.
 
-  Beware that you have a smaller armor pool than Defender and will be easy to kill if dragging a target after lunging.
+  Стережіться — у вас менший пул броні, ніж у Defender, і вас легко вбити, якщо ви тягнете ціль після lunge.
 
-  Using your environment is the key to kill hosts in groups, you can fling and punch them into walls to deal even more damage. If you want to fight a duo, then lunge one and fling the other. This lets you weaken them down slowly.
+  Використання середовища — ключ до вбивства хостів у групах: ви можете кидати і бити їх об стіни, щоб завдати ще більше шкоди. Якщо хочете боротися з парою, тоді lunge одного і fling іншого. Це дозволить ослабити їх повільно.
 
-  Reminder that the stun from lunge is as long as you keep a hold of them, if you let go of your drag it will cancel their stun prematurely. In other cases this stun is long enough to tackle them down after a lunge.
+  Нагадування: оглушення від lunge триває стільки, скільки ви тримаєте їх; якщо відпустите перетягування, оглушення скасується передчасно. В інших випадках це оглушення достатньо довге, щоб таклити їх після lunge.
 
-  ##Abilities:
-  - [bold][color=green]PASSIVE[/color][/bold]: Your slashes and abilities have lifesteal, granting you health upon hit.
-  - [bold]Fling[/bold]: Fling a target backwards 3 tiles and damage them, will also stun for a bit.
+  ##Здібності:
+  - [bold][color=green]ПАСИВНА[/color][/bold]: Ваші слеші та здібності мають lifesteal, надаючи здоров'я при ударі.
+  - [bold]Fling[/bold]: Кидає ціль назад на 3 тайли і завдає шкоди, також коротко оглушує.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoFling"/>
-  - [bold]Lunge[/bold]: Lunge towards a target and grab them, dragging will leave you VERY vulnerable and slow you down so be sure to know when to stop dragging.
+  - [bold]Lunge[/bold]: Кидається до цілі і хапає її; перетягування залишить вас ДУЖЕ вразливими і сповільнить вас, тож знайте, коли зупинитися.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoLunge"/>
-  - [bold]Punch[/bold]: Punches the target, dealing a hefty amount of damage as well as knocking them back a tile.
+  - [bold]Punch[/bold]: Б'є ціль кулаком, завдаючи значної шкоди та відкидаючи її на тайл.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPunch"/>
 </Document>

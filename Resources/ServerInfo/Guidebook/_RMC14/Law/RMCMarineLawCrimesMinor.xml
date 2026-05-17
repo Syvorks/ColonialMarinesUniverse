@@ -1,148 +1,148 @@
 ﻿<Document>
-  # Minor Crimes
-  - These crimes are low severity, and can be punished with an NJP.
+  # Дрібні злочини
+  - Ці злочини низької серйозності та можуть бути покарані NJP.
   <Table Columns="3">
     <ColorBox>
       <Box>
-        Charge
+        Звинувачення
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Description
+        Опис
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Punishment
+        Покарання
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Failure to Follow Procedure
+        Невиконання процедур
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Failing to follow the regulations found in the Standard Operating Procedure.
+        Невиконання правил, наведених у Стандартних Операційних Процедурах.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]10 Minutes, equipment confiscation where relevant.[/bold]
-      </Box>
-    </ColorBox>
-
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Smoking in Medical Areas
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Smoking in areas designated for use by medical personnel, such as the entire medbay and surgical rooms.
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]5 Minutes.[/bold]
+        [bold]10 хвилин, конфіскація обладнання, де це доречно.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Hooliganism
+        Куріння в медичних зонах
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Behavior that is generally disruptive to the ship or base and its crew that classifies as low-level shenanigans not deserving of more severe punishment. Things such as excessive window knocking, force-feeding or failing to conduct oneself properly during the briefing, such as climbing the Briefing overview. This can escalate to [bold]Disorderly Conduct[/bold].
+        Куріння в зонах, призначених для використання медичним персоналом, як-от увесь медблок та хірургічні кабінети.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]NJP or 5 minutes.[/bold]
-      </Box>
-    </ColorBox>
-
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Trespassing
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Unauthorized access of an area which a person does not normally have access to or without command/superior approval.
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]Escort out of the area and optionally 7.5 minutes.[/bold]
+        [bold]5 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Intoxication
+        Хуліганство
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        To consume alcohol, marijana or other substances such as drugs resulting in being mentally or physically impaired.
+        Поведінка, що зазвичай заважає кораблю чи базі та її екіпажу і класифікується як низькорівневі витівки, які не заслуговують більш серйозного покарання. Наприклад, надмірне стукання у вікна, насильне годування або неналежне поводження під час брифінгу, як-от лазіння на оглядовій брифінгу. Це може ескалуватися до [bold]Заворушень[/bold].
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]10 minutes, extended until the person is no longer impaired.[/bold]
-      </Box>
-    </ColorBox>
-
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Theft
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        To take items (or property) from another person or entity without their express permission, or to retain possession of items that have been taken without permission. This includes the removal of vendors from department areas without permission.
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]10 minutes, and the item(s) returned to the owner.[/bold]
+        [bold]NJP або 5 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Disrespecting a superior Officer
+        Незаконний прохід
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        Using offensive names or being directly disrespectful to an [bold]Officer[/bold] of higher rank or position.
+        Несанкціонований доступ до зони, до якої особа зазвичай не має доступу або без схвалення командування/керівника.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]10 minutes.[/bold]
+        [bold]Виведення з зони і опціонально 7,5 хвилин.[/bold]
       </Box>
     </ColorBox>
 
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        False Testimony
+        Сп'яніння
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        To intentionally and willingly lie to an MP/Law Enforcement Officer, or deputized officer, during a criminal investigation with the intent to disrupt said investigation.
+        Споживання алкоголю, марихуани або інших речовин, як-от наркотиків, що призводить до психічної чи фізичної недієздатності.
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
-        [bold]5 minutes.[/bold]
+        [bold]10 хвилин, продовжене, поки особа не перестане бути недієздатною.[/bold]
+      </Box>
+    </ColorBox>
+
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Крадіжка
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Взяття предметів (або власності) у іншої особи чи організації без її явного дозволу або утримання предметів, узятих без дозволу. Це включає видалення вендорів зі зон відділів без дозволу.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        [bold]10 хвилин, та повернення предмета(ів) власнику.[/bold]
+      </Box>
+    </ColorBox>
+
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Неповага до старшого офіцера
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Використання образливих імен або пряма неповага до [bold]Офіцера[/bold] вищого рангу чи посади.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        [bold]10 хвилин.[/bold]
+      </Box>
+    </ColorBox>
+
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Неправдиві свідчення
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        Свідома та навмисна брехня MP/Правоохоронцю або депутованому офіцеру під час кримінального розслідування з наміром порушити це розслідування.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="3">
+        [bold]5 хвилин.[/bold]
       </Box>
     </ColorBox>
 

@@ -1,18 +1,18 @@
 <Document>
   #Lurker, Tier 2
   <GuideEntityEmbed Entity="CMXenoLurker"/>
-  ##Playing as a Lurker
-  What you lose in speed is gained in health and invisibility, being capable to quickly drag off hosts from the frontline and backline to capture.
+  ##Гра за Lurker
+  Те, що ви втрачаєте в швидкості, отримуєте в здоров'ї та невидимості, що дозволяє швидко перетягувати хостів з фронту й тилу для захоплення.
 
-  To execute the Lurker combo, you must first be invisible then leap onto your target. Time your slash to hit after your leap connects and then use Crippling Strike to drag them off and tackle. You can also otherwise continue with a burst of damage.
+  Щоб виконати комбо Lurker, спочатку потрібно стати невидимим, потім стрибнути на ціль. Розрахуйте удар так, щоб влучити після того, як стрибок з'єднався, потім використайте Crippling Strike, щоб перетягнути її та таклити. Ви також можете продовжити сплеском шкоди.
 
-  Remember to monitor your invisibility, as it could run out at a inopportune time. You are also not entirely invisible so stick to low light conditions.
+  Не забувайте контролювати свою невидимість — вона може закінчитися в незручний момент. Ви також не повністю невидимі, тож тримайтеся умов слабкого світла.
 
-  ##Abilities:
-  - [bold]Pounce[/bold]: Leap at a target pinning them to the ground only if invisible, this stun is longer than a runner but will root you onto your target unless you slash after.
+  ##Здібності:
+  - [bold]Pounce[/bold]: Стрибок на ціль, що приколює її до землі, але лише якщо ви невидимі; це оглушення довше за Runner'а, але прив'яже вас до цілі, якщо не вдарите після.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoPounce"/>
-  - [bold]Turn Invisible[/bold]: Become partially invisible, your movement speed is increased but if you attack or pounce your invisibility will wear off.
+  - [bold]Turn Invisible[/bold]: Стати частково невидимим; ваша швидкість руху збільшується, але якщо атакуєте чи стрибнете, невидимість зникне.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoTurnInvisible"/>
-  - [bold]Crippling Strike[/bold]: The next target you slash will do more damage and slow them down.
+  - [bold]Crippling Strike[/bold]: Наступна ціль, яку ви вдарите, отримає більше шкоди й буде сповільнена.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCripplingStrike"/>
 </Document>

@@ -1,28 +1,28 @@
 ﻿<Document>
-  # Device Monitoring and Control
-  Given the station-wide nature of the atmospherics network, it is important to have a way to monitor and control devices from a central location.
+  # Моніторинг та контроль пристроїв
+  Зважаючи на станційний масштаб атмосферної мережі, важливо мати спосіб моніторингу та контролю пристроїв з центрального місця.
 
-  Using these systems, Atmospherics can monitor and control the atmosphere across the entire station.
+  За допомогою цих систем Атмосферика може моніторити та контролювати атмосферу по всій станції.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
     <GuideEntityEmbed Entity="AirSensor" Caption=""/>
   </Box>
   <Box>
-    ## Air Alarms
+    ## Повітряні тривоги
   </Box>
   <Box>
-    [color=#999999][italic]Wide area monitoring and control over atmos devices[italic][/color]
+    [color=#999999][italic]Широкозонний моніторинг та контроль атмосферних пристроїв[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Atmospheric Alerts Computer
+    ## Комп'ютер атмосферних тривог
   </Box>
   <Box>
-    [color=#999999][italic]Station-wide monitoring of air alarms[italic][/color]
+    [color=#999999][italic]Станційний моніторинг повітряних тривог[italic][/color]
   </Box>
 
   <Box>
@@ -30,10 +30,10 @@
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Atmospheric Network Monitor
+    ## Монітор атмосферної мережі
   </Box>
   <Box>
-    [color=#999999][italic]Monitoring of whole pipe networks[italic][/color]
+    [color=#999999][italic]Моніторинг цілих трубних мереж[italic][/color]
   </Box>
 
 </Document>

@@ -1,8 +1,8 @@
 ﻿<Document>
-  # Wire Panels
-  Some station devices like airlocks, vending machines, and arcade consoles have wire panels, which control certain aspects of their functionality.
+  # Провідні панелі
+  Деякі станційні пристрої, як-от шлюзи, вендингові машини та аркадні консолі, мають провідні панелі, що контролюють певні аспекти їхньої функціональності.
 
-  These panels can be opened using a screwdriver to access the wiring inside.
+  Ці панелі можна відкрити викруткою для доступу до проводки всередині.
 
   <Box>
     <GuideEntityEmbed Entity="Wirecutter"/>
@@ -10,20 +10,20 @@
     <GuideEntityEmbed Entity="Multitool"/>
   </Box>
 
-  From here you can use wirecutters and a multitool to interact with the wiring. Note that interacting with the wiring often requires insulated gloves, as if the wire is live, you can get shocked.
+  Звідси ви можете використовувати кусачки та мультитул для взаємодії з проводкою. Зверніть увагу, що взаємодія з проводкою часто потребує ізольованих рукавиць, оскільки якщо провід під напругою, вас може вдарити струмом.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingHandsGlovesColorYellow"/>
   </Box>
 
-  You can cut and mend wires using the wirecutters and pulse wires using the multitool.
+  Ви можете різати та відновлювати проводи кусачками та пульсувати проводи мультитулом.
 
-  Cutting wires often completely disables or restores functionality to a device.
-  It may also trigger unintended functionality like shocking people, dropping door bolts, or exploding.
+  Різання проводів часто повністю вимикає або відновлює функціональність пристрою.
+  Це також може спричинити непередбачену функціональність, як-от удар струмом, опускання болтів дверей або вибух.
 
-  Pulsing wires can have a variety of effects, but oftentimes it either temporarily disables or enables functionality.
+  Пульсування проводів може мати різні ефекти, але найчастіше тимчасово вимикає або вмикає функціональність.
 
-  You can't pulse wires if the wire you're trying to pulse is cut. You have to mend the wire first.
+  Ви не можете пульсувати перерізані проводи. Спочатку потрібно відновити провід.
 
 
 </Document>

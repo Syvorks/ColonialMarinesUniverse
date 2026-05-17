@@ -3,24 +3,24 @@
 
   <GuideEntityEmbed Entity="CMXenoPraetorian"/>
 
-  ##Playing as a Praetorian
+  ##Гра за Praetorian
 
-  Base Praetorian is similar to an upgraded Spitter, specializing in consistent ranged attacks and having a dash ability. They can sync up multiple abilities to deal bursts of damage from around corners such as Acid Spit and Acid Ball.
+  Базовий Praetorian схожий на покращеного Spitter, спеціалізуючись на постійних дальніх атаках та маючи здібність dash. Вони можуть синхронізувати кілька здібностей, щоб завдати сплесків шкоди з-за кутів, як-от Acid Spit та Acid Ball.
 
-  Its passive grants acid-based attacks a stack of acid to targets. Once they reach 5 stacks they will take additional burn damage and sizzle. These stacks can be easily reached by stacking multiple abilities on the same target.
+  Його пасивна здібність надає кислотним атакам стак кислоти на цілях. Як тільки досягають 5 стаків — вони отримуватимуть додаткову шкоду від опіків та шипіння. Цих стаків легко досягти, складаючи кілька здібностей на одній цілі.
 
-  Recommended to play around corners and quickly disperse burst attacks. Use your range to your advantage to pressure the hosts.
+  Рекомендується грати з-за кутів і швидко розпорошувати burst-атаки. Використовуйте свою дальність як перевагу, щоб тиснути на хостів.
 
-  ##Abilities:
-  - [bold][color=green]PASSIVE[/color][/bold]: Acid attacks apply a stack of acid to target. If 5 stacks are reached on a single target then they will take additional burn damage.
-  - [bold][color=green]PASSIVE[/color][/bold]: Acid spits grant shield upon hit.
-  - [bold]Acid Spit[/bold]: Glob acid to deal damage to any targets and grants shield upon hit.
+  ##Здібності:
+  - [bold][color=green]ПАСИВНА[/color][/bold]: Кислотні атаки наносять стак кислоти на ціль. Якщо досягнуто 5 стаків на одній цілі — вона отримуватиме додаткову шкоду від опіків.
+  - [bold][color=green]ПАСИВНА[/color][/bold]: Кислотні плювки надають щит при ударі.
+  - [bold]Acid Spit[/bold]: Грудка кислоти, що завдає шкоди будь-яким цілям і надає щит при ударі.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoSpit"/>
-  - [bold]Dash[/bold]: Dash a short distance.
+  - [bold]Dash[/bold]: Ривок на коротку відстань.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoDash"/>
-  - [bold]Spray Acid[/bold]: Sprays acid along the ground in a line, covering any barricades and dealing damage to hosts, additionally applying a stack of acid to them.
-  - Will also extinguish any sisters if they are on fire.
+  - [bold]Spray Acid[/bold]: Розпиляє кислоту по землі в лінії, покриваючи будь-які барикади і завдаючи шкоди хостам, додатково наносячи стак кислоти.
+  - Також гасить будь-яких сестер, якщо вони горять.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoSprayAcid"/>
-  - [bold]Corrosive Acid[/bold]: Secretes a glob of acid on items to be dissolved.
+  - [bold]Corrosive Acid[/bold]: Секретує грудку кислоти на предметах для розчинення.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCorrosiveAcid"/>
 </Document>

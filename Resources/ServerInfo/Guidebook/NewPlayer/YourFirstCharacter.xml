@@ -1,54 +1,54 @@
 <Document>
-# The Captains and the Clowns
-This is a guide for editing your character's appearance. Make sure you read Character Creation first.
-Upon creating your character, you may be intimidated by your vast range of options.
+# Капітани та клоуни
+Це гайд з редагування зовнішності вашого персонажа. Спочатку прочитайте розділ Створення персонажа.
+Створюючи свого персонажа, ви можете бути приголомшені величезним вибором опцій.
   
-It's okay to make your first character [color=#a4885c]randomized[/color] and roll with it, even experienced players do it.
-Making your first character doesn't have to be precise, either. You can [color=#a4885c]wing it[/color] and see what happens.
+Цілком нормально зробити першого персонажа [color=#a4885c]рандомним[/color] і грати з тим, що вийшло — навіть досвідчені гравці так роблять.
+Створення першого персонажа не обов'язково має бути точним. Ви можете [color=#a4885c]імпровізувати[/color] і подивитися, що вийде.
   
-If you'd like to be [color=#a4885c]methodical[/color], though, creating a character is easy to do one step at a time.
+Якщо ж ви хочете бути [color=#a4885c]методичним[/color], створення персонажа легко робити крок за кроком.
 
-## Choosing a Species
-Most species have minor differences, which you can read about under the [color=#a4885c]Species[/color] entry.
-However, you may find that it's easier to make your first character as a human, moth, dwarf or reptilian.
+## Вибір виду
+Більшість видів мають незначні відмінності, про які можна прочитати в розділі [color=#a4885c]Види[/color].
+Однак вам може бути простіше зробити першого персонажа людиною, моллю, гномом або рептиліаном.
 
-This shouldn't discourage you from getting creative with your character, though.
+Це не повинно відлякувати вас від творчого підходу до свого персонажа.
 
-This guide will assume you are creating a human, but the process is similar across all species.
+Цей гайд припускає, що ви створюєте людину, але процес подібний для всіх видів.
 
-## Minor Characteristics
-These include:
-- Age (18-29 for young, 30-59 for middle-aged, 60+ for old)
-- Sex (your sprite, as seen by toggling "Show clothing")
-- Pronouns (what the game will refer to you as)
-- Skin color (may be a slider or RGB depending on species)
-- Eye color (RGB)
-- Hair color (RGB)
+## Другорядні характеристики
+До них належать:
+- Вік (18-29 для молодих, 30-59 для середнього віку, 60+ для літніх)
+- Стать (ваш спрайт, видимий при перемиканні "Show clothing")
+- Займенники (як гра на вас посилатиметься)
+- Колір шкіри (може бути повзунком або RGB залежно від виду)
+- Колір очей (RGB)
+- Колір волосся (RGB)
 
-These are minor changes and have little effect on gameplay. This is what players will read when they [color=#a4885c]examine you[/color]. ("young man")
+Це незначні зміни, що мало впливають на геймплей. Це те, що гравці прочитають, коли [color=#a4885c]оглянуть вас[/color]. ("молодий чоловік")
 
-## Hair and Facial Hair
-Again, you may be intimidated by the vast range of options. That's okay.
+## Волосся та борода
+Знову ж таки, вас може приголомшити величезний вибір. Це нормально.
 
-[color=#a4885c]Take your time with it.[/color] You can skim or click through each of the options and find which one you like.
-Sometimes it's easier to set your desired hair color before looking at the options.
+[color=#a4885c]Не поспішайте.[/color] Ви можете переглядати або клікати по кожній опції та знайти ту, що вам подобається.
+Іноді простіше спочатку встановити бажаний колір волосся, а потім дивитися на варіанти.
 
-If you really can't decide, some popular haircut options include Floorlength Bedhead, Modern, Business, CIA or simply bald.
-Alternatively, [color=#a4885c]randomize[/color] a separate character and see what kind of haircuts they're rocking with. Suprise yourself.
+Якщо ви дійсно не можете вирішити, деякі популярні варіанти зачісок: Floorlength Bedhead, Modern, Business, CIA або просто лисий.
+Альтернативно, [color=#a4885c]рандомізуйте[/color] окремого персонажа і подивіться, які зачіски йому випали. Здивуйте себе.
 
-Don't feel obligated to use any of these, though.
+Не відчувайте себе зобов'язаним використовувати будь-яку з них.
   
-## Markings
-Markings range from [color=#a4885c]scars and snouts[/color] to [color=#a4885c]tattoos and tails[/color].
-Think of them like [color=#a4885c]accessories[/color] that are a part of your body, for giving your character some extra flair and uniqueness. They cannot be changed during the round.
+## Маркування
+Маркування варіюються від [color=#a4885c]шрамів та морд[/color] до [color=#a4885c]татуювань та хвостів[/color].
+Думайте про них як про [color=#a4885c]аксесуари[/color], що є частиною вашого тіла, для надання персонажу додаткового стилю та унікальності. Їх не можна змінити під час раунду.
 
-Some species have more marking options than others. Humans are more limited in terms of markings than moths or reptilians.
+Деякі види мають більше варіантів маркувань, ніж інші. Люди більш обмежені в маркуваннях, ніж молі чи рептиліани.
 
-You can have a set number of markings in each '[color=#a4885c]category[/color]', as seen at the top. For example, reptilians can have one chest marking but two markings on the top of their heads.
-These are [color=#a4885c]cosmetic[/color] and have no effect on gameplay.
+Ви можете мати певну кількість маркувань у кожній '[color=#a4885c]категорії[/color]', як видно зверху. Наприклад, рептиліани можуть мати одне маркування на грудях, але два на верхній частині голови.
+Вони [color=#a4885c]косметичні[/color] і не впливають на геймплей.
 
-## How to stand out
-Memorable characters are usually remembered for their personality, their deeds and their [color=#a4885c]robustness[/color], but that doesn't mean you have to be some sort of hotshot.
+## Як виділитися
+Запам'ятовуваних персонажів зазвичай пам'ятають за їхню особистість, вчинки та [color=#a4885c]робастність[/color], але це не означає, що ви маєте бути якимось крутим.
 
-Don't sweat having a big, flashy and memorable character. Make your own story that you'll be remembered for.
+Не переживайте через великого, яскравого та запам'ятовуваного персонажа. Створіть свою власну історію, за яку вас запам'ятають.
 </Document>

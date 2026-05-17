@@ -1,26 +1,26 @@
 ﻿<Document>
   #Boiler, Tier 3
   <GuideEntityEmbed Entity="RMCXenoBoilerSapper"/>
-  ##Playing as a Sapper
-  Become a supportive damage-dealer, trading greater area damage potential for shorter cooldowns and tools for setting up and executing ambushes. Catch marines that venture too far from safety with your Deploy Traps, blast any who get too close with your Acid Shotgun or Acid Tail Stab, and quickly chip away at the durability of the marine frontline with your Acid Mine.
+  ##Гра за Sapper
+  Стань підтримуючим бойцем, обмінюючи більший потенціал area-шкоди на коротші кулдауни та інструменти для встановлення та виконання засідок. Ловіть морпіхів, що вирушають занадто далеко від безпеки, своїми Deploy Traps; розриваєте всіх, хто підходить занадто близько, своєю Acid Shotgun чи Acid Tail Stab; і швидко чіпляєтеся за міцність морпіхського фронту своєю Acid Mine.
 
-  You inherit the weaknesses of the Boiler, so beware of fire and stay far from green flares and red dots that may call skyfire down on you.
+  Ви успадковуєте слабкості Boiler, тож стережіться вогню і тримайтеся подалі від зелених сигнальних ракет та червоних точок, які можуть викликати skyfire на вас.
 
-  Due to high acid reserves, the Sapper glows in the dark making it seen by any host easily, this also makes the Sapper incredibly vulnerable to [color=red]fire[/color].
+  Через високі резерви кислоти Sapper світиться в темряві, що робить його легко видимим для будь-якого хоста; це також робить Sapper неймовірно вразливим до [color=red]вогню[/color].
   <GuideEntityEmbed Entity="RMCTileFire"/>
 
-  ##Abilities:
-  - [bold][color=#E61919]PASSIVE[/color][/bold]: Vulnerable to fire and glows in the dark.
-  - [bold][color=#E61919]PASSIVE[/color][/bold]: You gain Insight when you hit mobs with your Acid Shotgun. These will empower your next Deploy Traps if you gain 10. Hitting a mob stuck in your traps will instantly grant you 10 stacks.
-  - [bold]Strong Corrosive Acid[/bold]: Secretes a glob of acid on items to be dissolved.
+  ##Здібності:
+  - [bold][color=#E61919]ПАСИВНА[/color][/bold]: Вразливий до вогню і світиться в темряві.
+  - [bold][color=#E61919]ПАСИВНА[/color][/bold]: Ви отримуєте Insight, коли влучаєте в мобів своєю Acid Shotgun. Це підсилить наступний Deploy Traps, якщо ви отримаєте 10. Удар по мобу, застряглому в ваших пастках, миттєво надасть 10 стаків.
+  - [bold]Strong Corrosive Acid[/bold]: Секретує грудку кислоти на предметах для розчинення.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoCorrosiveAcid"/>
-  - [bold]Toggle Long Range Sight[/bold]: See further in all directions.
+  - [bold]Toggle Long Range Sight[/bold]: Бачити далі в усіх напрямках.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoToggleLongRangeSight"/>
-  - [bold]Acid Shotgun[/bold]: A short ranged blast of nine acid pellets that can deal significant damage to mobs and grants a stack of Insight per pellet that hits. Deals more damage to trapped mobs and maxes stacks of Insight.
+  - [bold]Acid Shotgun[/bold]: Короткорадіусний вибух з дев'яти кислотних дробин, що може завдати значної шкоди мобам і надає стак Insight за кожну дробину, що влучила. Завдає більше шкоди мобам у пастках і максить стаки Insight.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoScatteredSpit"/>
-  - [bold]Deploy Traps[/bold]: Deploy a line of traps that will snare any mobs that step on them and increase the damage your abilities do while they are snared. If it is cast while empowered, it snares for longer and also empowers your next Acid Mine.
+  - [bold]Deploy Traps[/bold]: Розгорнути лінію пасток, що зачеплять будь-яких мобів, які ступлять на них, і збільшать шкоду ваших здібностей, поки вони зачеплені. Якщо кастувати empower'еним, зачеплять довше і також підсилить наступний Acid Mine.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoDeployTraps"/>
-  - [bold]Acid Mine[/bold]: Trigger a remote detonation that will explode after a moment of delay, dealing damage to mobs, structures and emplacements. If it is empowered, it deals more damage and applies a lingering acid to mobs.
+  - [bold]Acid Mine[/bold]: Тригерує дистанційну детонацію, що вибухне після моменту затримки, завдаючи шкоди мобам, структурам та позиціям. Якщо empower'ено, завдає більше шкоди і застосовує триваючу кислоту до мобів.
   <GuideEntityEmbed Entity="RMCGuidebookActionXenoAcidMine"/>
 
 </Document>

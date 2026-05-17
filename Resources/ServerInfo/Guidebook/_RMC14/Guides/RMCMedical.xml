@@ -1,26 +1,26 @@
 <Document>
 
-  #Medical
+  #Медицина
 
-  ##CPR
-  - Remove their mask.
-  - Click on a patient to attempt CPR.
-  - Doing this once every 7 seconds will lower their oxygen damage.
-  - This will also slightly extend the period of which bodies can be revived each time.
+  ##СЛР
+  - Зніміть з нього маску.
+  - Клікніть на пацієнта, щоб спробувати СЛР.
+  - Робота цього кожні 7 секунд знизить його кисневі пошкодження.
+  - Це також трохи продовжить період, протягом якого тіла можна оживити, кожного разу.
 
-  ##Treating {wounds}
-  - When a marine takes damage, they will recieve treatable wounds.
-  - Untreated wounds are indicated by [bold]"{  }"[/bold] around their damage numbers.
-  - When wounds are treated, the marine will begin to passively heal, very slowly.
-  - Treating wounds will also stop any bleeding.
-  - Using medicine will speed up damage healing.
-  - [textlink="Medicines" link="RMCMedicine"]
+  ##Лікування {ран}
+  - Коли морський піхотинець отримує пошкодження, він отримує рани, які можна лікувати.
+  - Нелікувані рани позначаються [bold]"{  }"[/bold] навколо чисел пошкоджень.
+  - Коли рани лікуються, морський піхотинець починає пасивно лікуватися дуже повільно.
+  - Лікування ран також зупинить будь-яку кровотечу.
+  - Використання ліків прискорить лікування пошкоджень.
+  - [textlink="Ліки" link="RMCMedicine"]
 
-  ##Items that treat {wounds}
-  - Trauma and burn kits will treat all wounds when used, and provide minor bonus healing.
-  - Surgical line and synth graft will treat some wounds each time used, with some healing each use.
-  - Gauze and ointment will treat all wounds when used, but only ointment provides minor bonus healing.
-  - Surgical line and synth graft can still be used after applying a trauma or burn kit.
+  ##Предмети, що лікують {рани}
+  - Травматичні та опікові кіти лікують усі рани при використанні та забезпечують невелике додаткове зцілення.
+  - Хірургічна нитка та синтетичний трансплантат лікують деякі рани кожного разу при використанні, з невеликим зціленням за використання.
+  - Марля та мазь лікують усі рани при використанні, але лише мазь забезпечує невелике додаткове зцілення.
+  - Хірургічну нитку та синтетичний трансплантат можна використовувати після застосування травматичного чи опікового кіту.
   <Box>
     <GuideEntityEmbed Entity="CMTraumaKit10"/>
     <GuideEntityEmbed Entity="CMBurnKit10"/>
@@ -34,34 +34,34 @@
     <GuideEntityEmbed Entity="CMOintment10"/>
   </Box>\n
 
-  ##Blood and bloodloss
-  - When a marine has a low blood level, they will begin to take oxygen damage.
-  - To replenish blood, use blood packs.
-  - They can be inserted into a patient by hand, or injected by an IV.
-  - To use a blood pack in hand, click it on the patient.
-  - Click the patient again to remove the injector.
-  - To use an IV, insert the bag, then drag the IV sprite over the patient.
-  - Click the IV to remove the IV from the patient.
+  ##Кров та крововтрата
+  - Коли морський піхотинець має низький рівень крові, він починає отримувати кисневі пошкодження.
+  - Щоб поповнити кров, використовуйте пакети крові.
+  - Їх можна вставити в пацієнта вручну або ввести через крапельницю.
+  - Щоб використати пакет крові в руці, клікніть ним по пацієнту.
+  - Клікніть пацієнта знову, щоб видалити ін'єктор.
+  - Щоб використати крапельницю, вставте мішок, потім перетягніть спрайт крапельниці на пацієнта.
+  - Клікніть на крапельницю, щоб зняти її з пацієнта.
 
   <Box>
     <GuideEntityEmbed Entity="CMBloodPackFull"/>
     <GuideEntityEmbed Entity="CMIV"/>
   </Box>\n
 
-  ##Defibs
-  - Defibs can be used to revive a marine below 200 damage.
-  - Epinephrine can be used to heal a marine when they are defibbed.
+  ##Дефібрилятори
+  - Дефібрилятори можна використовувати для оживлення морського піхотинця з пошкодженням нижче 200.
+  - Епінефрин можна використати для лікування морського піхотинця після дефібриляції.
 
   <Box>
     <GuideEntityEmbed Entity="CMDefibrillator"/>
     <GuideEntityEmbed Entity="CMEpinephrineAutoInjector"/>
   </Box>\n
 
-  ##Surgery
-  - To begin surgery, use a surgical tool on the patient.
-  - Select a body part to work on, then follow the steps of your chosen surgery.
-  - For larva removal, ensure you are a trained doctor and not a nurse or corpsman.
-  - Place the patient on an operating table, then begin the operation.
+  ##Хірургія
+  - Щоб почати операцію, використайте хірургічний інструмент на пацієнті.
+  - Виберіть частину тіла для роботи, потім дотримуйтеся кроків обраної операції.
+  - Для видалення личинки переконайтеся, що ви навчений лікар, а не медсестра чи корпсмен.
+  - Помістіть пацієнта на операційний стіл, потім розпочніть операцію.
 
   <Box>
     <GuideEntityEmbed Entity="CMCrateSecureSurgery"/>

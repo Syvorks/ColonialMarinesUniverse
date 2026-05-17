@@ -1,6 +1,6 @@
 ﻿<Document>
-  # Pipe Networks
-  Pipe networks — commonly called Pipenets — are a series of interconnected [textlink="pipes" link="Pipes"], usually with a common task.
+  # Трубні мережі
+  Трубні мережі — зазвичай звані Пайпнетами — це серія взаємопов'язаних [textlink="труб" link="Pipes"], зазвичай з загальним завданням.
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -12,30 +12,30 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
 
-  Pipenets are used all throughout the station to deliver, remove, or otherwise move gas throughout it.
-  Great examples are the station's Distro or Wastenet, which deliver breathable air and remove waste gas, respectively.
+  Пайпнети використовуються по всій станції для доставки, видалення або іншого переміщення газу.
+  Чудові приклади — станційний Distro або Wastenet, які доставляють придатне для дихання повітря та видаляють відхідний газ відповідно.
 
-  ## How Pipenets Work
-  In Space Station 14, pipenets behave as a whole, defined volume, with input/output points at the ends of the network.
-  Forcing or vacuuming gas in or out using a [textlink="pump" link="Pumps"] will affect the entire network, not just the pipe it's connected to.
+  ## Як працюють пайпнети
+  У Space Station 14 пайпнети поводяться як цілісний визначений об'єм з точками входу/виходу на кінцях мережі.
+  Нагнітання або відкачування газу за допомогою [textlink="насоса" link="Pumps"] впливає на всю мережу, а не лише на трубу, до якої він підключений.
 
-  Pipenets are only separated by devices capable of interrupting flow, or by certain devices.
-  For example, a [textlink="Pressure Pump" link="Pumps"] will not allow gas to flow through it unless it's powered and has gas to pump.
+  Пайпнети розділяються лише пристроями, здатними переривати потік.
+  Наприклад, [textlink="Насос тиску" link="Pumps"] не дозволить газу текти через нього, якщо він не живлений і не має газу для перекачування.
 
-  Some examples of devices that separate pipe networks are:
-  - [textlink="Pressure and Volumetric Pumps" link="Pumps"]
-  - [textlink="Gas Mixers and Filters" link="MixingAndFiltering"]
-  - [textlink="All Valves" link="Valves"]
-  - [textlink="Radiators" link="Radiators"]
+  Деякі приклади пристроїв, що розділяють трубні мережі:
+  - [textlink="Насоси тиску та об'ємні" link="Pumps"]
+  - [textlink="Газові міксери та фільтри" link="MixingAndFiltering"]
+  - [textlink="Усі клапани" link="Valves"]
+  - [textlink="Радіатори" link="Radiators"]
 
-  An example of a pipenet being seperated into two, distinct pipenets by a [textlink="pump" link="Pumps"] is shown below:
+  Приклад пайпнету, розділеного на два окремі пайпнети [textlink="насосом" link="Pumps"]:
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 1" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Пайпнет 1" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPressurePump" Caption="Network Seperator" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption="Розділювач мережі" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 2" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Пайпнет 2" Rotation="90"/>
   </Box>
 
 </Document>
