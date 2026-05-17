@@ -11,7 +11,7 @@
 - type: radioChannel
   id: MarineCommon
   name: chat-radio-marine-common
-  keycode: "ć" #; and g in cm13
+  keycode: "а" #; and g in cm13
   frequency: 1480
   color: "#B4B4B4"
   colorblindColor: "#6FD08C"
@@ -22,7 +22,7 @@
 - type: radioChannel
   id: MarineCommand
   name: chat-radio-marine-command
-  keycode: "ü" #v in cm13
+  keycode: "в" #v in cm13
   frequency: 1481
   color: "#5b96d4"
   longRange: true
@@ -31,7 +31,7 @@
 - type: radioChannel
   id: MarineMedical
   name: chat-radio-marine-medical
-  keycode: "m" #m in cm13
+  keycode: "е" #m in cm13
   frequency: 1482
   color: "#009771"
   longRange: true
@@ -40,7 +40,7 @@
 - type: radioChannel
   id: MarineEngineer
   name: chat-radio-marine-engineer
-  keycode: "n" #n in cm13
+  keycode: "г" #n in cm13
   frequency: 1483
   color: "#e4860c"
   longRange: true
@@ -49,7 +49,7 @@
 - type: radioChannel
   id: MarineMilitaryPolice
   name: chat-radio-marine-military-police
-  keycode: "p" #p in cm13
+  keycode: "ґ" #p in cm13
   frequency: 1484
   color: "#be324f"
   longRange: true
@@ -67,7 +67,7 @@
 - type: radioChannel
   id: MarineIntel
   name: chat-radio-marine-intel
-  keycode: "ź" #t in cm13
+  keycode: "д" #t in cm13
   frequency: 1486
   color: "#059705"
   longRange: true
@@ -76,7 +76,7 @@
 - type: radioChannel
   id: MarineJTAC
   name: chat-radio-marine-jtac
-  keycode: "ø" #j in CM13
+  keycode: "є" #j in CM13
   frequency: 1487
   color: "#ad3b98"
   longRange: true
@@ -86,7 +86,7 @@
 - type: radioChannel
   id: MarineAlpha
   name: chat-radio-marine-alpha
-  keycode: "ä" #a in cm13
+  keycode: "ж" #a in cm13
   frequency: 1491
   color: "#F0433E"
   longRange: true
@@ -95,7 +95,7 @@
 - type: radioChannel
   id: MarineBravo
   name: chat-radio-marine-bravo
-  keycode: "ó" #b in cm13
+  keycode: "и" #b in cm13
   frequency: 1492
   color: "#B9A76D"
   longRange: true
@@ -104,7 +104,7 @@
 - type: radioChannel
   id: MarineCharlie
   name: chat-radio-marine-charlie
-  keycode: "í" #c in cm13
+  keycode: "ї" #c in cm13
   frequency: 1493
   color: "#7A967E"
   longRange: true
@@ -122,7 +122,7 @@
 - type: radioChannel
   id: MarineEcho
   name: chat-radio-marine-echo
-  keycode: "ɨ" #e in cm13
+  keycode: "й" #e in cm13
   frequency: 1495
   color: "#3be1b1"
   longRange: true
@@ -143,7 +143,7 @@
 - type: radioChannel
   id: Colony
   name: chat-radio-colony
-  keycode: "o" #o in cm13
+  keycode: "л" #o in cm13
   frequency: 1469
   color: "#cf40a6" #todo rmc14
   longRange: true
@@ -152,7 +152,7 @@
 - type: radioChannel
   id: ColonyHandheld
   name: chat-radio-colony-softwave
-  keycode: 'ñ'
+  keycode: 'о'
   frequency: 1461
   color: "#a6cf40" #todo rmc14
   longRange: true
@@ -160,7 +160,7 @@
 - type: radioChannel # Only used by Corporate Liason to hand out to bodyguards / command.
   id: WEYA
   name: chat-radio-WY
-  keycode: "w" #w in CM13
+  keycode: "у" #w in CM13
   frequency: 1231
   color: "#fe9b24"
   longRange: true
@@ -178,7 +178,7 @@
 - type: radioChannel
   id: Provost
   name: chat-radio-provost
-  keycode: "r"
+  keycode: "ш"
   frequency: 1473
   color: "#9b0612"
   longRange: true
@@ -196,7 +196,7 @@
 - type: radioChannel
   id: Hivemind
   name: chat-radio-hivemind
-  keycode: "h"
+  keycode: "щ"
   frequency: 426
   color: "#8b36a6"
   longRange: true
