@@ -1,12 +1,12 @@
 <Document>
-# Chemist
-Now you've done it. You picked the one job where -math- is mandatory. Grab your beaker, pull up a chair, and get cracking, it's time to cook up some chems.
+# Хімік
+Ну ось, ви це зробили. Ви обрали ту єдину роботу, де -математика- є обов'язковою. Беріть свою колбу, підтягуйте стілець і починайте — час готувати хімію.
 
-While chemists primarily make medications, there's a very wide variety of chemicals that can be made, all of which are showcased in the Chemicals entry of the Guidebook.
+Хоча хіміки переважно виготовляють ліки, існує дуже широкий спектр хімікатів, які можна виготовити, усі вони показані в розділі Хімікатів Гайдбуку.
 
-[textlink="Click here to see a complete list of chemicals." link="Chemicals"]
+[textlink="Натисніть тут, щоб переглянути повний список хімікатів." link="Chemicals"]
 
-## Equipment:
+## Обладнання:
 
   <Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
@@ -22,25 +22,25 @@ While chemists primarily make medications, there's a very wide variety of chemic
     <GuideEntityEmbed Entity="PillCanister"/>
   </Box>
 
-## The Basics:
-Chemistry is fairly straightforward once you know what to expect. Here's a simple, step-by-step process on how to begin.
+## Основи:
+Хімія досить проста, коли ви знаєте, чого очікувати. Ось простий покроковий процес початку.
 
-- Grab a beaker, Pill Canister, and if desired, some Bottles.
-- Place the beaker in the Chemical Dispenser, and Pill Canister (or bottle) in the Chem Master.
-- Open the Chemical Dispenser UI, and make your mix. Recipes are in other sections of the guidebook.
-- Alt-click the dispenser to remove your beaker, and place it in the Chem Master.
-- Open the Chem Master UI. On the Input tab, move your mix into the buffer.
-- Move to the Output tab, customise your pill, and press the Create button.
-- Alt-click the Chem Master to get the pill bottle out. You may have to remove the beaker first.
-- Click on a table, crate, or another surface to empty the pill bottle if desired. Alternatively, store or empty it into another storage container.
+- Візьміть колбу, банку для пігулок і, за бажанням, кілька пляшечок.
+- Поставте колбу в Хімічний диспенсер, а Банку для пігулок (або пляшечку) — у Chem Master.
+- Відкрийте інтерфейс Хімічного диспенсера й приготуйте свою суміш. Рецепти є в інших розділах гайдбуку.
+- Alt-клікніть диспенсер, щоб вийняти колбу, і поставте її в Chem Master.
+- Відкрийте інтерфейс Chem Master. На вкладці Input перенесіть свою суміш у буфер.
+- Перейдіть на вкладку Output, налаштуйте свою пігулку і натисніть кнопку Create.
+- Alt-клікніть Chem Master, щоб витягти банку з пігулками. Можливо, спочатку доведеться витягти колбу.
+- Клікніть на стіл, ящик чи іншу поверхню, щоб спорожнити банку, якщо хочете. Альтернативно, зберігайте чи спорожніть її в інший контейнер для зберігання.
 
-That's it, you've made your first set of pills! Consider checking with Medical Doctors and other crew to see what else may be requested, refilling the medical kits in medbay storage, or just experimenting!
+Ось і все, ви зробили свій перший набір пігулок! Подумайте про звернення до Лікарів та інших членів екіпажу, щоб дізнатися, що ще можна замовити, поповнення медичних кітів у сховищі медблоку, або просто експериментуйте!
 
-You can also use the hand labeler to organize individual bottles or bags without using the Chem Master labeling system.
+Ви також можете використовувати ручний маркувач для організації окремих пляшечок чи мішків без використання системи маркування Chem Master.
 
-## Extra Content:
+## Додатковий контент:
 
-Speaking of experimentation, there are a few more toy you can use when it comes to chemistry. This job requires a lot of trial and error, but it was worth mentioning that these things exist! It's up to you to figure out what to make with them.
+До речі про експериментування — є ще кілька іграшок, які ви можете використовувати в хімії. Ця робота вимагає багато спроб і помилок, але варто згадати, що ці речі існують! Вам вирішувати, що з ними робити.
 
   <Box>
     <GuideEntityEmbed Entity="ModularGrenade"/>

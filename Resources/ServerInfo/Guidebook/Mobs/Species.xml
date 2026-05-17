@@ -1,18 +1,18 @@
 <Document>
-  # Species
+  # Види
 
-  Nanotrasen employs a variety of sapient species.
+  Nanotrasen наймає різноманітні розумні види.
 
   <Box>
-  <GuideEntityEmbed Entity="MobArachnid" Caption="Arachnid"/>
+  <GuideEntityEmbed Entity="MobArachnid" Caption="Арахнід"/>
   <GuideEntityEmbed Entity="MobDiona" Caption="Diona"/>
-  <GuideEntityEmbed Entity="MobDwarf" Caption="Dwarf"/>
-  <GuideEntityEmbed Entity="MobHuman" Caption="Human"/>
+  <GuideEntityEmbed Entity="MobDwarf" Caption="Гном"/>
+  <GuideEntityEmbed Entity="MobHuman" Caption="Людина"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="MobMoth" Caption="Moth Person"/>
-  <GuideEntityEmbed Entity="MobReptilian" Caption="Reptilian"/>
-  <GuideEntityEmbed Entity="MobSlimePerson" Caption="Slime Person"/>
+  <GuideEntityEmbed Entity="MobMoth" Caption="Моль-людина"/>
+  <GuideEntityEmbed Entity="MobReptilian" Caption="Рептиліан"/>
+  <GuideEntityEmbed Entity="MobSlimePerson" Caption="Слайм-людина"/>
   <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
   </Box>
 

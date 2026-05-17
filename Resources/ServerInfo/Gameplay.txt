@@ -1,9 +1,9 @@
-The guidebook in game will be updated with new information as development continues! It's recommended to read that instead.
+Внутрішньоігровий гайдбук буде оновлюватися новою інформацією в міру розробки! Рекомендуємо читати саме його.
 
-If you’re new to roleplaying or are unfamiliar with IC and OOC please read on. If not, skip to the next section.
+Якщо ви новачок у рольових іграх або не знайомі з IC та OOC, прочитайте далі. Якщо ні — переходьте до наступного розділу.
 
-CMU-14 is at its core a roleplaying game - You play a role through your character which you can customise from the lobby prior to joining the game. You can select the roles or jobs your character plays via the customisation menu too. When you’re in a round playing your character, you are IC or In Character. When you’re in character you forget any knowledge of previous rounds or essentially of the outside world and you play as if you’re a character in the game.
+CMU-14 — це насамперед рольова гра. Ви граєте роль через свого персонажа, якого можете налаштувати в лобі перед входом у гру. Ви також можете обрати ролі або роботи свого персонажа через меню налаштувань. Коли ви в раунді граєте свого персонажа, ви IC або In Character (у ролі). Перебуваючи в ролі, ви забуваєте про знання попередніх раундів і про навколишній світ загалом, граючи так, ніби ви — персонаж у грі.
 
-Therefore, OOC or Out of Character is any conversations you have outside of the game world e.g. in the OOC chat, on discord or with your friends. You shouldn’t discuss the current round or anything that’s IC (in character) in out of character OOC chats. Likewise anything you see or read in OOC cannot be used by your character in game.
+Тому OOC або Out of Character (поза роллю) — це будь-які розмови поза ігровим світом, наприклад, у чаті OOC, у discord або з друзями. Не слід обговорювати поточний раунд або щось інше IC (у ролі) у позарольових OOC чатах. Так само все, що ви бачите чи читаєте в OOC, ваш персонаж не може використовувати в грі.
 
-To summarise, when you’re in game, don’t discuss the round anywhere else until the round is over and don’t share information about the round in OOC such as if you’re dying, where you, etc.
+Підсумовуючи: коли ви в грі, не обговорюйте раунд деінде, поки він не закінчиться, і не діліться інформацією про раунд в OOC, наприклад, що ви помираєте, де ви тощо.

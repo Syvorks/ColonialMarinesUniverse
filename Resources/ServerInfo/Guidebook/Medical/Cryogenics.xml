@@ -1,18 +1,18 @@
 <Document>
-# Cryogenics
-Cryogenics can be a bit daunting to understand, but hopefully, quick run through of this diagram, you'll learn how to work it! So, let's go over what each part does:
+# Кріогеніка
+Кріогеніку може бути дещо складно зрозуміти, але, сподіваємося, після короткого огляду цієї діаграми ви навчитеся з нею працювати! Тож подивимось, що робить кожна частина:
 
-- Air in: Air comes in here through the distro or an air tank, giving those inside something to breathe, and the freezer something to chill.
-- Gas pump: Limits the network pressure, so those in the tube aren't crushed.
-- Freezer: Chills the air, and by extension, patients in the tube, so Cryoxadone can activate.
-- Gas filters: Removes waste gas (Carbon Dioxide and Nitrous Oxide) from the loop.
-- Air out: Waste gasses go here, either into a storage tank, or into the waste network.
+- Air in (вхід повітря): повітря надходить сюди з distro або повітряного балону, даючи тим, хто всередині, чим дихати, а охолоджувачу — що охолоджувати.
+- Газовий насос: обмежує тиск у мережі, щоб тих, хто в трубі, не розчавило.
+- Охолоджувач: охолоджує повітря, а отже, і пацієнтів у трубі, щоб міг активуватися Кріоксадон.
+- Газові фільтри: видаляють відпрацьований газ (вуглекислий газ та закис азоту) з циклу.
+- Air out (вихід повітря): відпрацьовані гази йдуть сюди — або в резервуар для зберігання, або в мережу відходів.
 <Box>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
-<GuideEntityEmbed Entity="CryoPod" Caption="cryo pod" Rotation="0"/>
+<GuideEntityEmbed Entity="CryoPod" Caption="кріокапсула" Rotation="0"/>
 <GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
 </Box>
 <Box>
@@ -24,24 +24,24 @@ Cryogenics can be a bit daunting to understand, but hopefully, quick run through
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="GasPort" Caption="air out" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="вихід повітря" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
-<GuideEntityEmbed Entity="GasPort" Caption="air in" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="вхід повітря" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
 </Box>
 
-Not every network will look like this, but hopefully, it's enough to give you the basic gist of how it's functioning.
+Не кожна мережа виглядатиме саме так, але, сподіваємося, цього достатньо, щоб дати базове розуміння того, як вона функціонує.
 
-An important thing to note, winter clothing (and hardsuits) will make cryogenic treatment less, or completely ineffective. Be sure to remove cold preventative clothing before placing people in the pod.
+Важливо зазначити, що зимовий одяг (та хардсьюти) роблять кріогенне лікування менш або повністю неефективним. Обов'язково знімайте теплозахисний одяг перед поміщенням людей у капсулу.
 
-## Using the Pod
-Once things have been set up, you're going to require a specific medication, Cryoxadone. Cryoxadone heals all damage types when a patient is chilled, and can either be pre-administered (with a pill), or loaded into the cell directly with a beaker. Do note, patients won't begin to heal until they've chilled to the appropriate temperature, it may be worthwhile to wait a bit before placing a beaker inside.
+## Використання капсули
+Як тільки все налаштовано, вам знадобиться специфічні ліки — Кріоксадон. Кріоксадон лікує всі типи пошкоджень, коли пацієнт охолоджений, і його можна або заздалегідь ввести (через пігулку), або завантажити безпосередньо в капсулу через колбу. Зверніть увагу, що пацієнти не почнуть лікуватися, поки не охолонуть до відповідної температури — можливо, варто трохи зачекати перед розміщенням колби всередині.
 
-## Additional Information:
+## Додаткова інформація:
 
-The standard pressure for a gas pump is 100.325 kpa. Cryoxadone works at under 170K, but it is standard practice to set the freezer to 100K for faster freezing.
+Стандартний тиск для газового насоса — 100,325 кПа. Кріоксадон працює при температурі нижче 170K, але стандартна практика — налаштовувати охолоджувач на 100K для швидшого охолодження.
 
 <GuideReagentEmbed Reagent="Aloxadone"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>

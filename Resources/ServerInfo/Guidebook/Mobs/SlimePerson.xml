@@ -1,25 +1,25 @@
 <Document>
-  # Slime People
+  # Слайм-люди
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  They breathe nitrogen instead of oxygen, which is abundant in the station air, but harder to find compressed into gas tanks. They take significant damage if they are sprayed or splashed with water, but can
-  (and like other species, need to) drink it safely to stay hydrated.
-  They exhale nitrous oxide and are unaffected by it.
-  Their body can process 6 reagents at the same time instead of just 2.
+  Вони дихають азотом замість кисню, якого багато в повітрі станції, але важче знайти стиснутим у газові балони. Вони отримують значне пошкодження, якщо їх обприскати чи облити водою, але можуть
+  (і, як інші види, мусять) безпечно її пити, щоб залишатися гідратованими.
+  Вони видихають закис азоту й самі від нього не страждають.
+  Їхнє тіло може обробляти 6 реагентів одночасно замість лише 2.
 
-  Slimepeople have an [bold]internal 2x3 storage inventory[/bold] inside of their slime membrane. Anyone can see what's inside and take it out of you without asking,
-  so be careful.
+  Слайм-люди мають [bold]внутрішній сховище 2x3[/bold] всередині своєї слаймової мембрани. Будь-хто може побачити, що там, і витягти це звідти, не питаючи дозволу,
+  тож будьте обережні.
 
-  Slimepeople have slight accelerated regeneration compared to other humanoids. They're also capable of hardening their fists, and as such have stronger punches,
-  although they punch a little slower.
+  Слайм-люди мають дещо прискорену регенерацію порівняно з іншими гуманоїдами. Вони також здатні робити свої кулаки твердішими і завдяки цьому б'ють сильніше,
+  хоча трохи повільніше.
 
-  Their slime "blood" can not be regenerated from Iron. Slime Blood is technically a source of
-  moderately filling food for other species, although drinking the blood of your coworkers is usually frowned upon.
-  They suffocate 80% slower, but take pressure damage 9% faster. This makes them by far the species most capable to survive in hard vacuum. For a while.
+  Їхня слаймова "кров" не може регенеруватися із заліза. Слаймова кров технічно є джерелом
+  помірно ситної їжі для інших видів, хоча випивати кров своїх колег зазвичай не схвалюється.
+  Вони задихаються на 80% повільніше, але отримують пошкодження від тиску на 9% швидше. Це робить їх найбільш здатним до виживання у твердому вакуумі видом. На якийсь час.
 
-  They take [color=#1e90ff]40% less Blunt damage and 20% less Poison damage[/color], but [color=#ffa500]50% more Cold damage, 20% more Slash damage and 20% more Piercing damage[/color].
+  Вони отримують [color=#1e90ff]на 40% менше Blunt-пошкоджень та на 20% менше Poison-пошкоджень[/color], але [color=#ffa500]на 50% більше Cold-пошкоджень, на 20% більше Slash-пошкоджень та на 20% більше Piercing-пошкоджень[/color].
 
 </Document>

@@ -1,21 +1,21 @@
 <Document>
-  # Cargo Bounties
-  While [textlink="Cargo" link="Cargo"] can make [color=cyan]spesos[color] selling just about anything, more spesos can be made by fulfilling [color=cyan]bounties[/color] found through the Cargo Bounty Computer.
+  # Замовлення Карго
+  Хоча [textlink="Карго" link="Cargo"] може заробляти [color=cyan]спесо[color], продаючи майже все, більше спесо можна заробити, виконуючи [color=cyan]замовлення[/color], які знаходяться через Комп'ютер замовлень Карго.
 
-  ## Starting Bounties
+  ## Початок замовлень
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoBounty"/>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  To start a bounty, open the bounty screen by interacting with the [color=cyan]Cargo Bounty Computer[/color]. The Cargo Bounty Computer maintains a list of all the current bounties and lets you either print out a label or skip it.
+  Щоб почати замовлення, відкрийте екран замовлень, взаємодіючи з [color=cyan]Комп'ютером замовлень Карго[/color]. Комп'ютер замовлень Карго підтримує список усіх поточних замовлень і дозволяє вам або роздрукувати ярлик, або пропустити його.
 
-  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Cargo Technician.
+  - Друк ярлика дає вам [color=cyan]Маніфест замовлення[/color] зі списком товарів, які потрібно отримати. Ви можете надрукувати нескінченну кількість Маніфестів замовлення, тож переконайтеся, що не повторюєте роботу іншого Технічного спеціаліста Карго.
 
-  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Cargo Technicians working on it.
+  - Пропуск замовлення замінює його на нове, оскільки одночасно може бути лише шість активних замовлень. Пропуск має 15-хвилинний кулдаун та анулює це замовлення, що може розгнівати інших Технічних спеціалістів Карго, які над ним працюють.
 
-  ## Fulfilling Bounties
+  ## Виконання замовлень
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -23,13 +23,13 @@
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  With the [color=cyan]Bounty Manifest[/color], it is now up to you to collect the required goods, but most departments will give you what you need if you ask for it with a Bounty Manifest.
+  Маючи [color=cyan]Маніфест замовлення[/color], тепер ваше завдання — зібрати потрібні товари, але більшість відділів дадуть вам потрібне, якщо попросите з Маніфестом замовлення.
 
-  Once you have collected the goods, return to the cargo bay and put the goods inside an empty [color=cyan]Crate[/color]. After everything is in the crate, close it, and then apply the Bounty Manifest to it.
+  Як тільки ви зібрали товари, поверніться до карго-доку та покладіть товари в порожній [color=cyan]Ящик[/color]. Після того як усе в ящику, закрийте його, потім примініть Маніфест замовлення.
 
-  To verify the completion of a bounty, use the [color=cyan]Appraisal Tool[/color] on it. It should show a confirmation that the bounty has been completed.
+  Щоб перевірити завершення замовлення, використайте на ньому [color=cyan]Інструмент оцінки[/color]. Він має показати підтвердження, що замовлення виконано.
 
-  ## Selling Bounties
+  ## Продаж замовлень
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -37,9 +37,9 @@
     <GuideEntityEmbed Entity="CargoPalletSell"/>
   </Box>
 
-  Once you have verified that you have completed the bounty, follow the same steps as selling anything else.
+  Як тільки ви перевірили, що виконали замовлення, дотримуйтеся тих самих кроків, що і для продажу будь-чого іншого.
 
-  Just transport it to the [color=cyan]Trading Station[/color], sell it, and you are done!
+  Просто перевезіть його до [color=cyan]Торгової станції[/color], продайте, і ви закінчили!
 
-  When you return, there should be a new bounty to take its place.
+  Коли ви повернетеся, має з'явитися нове замовлення, що замінить це.
 </Document>

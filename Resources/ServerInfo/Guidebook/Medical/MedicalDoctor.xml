@@ -1,41 +1,41 @@
 <Document>
-# Medical Doctor
-It's time to heal. Or at least, try to heal, anyway. Medical Doctors are the primary caretakers of every boo boo and ouchie crewmembers get on the station, be it a small scratch, or boiled skin.
+# Лікар
+Час лікувати. Або принаймні намагатися лікувати. Лікарі — це основні опікуни кожної подряпинки та каляки, які отримують члени екіпажу на станції — від маленької подряпини до обвареної шкіри.
 
-This guide will give you a basic outline of the treatment options you have available, triage, and other avenues of care.
+Цей посібник дасть вам базовий огляд варіантів лікування, доступних вам, тріажу та інших шляхів допомоги.
 
-## The Basics
-There are two ways to tell what's ailing someone: Taking a scan (with a health analyzer or a medical PDA), or examining them, with a shift-click, and clicking the heart symbol.
+## Основи
+Існує два способи дізнатися, що з кимось не так: зробити сканування (за допомогою аналізатора здоров'я або медичного КПК) або оглянути їх через shift-клік і клік по символу серця.
 
-Using a health analyzer is often more powerful than examination, as some things (such as poison, or radiation) don't show up on examination. However, using an analyzer has its drawbacks, as it makes noise and uses up a battery.
+Використання аналізатора здоров'я часто потужніше за огляд, оскільки деякі речі (наприклад, отрута чи радіація) не показуються при огляді. Однак використання аналізатора має свої недоліки — він шумний і витрачає батарею.
 <Box>
-<GuideEntityEmbed Entity="SignExamroom" Caption="examine patient"/>
+<GuideEntityEmbed Entity="SignExamroom" Caption="оглянути пацієнта"/>
 <GuideEntityEmbed Entity="MedicalPDA"/>
-<GuideEntityEmbed Entity="MedicalInternPDA" Caption="intern PDA"/>
+<GuideEntityEmbed Entity="MedicalInternPDA" Caption="КПК інтерна"/>
 <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
 
-## Medication and Treatment Options
-Before we go any further, it's probably a good idea to go over damage types, and what will heal them. The wiki has more extensive info available, but these are commonly used.
+## Варіанти ліків та лікування
+Перш ніж рухатися далі, ймовірно, варто переглянути типи пошкоджень і те, що їх лікує. На вікі є більш детальна інформація, але це найпоширеніше.
 
-An important note: Most medication has an overdose level, which will cause harm to your patient. Chemicals also take time to metabolise in pill form, if you want things to act quickly, use a syringe.
+Важлива примітка: більшість ліків мають рівень передозування, який завдасть шкоди вашому пацієнту. Хімікати в формі пігулки також потребують часу для метаболізації — якщо хочете, щоб ліки діяли швидше, використовуйте шприц.
 
-- Brute Damage: Bicaridine or Bruise Packs
-- Burn Damage: Dermaline or Ointment
-- Toxin (Poison): Dylovene
-- Toxin (Radiation) Hyronalin or Arithrazine
-- Airloss: Dexaline or Inaprovaline
-- Bloodloss: Dexaline (Examine the patient, if pale, they still need blood or iron.)
-- Bleeding: Tranexamic acid and Gauze (Bleeding can also be cauterized with burn damage.)
+- Тупі пошкодження (Brute): Бікаридин або пакети від синців
+- Опіки (Burn): Дермалін або Мазь
+- Токсини (отрута): Ділловен
+- Токсини (радіація): Гіроналін або Аритразин
+- Втрата повітря: Дексалін або Інапровалін
+- Крововтрата: Дексалін (Огляньте пацієнта — якщо блідий, йому ще потрібна кров або залізо.)
+- Кровотеча: Транексамова кислота та марля (Кровотечу також можна припекти опіковими пошкодженнями.)
 
-Many stations are stocked with kits in storage, and all medics have some equipment in their starting belt.
+Багато станцій мають кіти на сховищі, і всі медики мають деяке обладнання у своєму стартовому поясі.
 
 <Box>
 <GuideEntityEmbed Entity="MedkitFilled"/>
-<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="brute kit"/>
-<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="radiation kit"/>
-<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="burn kit"/>
-<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="toxin kit"/>
+<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="кіт від тупих ушкоджень"/>
+<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="кіт від радіації"/>
+<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="кіт від опіків"/>
+<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="кіт від токсинів"/>
 </Box>
 
 <Box>
@@ -46,27 +46,27 @@ Many stations are stocked with kits in storage, and all medics have some equipme
 <GuideEntityEmbed Entity="Gauze"/>
 </Box>
 
-## Basic Treatment and Triage
-Examine your patient, and note down the important details: Are they alive? Bleeding? What type of damage?
+## Базове лікування та тріаж
+Огляньте свого пацієнта і занотуйте важливі деталі: чи він живий? Кровоточить? Який тип пошкоджень?
 
-If alive, treat them as best as you can. Patients are in critical condition at 100 damage, and dead at 200. Keep this in mind when choosing how to treat them. Emergency Pens and Epinephrine are often used to keep patients stable.
+Якщо живий, лікуйте його якнайкраще. Пацієнти в критичному стані при 100 одиницях пошкодження і мертві при 200. Пам'ятайте про це, обираючи спосіб лікування. Аварійні пени та Епінефрин часто використовуються для стабілізації пацієнтів.
 
-If possible, buckle them to a medical bed, if you need time to treat them, strap them to a stasis bed instead. Just keep in mind that metabolism (and by extension, healing chemicals) are slowed to a crawl when on stasis, they'll need to be taken off of it for the medicine to be effective. (But Blood Packs, Ointment, and Brute packs all work as normal.)
+Якщо можливо, прив'яжіть їх до медичного ліжка; якщо вам потрібен час для лікування, прив'яжіть їх до стазис-ліжка натомість. Тільки пам'ятайте, що метаболізм (а отже, і лікувальні хімікати) уповільнюються до повзання на стазисі — їх доведеться зняти, щоб ліки були ефективними. (Але пакети крові, мазь і пакети від синців усе одно діють.)
 <Box>
 <GuideEntityEmbed Entity="MedicalBed"/>
 <GuideEntityEmbed Entity="StasisBed"/>
 </Box>
-## Assessing Corpses
-You can't save them all, sometimes, death happens. Depending on the [color=#a4885c]status[/color] of the body, there are a few things that can be done.
+## Оцінка трупів
+Ви не зможете врятувати всіх — іноді смерть трапляється. Залежно від [color=#a4885c]стану[/color] тіла, є кілька речей, які можна зробити.
 
-1. Do they have a soul attached? You can tell if, when examining, the following phrase is displayed: "Their soul has departed." If this isn't displayed, there is still a player who can be revived.
+1. Чи приєднана душа? Ви можете дізнатися, чи при огляді відображається наступна фраза: "Їхня душа полишила їх." Якщо вона не відображається, ще є гравець, якого можна оживити.
 
-2. Is the body rotting? If it is, sadly, they'll have to be cloned. A rotting body can't be brought back with a defibrillator. (See Cloning)
+2. Чи гниє тіло? Якщо так, на жаль, його доведеться клонувати. Тіло, що гниє, не можна повернути дефібрилятором. (Див. Клонування)
 
-3. If they have a soul, and aren't rotten, it's possible to revive them. Consider storing the body in a morgue tray if you don't have enough time to revive someone, as the body will rot if you wait too long.
+3. Якщо вони мають душу і не гниють, їх можна оживити. Подумайте про зберігання тіла в ящику моргу, якщо у вас немає достатньо часу для оживлення, оскільки тіло гнитиме, якщо чекати занадто довго.
 
-## Revival
-Not counting airloss, Defibrillator's can be used to revive patients under 200 total damage. Chemicals don't metabolise in the dead, but brute packs and ointment can still patch them up. Use them to bring their numbers down enough for revival.
+## Оживлення
+Не враховуючи втрати повітря, дефібрилятори можна використовувати для оживлення пацієнтів з менш ніж 200 одиницями пошкоджень. Хімікати не метаболізуються в мертвих, але пакети від синців і мазь все одно можуть їх залатати. Використовуйте їх, щоб знизити їхні числа достатньо для оживлення.
 
 <Box>
 <GuideEntityEmbed Entity="Brutepack"/>
