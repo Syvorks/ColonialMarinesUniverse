@@ -1,0 +1,35 @@
+names-tribal-first-dataset-1 = Айтан
+names-tribal-first-dataset-2 = Ейлеру
+names-tribal-first-dataset-3 = Каю
+names-tribal-first-dataset-4 = Ленат
+names-tribal-first-dataset-5 = Мо'арі
+names-tribal-first-dataset-6 = Нейрей
+names-tribal-first-dataset-7 = Оло'на
+names-tribal-first-dataset-8 = Сулан
+names-tribal-first-dataset-9 = Тару
+names-tribal-first-dataset-10 = Ца'ну
+names-tribal-first-dataset-11 = Вена
+names-tribal-first-dataset-12 = Юра
+names-tribal-first-dataset-13 = Ейтук
+names-tribal-first-dataset-14 = Норані
+names-tribal-first-dataset-15 = Аква
+names-tribal-first-dataset-16 = Тіпан
+names-tribal-first-dataset-17 = Мокра
+names-tribal-first-dataset-18 = Рей'ла
+names-tribal-first-dataset-19 = Тей'ра
+names-tribal-first-dataset-20 = Анук
+
+names-tribal-clan-dataset-1 = із Кістяного Списа
+names-tribal-clan-dataset-2 = із Високих Гілок
+names-tribal-clan-dataset-3 = із Глибоководдя
+names-tribal-clan-dataset-4 = із Кам'яного Серця
+names-tribal-clan-dataset-5 = із Кришталевої Долини
+names-tribal-clan-dataset-6 = із Падучої Зірки
+names-tribal-clan-dataset-7 = із Ожинового Пристанку
+names-tribal-clan-dataset-8 = із Туманного Кроку
+names-tribal-clan-dataset-9 = із Попелястого Хребта
+names-tribal-clan-dataset-10 = із Сонячного Ікла
+names-tribal-clan-dataset-11 = з Корінедому
+names-tribal-clan-dataset-12 = з Небосплету
+
+name-format-tribal = { $part0 } { $part1 }

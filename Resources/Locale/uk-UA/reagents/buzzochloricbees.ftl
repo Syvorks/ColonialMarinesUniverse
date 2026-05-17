@@ -1,0 +1,15 @@
+buzzochloricbees-effect-oh-god-bees = Вас оточують безліч-безліч бджіл.
+buzzochloricbees-effect-its-the-bees = Це бджоли, о боже, бджоли.
+buzzochloricbees-effect-why-am-i-covered-in-bees = Ви вкриті розлюченими бджолами.
+buzzochloricbees-effect-one-with-the-bees = Ви — одне ціле з бджолами.
+buzzochloricbees-effect-squeaky-clean = Ви відчуваєте себе чисто-чистесеньким, поки бджоли намагаються вас позбутися.
+buzzochloricbees-effect-histamine-bee-allergy = Виявляється, у вас сильна алергія на бджіл.
+buzzochloricbees-effect-histamine-swells = Ви роздуваєтеся, як повітряна кулька, у присутності бджіл.
+buzzochloricbees-effect-histamine-numb-to-the-bees = Ви несприйнятливі до бджіл.
+buzzochloricbees-effect-histamine-cannot-be-one-with-the-bees = Ви не одне ціле з бджолами.
+buzzochloricbees-effect-licoxide-electrifying = Бджоли наелектризовані.
+buzzochloricbees-effect-licoxide-shocked-by-bee-facts = Ви шоковані цими п'ятьма фактами про бджіл.
+buzzochloricbees-effect-licoxide-buzzed = Ви відчуваєте дзижчання.
+buzzochloricbees-effect-licoxide-buzzes = Ви дзижчите разом з бджолами.
+buzzochloricbees-effect-fiber-hairy = Ви відчуваєте себе пухнастим, як бджола.
+buzzochloricbees-effect-fiber-soft = Ви відчуваєте надзвичайно м'яких бджіл.

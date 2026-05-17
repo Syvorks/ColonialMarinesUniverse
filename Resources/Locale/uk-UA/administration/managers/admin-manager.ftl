@@ -1,0 +1,13 @@
+admin-manager-self-de-admin-message = {$exAdminName} зняв з себе адмінство.
+admin-manager-self-re-admin-message = {$newAdminName} повернув собі адмінство.
+admin-manager-became-normal-player-message = Тепер ти звичайний гравець.
+admin-manager-became-admin-message = Тепер ти адмін.
+admin-manager-no-longer-admin-message = Ти більше не адмін.
+admin-manager-admin-permissions-updated-message = Твої адмінські права оновлено.
+admin-manager-admin-logout-message = Логаут адміна: {$name}
+admin-manager-admin-login-message = Логін адміна: {$name}
+admin-manager-admin-data-host-title = Хост
+admin-manager-stealthed-message = Тепер ти прихований адмін.
+admin-manager-unstealthed-message = Ти більше не прихований.
+admin-manager-self-enable-stealth = {$stealthAdminName} тепер прихований.
+admin-manager-self-disable-stealth = {$exStealthAdminName} більше не прихований.

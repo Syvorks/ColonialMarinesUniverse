@@ -1,0 +1,21 @@
+# command
+department-CMCommand = Командування
+cm-department-Command-description = Відділ Командування — це мозок UNS Almayer, який керує та координує загони та інший допоміжний персонал корабля для боротьби та перемоги над Чужими
+department-CMMilitaryPolice = Військова Поліція
+cm-department-MilitaryPolice-description = Забезпечуйте дотримання Військового Закону. Затримуйте злочинців. Захищайте персонал корабля
+department-CMRequisitions = Постачання
+cm-department-Requisitions-description = Видавайте припаси морпіхам
+department-CMSquad = Морпіхи
+cm-department-Marine-description = Вони формують основну бойову силу Almayer і відправляються на поверхню планет для боротьби з усілякими загрозами по всьому сектору Зіферон
+department-CMEngineering = Інженерний
+cm-department-Engineering-description = Ваша робота — обслуговувати двигун корабля та тримати все в робочому стані
+department-CMMedbay = Медблок
+cm-department-Medical-description = Лікуйте всіх пацієнтів, які потрапляють до медвідділу. Переміщуйте поранених морпіхів з ангару до медвідділу
+department-CMAuxiliarySupport = Допоміжний
+cm-department-AuxiliarySupport-description = Допоміжний персонал виконує завдання з підтримки морпіхів, забезпечуючи вогневу підтримку або іншу допомогу
+department-CMOther = Інше
+cm-department-Other-description = 
+department-CMSurvivor = Вцілілий
+cm-department-Survivor-description = Виживайте, де можливо, самостійно або з іншими вижившими
+department-CMHuman = Люди
+cm-department-Human-description = Усі людські ролі.

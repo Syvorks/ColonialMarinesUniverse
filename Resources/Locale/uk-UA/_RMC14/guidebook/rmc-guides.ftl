@@ -1,0 +1,24 @@
+rmc-guide-entry-rmc = Гайд CMU
+rmc-guide-entry-rules = Правила
+rmc-guide-entry-rules-ban-types = Типи й тривалості банів
+rmc-guide-entry-rules-zero-tolerance = Нульова толерантність
+rmc-guide-entry-rules-language = Мова сервера
+rmc-guide-entry-rules-multikey = Кілька облікових записів
+rmc-guide-entry-rules-escalation = Ескалація бойових дій
+rmc-guide-entry-rules-metaknowledge = Використання знань персонажа
+rmc-guide-entry-rules-kindness = Будьте ввічливі
+rmc-guide-entry-rules-mutinies = Заколоти, бунти
+rmc-guide-entry-rules-marine-law = Закон морпіхів
+rmc-guide-entry-rules-general-roleplay-standards = Загальний рольплей
+rmc-guide-entry-rules-marine-character-names = Імена персонажів
+rmc-guide-entry-rules-marine-roleplay-standards = Рольплей морпіхів
+rmc-guide-entry-rules-command-roleplay = Рольплей командування
+rmc-guide-entry-rules-xeno-roleplay = Рольплей ксеноморфів
+rmc-guide-entry-rules-survivor-roleplay = Рольплей вижилих
+rmc-guide-entry-rules-hostile-faction-roleplay = Ворожі фракції
+rmc-guide-entry-rules-command-chain = Ланцюг командування
+rmc-guide-entry-rules-core = Основні правила
+rmc-guide-entry-rules-command = Правила командування/ВП
+rmc-guide-entry-rules-roleplay-standards = Стандарти рольплею
+rmc-guide-entry-rules-community = Правила спільноти
+

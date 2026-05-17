@@ -1,0 +1,13 @@
+names-k9-first-dataset-1 = Рекс
+names-k9-first-dataset-2 = Куно
+names-k9-first-dataset-3 = Каїро
+names-k9-first-dataset-4 = Конан
+names-k9-first-dataset-5 = Бастер
+names-k9-first-dataset-6 = Зігі
+names-k9-first-dataset-7 = Бадді
+names-k9-first-dataset-8 = Купер
+names-k9-first-dataset-9 = Макс
+names-k9-first-dataset-10 = Бейлі
+names-k9-first-dataset-11 = Барон
+names-k9-first-dataset-12 = Рокі
+names-k9-first-dataset-13 = Дюк

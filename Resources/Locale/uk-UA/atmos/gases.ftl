@@ -1,0 +1,10 @@
+gas-ammonia-abbreviation = NН₃
+gas-carbon-dioxide-abbreviation = CО₂
+gas-frezon-abbreviation = F
+gas-nitrogen-abbreviation = N₂
+gas-nitrous-oxide-abbreviation = N₂О
+gas-oxygen-abbreviation = O₂
+gas-plasma-abbreviation = П
+gas-tritium-abbreviation = T
+gas-water-vapor-abbreviation = H₂О
+gas-unknown-abbreviation = X

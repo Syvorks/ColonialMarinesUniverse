@@ -1,0 +1,27 @@
+# supervisors
+cm-job-supervisors-we-ya = корпоративний офіс Вейленд-Ютані
+cm-job-supervisors-aso = офіцер допоміжної підтримки
+cm-job-supervisors-co = командир
+rmc-job-supervisors-commander = чинний командир
+cm-job-supervisors-cmo = головний лікар
+cm-job-supervisors-ares = АРЕС та АПОЛЛО
+cm-job-supervisors-po = пілоти десантних та ударних кораблів
+cm-job-supervisors-marine-high-command = Високе командування морпіхів
+cm-job-supervisors-cmp = головний військовий поліцейський
+cm-job-supervisors-qm = офіцер логістики
+cm-job-supervisors-ce = головний інженер
+cm-job-supervisors-sl = чинний командир загону
+cm-job-supervisors-staff = персонал сервера
+cm-job-supervisors-nobody = ніхто, ви самі по собі
+cm-job-supervisors-colonists = колоністи
+cm-job-supervisors-secserg = сержант секції
+cm-job-supervisors-platco = командир взводу
+cm-job-supervisors-company-command = командування роти
+cm-job-supervisors-royal-tl = командир команди
+cm-job-supervisors-royal-lieutenant = лейтенант
+cm-job-supervisors-royal-captain = капітан
+cm-job-supervisors-royal-major = майор
+cm-job-supervisors-royal-section-leader = командир секції
+cm-job-supervisors-royal-troop-sergeant = сержант загону
+cm-job-supervisors-royal-troop-commander = командир загону
+cm-job-supervisors-squadron-command = командування ескадрильї

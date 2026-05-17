@@ -1,0 +1,25 @@
+rmc-name-avali-first-1 = Ей
+rmc-name-avali-first-2 = Ха
+rmc-name-avali-first-3 = Хе
+rmc-name-avali-first-4 = Джа
+rmc-name-avali-first-5 = Дже
+rmc-name-avali-first-6 = Ка
+rmc-name-avali-first-7 = Каа
+rmc-name-avali-first-8 = Кхау
+rmc-name-avali-first-9 = Кхе
+rmc-name-avali-first-10 = Кхоу
+rmc-name-avali-first-11 = Ко
+rmc-name-avali-first-12 = На
+rmc-name-avali-first-13 = Наа
+rmc-name-avali-first-14 = Нау
+rmc-name-avali-first-15 = Не
+rmc-name-avali-first-16 = Нхе
+rmc-name-avali-first-17 = Ні
+rmc-name-avali-first-18 = Ню
+rmc-name-avali-first-19 = Ра
+rmc-name-avali-first-20 = Ре
+rmc-name-avali-first-21 = Рха
+rmc-name-avali-first-22 = Ру
+rmc-name-avali-first-23 = Та
+rmc-name-avali-first-24 = Те
+

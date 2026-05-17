@@ -1,0 +1,9 @@
+rmc-bullet-box-amount = Містить {$amount} набоїв.
+rmc-bullet-box-used-in = Використовується у: {$vehicle}
+rmc-bullet-box-wrong-rounds = Це не ті самі набої. Краще їх не змішувати.
+rmc-bullet-box-box-empty = У коробці не залишилось набоїв.
+rmc-bullet-box-box-full = У коробці більше немає місця для набоїв.
+rmc-bullet-box-mag-empty = У магазині не залишилось набоїв.
+rmc-bullet-box-mag-full = У магазині більше немає місця для набоїв.
+rmc-bullet-box-transfer-done = Ви перемістили {$amount} набоїв до {THE($used)}
+rmc-bullet-box-transferto = Наповнити Коробку

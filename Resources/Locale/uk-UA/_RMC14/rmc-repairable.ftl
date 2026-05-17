@@ -1,0 +1,8 @@
+rmc-repairable-need-blowtorch = Вам потрібен потужніший пальник!
+rmc-repairable-not-damaged = {CAPITALIZE(THE($target))} не потребує ремонту.
+rmc-repairable-too-damaged = {CAPITALIZE(THE($target))} зазнав надто великих структурних пошкоджень для ремонту.
+rmc-repairable-not-trained = Ви не навчені ремонтувати {THE($target)}...
+rmc-repairable-start-self = Ви починаєте ремонтувати {THE($target)}
+rmc-repairable-start-others = {$user} починає ремонтувати {THE($target)}
+rmc-repairable-finish-self = Ви ремонтуєте {THE($target)}
+rmc-repairable-finish-others = {$user} ремонтує {THE($target)}

@@ -1,0 +1,15 @@
+construction-category-all = Усе
+construction-category-furniture = Фурнітура
+construction-category-storage = Сховище
+construction-category-tools = Інструменти
+construction-category-materials = Матеріали
+construction-category-structures = Структури
+construction-category-machines = Машини
+construction-category-weapons = Зброя
+construction-category-tiles = Плитки
+construction-category-utilities = Корисне
+construction-category-misc = Різне
+construction-category-clothing = Одяг
+construction-category-favorites = Обране
+construction-add-favorite-button = Додати до обраного
+construction-remove-from-favorite-button = Видалити з обраного

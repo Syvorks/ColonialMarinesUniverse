@@ -1,62 +1,62 @@
 ﻿<Document>
-  # Space Law
-  On Space Station 14, stations operate under abbreviated space law. All crew, passengers, and visitors aboard the station are expected to follow these laws.
+  # Космічний закон
+  На Space Station 14 станції діють за скороченим космічним законом. Усі члени екіпажу, пасажири та відвідувачі на борту станції зобов'язані дотримуватися цих законів.
 
-  Foreign invaders, such as nuclear operatives, ninjas, and pirates, are not protected under space law. Traitors are not foreign invaders so are usually protected by space law.
+  Іноземні загарбники, як-от ядерні оперативники, ніндзя та пірати, не захищені космічним законом. Зрадники не іноземні загарбники, тож зазвичай захищені космічним законом.
 
-  Space Law is not the server rules, but some rules reference Space Law and require it to be followed by certain people or to some degree.
+  Космічний закон — це не правила сервера, але деякі правила посилаються на Космічний закон і вимагають його дотримання певними людьми чи певною мірою.
 
-  ## Treatment Of Prisoners
-  Prisoners still have certain rights that must be upheld by law enforcement:
-  - Prisoners must be granted adequate medical care.
-  - Prisoners must be allowed access to basic communications equipment (Radios) so long as they are not abused.
-  - Prisoners must be granted clothing, food, water, shelter and safety. If the brig is no longer safe, confinement must be established in another location.
-  - Prisoners must be given access to legal counsel during an interrogation if requested and available.
-  - Prisoners must be given their shift mandated PDA after confinement has finished, unless there is solid proof of PDA tampering. In case of tampering, the PDA is to be secured and replaced with a new unit.
-  - Prisoners must be granted freedom of movement, and should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb. Similarly, any prisoners held for permanent confinement should be held in the communal brig, and should not be confined to a solitary cell unless they pose a risk to life and limb.
+  ## Поводження з в'язнями
+  В'язні все ще мають певні права, які мають дотримуватися правоохоронцями:
+  - В'язням має бути надана адекватна медична допомога.
+  - В'язням має бути дозволено доступ до базового комунікаційного обладнання (Радіо), якщо ним не зловживають.
+  - В'язням має бути надано одяг, їжу, воду, дах та безпеку. Якщо бриг більше не безпечний, ув'язнення має бути встановлене в іншому місці.
+  - В'язням має бути надано доступ до правового радника під час допиту, якщо запит зроблено і він доступний.
+  - В'язням має бути надано їхній призначений на зміну КПК після завершення ув'язнення, окрім випадку, коли є чіткі докази підробки КПК. У разі підробки, КПК має бути закріплено і замінено на новий пристрій.
+  - В'язням має бути надана свобода руху, і вони не повинні стримуватися наручниками чи іншими пристроями після ув'язнення, окрім випадку невиправданого ризику для життя і кінцівок. Аналогічно, будь-які в'язні, що утримуються в постійному ув'язненні, мають триматися в загальному бригу і не повинні утримуватися в одиночній камері, окрім випадку, коли вони становлять ризик для життя і кінцівок.
 
-  ## Search and Seizure
-  A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, and pockets. If any contraband is found during a search, the officer may choose to further the search into a detainment or simply confiscate the restricted items. Non-restricted items may be seized by Security if they were used to facilitate a crime. After the search is conducted, all legal items are to be returned to the person. A crewmate may legally decline any search conducted without probable cause or a warrant while the alert level is green. It should be noted that if the alert level is blue or above, all personnel searches are legal.
+  ## Обшук та конфіскація
+  Особистий обшук — це конфіскація об'єктів у рюкзаку особи, в руках, пальті, поясі та кишенях. Якщо під час обшуку знайдено будь-яку контрабанду, офіцер може обрати продовжити обшук до затримання або просто конфіскувати обмежені предмети. Необмежені предмети можуть бути конфісковані Безпекою, якщо вони використовувалися для сприяння злочину. Після проведення обшуку всі легальні предмети мають бути повернуті особі. Член екіпажу може законно відмовити в будь-якому обшуку, проведеному без обґрунтованої причини чи ордера, поки рівень тривоги зелений. Слід зазначити, що якщо рівень тривоги синій або вище, всі особисті обшуки легальні.
 
-  A departmental search is the sweep of an entire area or department for contraband. It is recommended that the officers be extremely thorough, checking all lockers, crates, and doors. These can only be done with permission or, ideally, a warrant signed by the department head or highest-ranking command staff, which is the captain in most cases.
+  Відомчий обшук — це огляд цілої зони чи відділу на наявність контрабанди. Рекомендується, щоб офіцери були надзвичайно ретельними, перевіряючи всі шафи, ящики та двері. Це можна зробити лише з дозволу або, в ідеалі, з ордером, підписаним керівником відділу або найвищим за рангом командним складом, що в більшості випадків — капітан.
 
-  ## Implantation
-  Any prisoner in custody can be subjected to implantation or implant extraction procedures, so long as it's within reason. The process of adding or extracting an implant should not prolong the detainees sentence, meaning you can not hold them longer to perform the procedure, unless stated otherwise. A former inmate can be requested to undergo implantation/extraction at a later point in time; if they fit the circumstances during their confinement, they must comply. The following have been listed out with special circumstances, anything not in this list can still be applied, given proper legal context. A prisoner can still receive implantation/extraction procedures without meeting the circumstances if they give their clear permission.
+  ## Імплантація
+  Будь-який в'язень під вартою може бути підданий процедурам імплантації або вилучення імпланта, якщо це в межах розумного. Процес додавання чи вилучення імпланта не повинен подовжувати вирок затриманому, тобто ви не можете тримати їх довше для виконання процедури, окрім випадків, де вказано інше. Колишній в'язень може бути запрошений пройти імплантацію/вилучення пізніше; якщо вони відповідають обставинам під час свого ув'язнення, вони мусять погодитися. Наступне перелічено з особливими обставинами; що завгодно, що не в цьому списку, все ще може бути застосоване, з належним юридичним контекстом. В'язень все ще може отримати процедури імплантації/вилучення, не відповідаючи обставинам, якщо вони дають свій чіткий дозвіл.
 
-  [color=#a4885c]Tracking Implants:[/color] Trackers can be applied to any suspect that has been convicted of a violent crime (the red linked crimes).
+  [color=#a4885c]Імпланти відстеження:[/color] Трекери можна застосовувати до будь-якого підозрюваного, засудженого за насильницький злочин (червоні пов'язані злочини).
 
-  [color=#a4885c]Mind Shields:[/color] Shields can be administered to any inmate who has been clearly mind controlled, lost control of themselves, or a suspect charged with unlawful control. Unlike standard implantation you may hold a prisoner until you finish issuing Mind Shields, so long as it's done in a timely fashion. If a suspect refuses to cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
+  [color=#a4885c]Mind Shield'и:[/color] Щити можуть застосовуватися до будь-якого ув'язненого, який був явно під ментальним контролем, втратив контроль над собою, або підозрюваного, звинуваченого в незаконному контролі. На відміну від стандартної імплантації, ви можете тримати в'язня, поки не закінчите видавати Mind Shield'и, якщо це зроблено своєчасно. Якщо підозрюваний відмовляється співпрацювати або імплант не функціонує, його можна звинуватити в Відмові від Ментального Захисту.
 
-  Usage of contraband implanters is a detainable offense, but it's not reasonable to detain someone solely for having an unidentified implant inside them.
+  Використання контрабандних імплантаторів — затримуване правопорушення, але нерозумно затримувати когось лише за наявність неідентифікованого імпланта всередині.
 
-  ## Implant Removal
-  Any prisoner in custody can be subjected to implant extraction for a specific implant if there is reasonable suspicion they have it implanted. Detainees may not be forced or coerced into performing implant extraction on themselves against their will.
+  ## Видалення імплантів
+  Будь-який в'язень під вартою може бути підданий вилученню імпланта для конкретного імпланта, якщо є обґрунтована підозра, що він імплантований. Затримані не можуть бути примушені або змушені виконувати вилучення імпланта на собі проти власної волі.
 
-  ## Sentencing
-  From a server rules perspective, security officers are only responsible for ensuring that they only place sentences over 15 minutes where space law would allow permanent confinement. Informing the Warden is highly recommended, even for timed sentences. As long as those requirements are met, security officers not giving inappropriate sentence lengths is considered an in-character issue, not a rule issue.
+  ## Винесення вироку
+  З точки зору правил сервера, офіцери безпеки відповідальні лише за забезпечення того, що вони видають вироки понад 15 хвилин лише там, де космічний закон дозволяв би постійне ув'язнення. Інформування Warden настійно рекомендується, навіть для строкових вироків. Поки ці вимоги виконуються, видача офіцерами безпеки невідповідних довжин вироків вважається IC-проблемою, не правилом.
 
-  The captain, HOS, and warden are responsible, within reason, for ensuring security officers place appropriate sentences that follow space law. If they are aware of an inappropriate sentence, including excessively long sentences, and if there is not an urgent threat or danger that they must prioritize, then they must work to correct that sentence. Unreasonable failures, as determined by game admins, of the captain, HOS, or warden to ensure space law is followed will be considered a rule issue, not an in-character issue.
+  Капітан, HOS і Warden відповідальні, у розумних межах, за забезпечення того, що офіцери безпеки видають відповідні вироки, що дотримуються космічного закону. Якщо вони знають про невідповідний вирок, включно з надмірно довгими вироками, і якщо немає термінової загрози чи небезпеки, яку вони мають пріоритезувати, тоді вони мусять працювати, щоб виправити цей вирок. Нерозумні провали, як визначено гра-адмінами, капітана, HOS чи Warden у забезпеченні дотримання космічного закону вважатимуться правилом, а не IC-проблемою.
 
-  Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Prisoners cooperating and on good behavior should have their sentences reduced. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+  Використовуйте здоровий глузд і людяність при видачі покарань. Ви не повинні завжди шукати найвище покарання, яке можете, ви не зобов'язані завжди давати максимальний час або завжди шукати когось понизити. В'язні, що співпрацюють і поводяться добре, повинні мати свої вироки скорочені. Завжди враховуйте серйозність і звинувачуйте лише в тому, що потрібно, щоб хтось засвоїв свій урок.
 
-  [color=#a4885c]Stackable Crimes:[/color] Crimes are to be considered 'stackable' in the sense that if you charge someone with two or more different crimes, you should combine the times you would give them for each crime. Linked crimes, shown in matching colors and suffixes on the Quick Crime Guide, can not be stacked and instead override each other, you should pick the highest crime that matches the case.
+  [color=#a4885c]Складані злочини:[/color] Злочини мають вважатися "складаними" в тому сенсі, що якщо ви звинувачуєте когось у двох чи більше різних злочинах, ви маєте поєднати часи, які дали б за кожен злочин. Пов'язані злочини, показані в однакових кольорах та суфіксах у Quick Crime Guide, не можуть бути складені і натомість перевизначають один одного — ви маєте обрати найвищий злочин, що відповідає справі.
 
-  - Example: A suspect has committed a 2-01 (possession: major) and a 3-01 (possession: syndicate). The maximum sentence here would be 10 minutes due to them being linked crimes, and 3-01 is the greater crime.
-  - Example 2: A suspect commits a 3-04 (Secure trespassing) and a 3-06 (manslaughter). Those crimes stack since they are not linked crimes. You could sentence for a maximum of 20 minutes, but context matters heavily, and maximum sentences should only be used for the worst offenders.
+  - Приклад: Підозрюваний скоїв 2-01 (володіння: серйозне) і 3-01 (володіння: синдикатське). Максимальний вирок тут — 10 хвилин через те, що це пов'язані злочини, а 3-01 — більший злочин.
+  - Приклад 2: Підозрюваний скоює 3-04 (Незаконний прохід у захищену зону) і 3-06 (вбивство з необережності). Ці злочини складаються, оскільки вони не пов'язані. Ви могли б видати максимум 20 хвилин, але контекст дуже важливий, і максимальні вироки слід використовувати лише для найгірших порушників.
 
-  [color=#a4885c]Repeater Offenders:[/color] Repeated crimes are when someone is released for a crime and then goes to commit the same crime within the same shift. Repeated crimes can be charged with tacked-on time; first repeat: 3:00, second repeat: 6:00, third repeat: permanent confinement. It should be noted each tacked-on time is directly linked to one type of crime, so for example, if someone does their first repeat of trespass and petty theft, you can charge them with an extra 6 minutes.
+  [color=#a4885c]Повторні правопорушники:[/color] Повторні злочини — коли когось звільняють за злочин, і потім він скоює той самий злочин у тій же зміні. Повторні злочини можуть бути звинувачені з додатковим часом; перший повтор: 3:00, другий повтор: 6:00, третій повтор: постійне ув'язнення. Слід зазначити, що кожен доданий час прямо пов'язаний з одним типом злочину, тож наприклад, якщо хтось робить свій перший повтор незаконного проходу і дрібної крадіжки, ви можете звинуватити його в додаткових 6 хвилин.
 
-  [color=#a4885c]Accessory, Attempting, And Intention:[/color] If someone intentionally, knowingly and substantially assists someone in enacting a crime they can be charged with the relevant crimes, such as an engineer giving someone tools, who says they are going to break into an area. Same goes for a clear and solid attempt at a crime, or a person who shows clear intent to act out a crime, such as a syndicate nuclear operative arming a nuke but getting arrested before it goes off, they can still be charged with station-wide destruction. Does not apply to crimes that have an attempted listing already, like attempted murder.
+  [color=#a4885c]Співучасть, замах та намір:[/color] Якщо хтось свідомо, знаючи і суттєво допомагає комусь у виконанні злочину, його можна звинуватити у відповідних злочинах, як-от інженер, що дає інструменти комусь, хто каже, що збирається проникнути в зону. Те ж стосується чіткої і твердої спроби злочину, або особи, що показує чіткий намір вчинити злочин, як-от синдикатський ядерний оперативник, що активує бомбу, але був заарештований перед її вибухом, його все ще можна звинуватити в загальностанційному руйнуванні. Не застосовується до злочинів, що вже мають listing замаху, як-от замах на вбивство.
 
-  ## Normal Punishments
-  - [color=#a4885c]Warning:[/color] For minor crimes, fix the issue, then warn the person not to attempt the crime again. If they still proceed to do it at a later date, a brig time may be better.
-  - [color=#a4885c]Confinement:[/color] The typical punishment, being confined in a cell for a temporary amount of time according to the crimes.
-  - [color=#a4885c]Demotion:[/color] Entails removing all departmental gear they have on their person and revoking the involved department access off their ID. This requires the captain's or involved department head's approval. Demotions should only be issued if the person pose a threat to their own department or are in a position where they have/can abuse their job's gear to commit further crimes.
+  ## Звичайні покарання
+  - [color=#a4885c]Попередження:[/color] За дрібні злочини, виправте проблему, потім попередьте особу не намагатися вчинити злочин знову. Якщо вони все ж продовжать робити це пізніше, час у бригу може бути кращим.
+  - [color=#a4885c]Ув'язнення:[/color] Типове покарання — бути ув'язненим у камері на тимчасовий час відповідно до злочинів.
+  - [color=#a4885c]Пониження:[/color] Включає видалення всього відомчого спорядження, що вони мають при собі, і скасування доступу до залученого відділу з їхньої ID. Це потребує схвалення капітана або керівника залученого відділу. Пониження мають видаватися лише якщо особа становить загрозу для свого відділу або в позиції, де вона має/може зловживати спорядженням своєї роботи для скоєння подальших злочинів.
 
-  ## Major Punishments
-  [color=#a4885c]Permanent Confinement:[/color] Being held in the permanent brig for the entire duration of the shift. A person is eligible for permanent confinement if their timed sentence would exceed 15 minutes. Any persons subject to this punishment are required to be transported in cuffs to CentComm at the end of the shift. A permanent prisoner can not be deprived of anything covered by the section "Treatment Of Prisoners".
-  [color=#a4885c]Execution:[/color] A humane way of dealing with extremely unruly crewmates. Within reason, a prisoner who has been given the death sentence may pick how they wish to be killed, common methods are firing line, lethal injection, exile, and high voltage electrocution. Another alternate method of "execution" is the process of placing a staff's mind into a borg, this is allowed so long as it is lawful. Execution can only be issued with the captain's or acting captain's approval; if the HoS is acting captain or there is no acting captain, all heads of staff are to hold a vote on the matter.
+  ## Серйозні покарання
+  [color=#a4885c]Постійне ув'язнення:[/color] Бути утриманим у постійному бригу протягом усієї тривалості зміни. Особа має право на постійне ув'язнення, якщо її строковий вирок перевищив би 15 хвилин. Усі особи, що підпадають під це покарання, зобов'язані бути перевезені в наручниках до CentComm в кінці зміни. Постійний в'язень не може бути позбавлений нічого, що покрите розділом "Поводження з в'язнями".
+  [color=#a4885c]Страта:[/color] Гуманний спосіб поводження з надзвичайно неслухняними колегами. У розумних межах, в'язень, якому винесено смертний вирок, може обрати, як він хоче бути вбитим; поширені методи — розстрільна команда, летальна ін'єкція, вигнання та високовольтне ураження струмом. Ще один альтернативний метод "страти" — процес поміщення розуму персоналу в борга, це дозволено, якщо це законно. Страта може бути видана лише зі схвалення капітана або в.о. капітана; якщо HoS — в.о. капітана або немає в.о. капітана, всі керівники персоналу мають провести голосування з цього питання.
 
-  ## Crime Listing
-  - [textlink="Crime Listing" link="SpaceLawCrimeList"]
+  ## Перелік злочинів
+  - [textlink="Перелік злочинів" link="SpaceLawCrimeList"]
 </Document>

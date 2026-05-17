@@ -1,0 +1,10 @@
+admin-solutions-window-title = Редактор розчинів — {$targetName}
+admin-solutions-window-solution-label = Цільовий розчин:
+admin-solutions-window-add-new-button = Додати новий реагент
+admin-solutions-window-volume-label = Об'єм {$currentVolume}/{$maxVolume}u
+admin-solutions-window-capacity-label = Місткість (u):
+admin-solutions-window-specific-heat-label = Питома теплоємність: {$specificHeat} Дж/(К*u)
+admin-solutions-window-heat-capacity-label = Теплоємність: {$heatCapacity} Дж/К
+admin-solutions-window-temperature-label = Температура (К):
+admin-solutions-window-thermal-energy-label = Теплова енергія (Дж):
+admin-solutions-window-thermals = Тепло

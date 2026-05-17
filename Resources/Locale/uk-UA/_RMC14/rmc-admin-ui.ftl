@@ -1,0 +1,22 @@
+rmc-ui-cm-actions = Дії RMC
+rmc-ui-transform-tab = Трансформація
+rmc-ui-open-rmc-actions = Відкрити Дії RMC
+rmc-ui-marine-tab = Морпіх
+rmc-ui-automated-vendor-points = Очки Автоматичного Вендора
+rmc-ui-points = Очки:
+rmc-ui-specialist-points = Очки Спеціаліста:
+rmc-ui-weapons-specialist-skills = Навички Спеціаліста Озброєнь
+rmc-ui-create-squad = Створити Загін
+rmc-ui-members = Учасники: {$members} живих
+rmc-ui-add-to-squad = Додати до Загону
+rmc-ui-xeno-tab = Ксеноніди
+rmc-ui-xeno-hive = Вулик:
+rmc-ui-create-new-hive = Створити новий вулик
+rmc-ui-create-hive-title = Назва нового вулика
+rmc-ui-humanoid = Гуманоїд
+rmc-ui-tier = Рівень {$tier}
+
+rmc-ui-admin = Адмін UI RMC
+rmc-ui-rejuvenate-nearby-marines = Відновити всіх найближчих морпіхів
+rmc-ui-chat-bans = Бани Чату
+rmc-ui-delay-round-end = Затримати кінець раунду

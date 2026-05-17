@@ -1,0 +1,10 @@
+rmc-lobby-join-xeno = Долучитися до Чудовиськ
+rmc-lobby-join-colonists = Долучитися до Колоністів
+rmc-lobby-join-other = Долучитися до Інших
+rmc-lobby-join-opfor = Долучитися до Опфор
+rmc-lobby-join-govfor = Долучитися до Говфор
+rmc-lobby-no-burrowed-larva = Закопаних личинок немає.
+rmc-lobby-burrowed-larva-available = У рою є доступні закопані личинки.
+rmc-lobby-join-as-larva = Долучитися як Личинка
+au-lobby-join-govfor = Долучитися до Урядових сил
+au-lobby-join-Colony = Долучитися до Цивільних

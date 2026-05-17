@@ -1,0 +1,11 @@
+admin-player-actions-window-title = Панель дій з гравцем
+admin-player-actions-window-ban = Панель банів
+admin-player-actions-window-admin-ghost = Адмін-привид
+admin-player-actions-window-teleport = Телепорт
+admin-player-actions-window-permissions = Панель дозволів
+admin-player-actions-window-announce = Оголосити
+admin-player-actions-window-shuttle = Викликати шатл / скасувати
+admin-player-actions-window-admin-logs = Адмін-логи
+admin-player-actions-window-admin-notes = Адмін-нотатки
+admin-player-actions-window-admin-fax = Адмін-факс
+admin-player-actions-window-admin-chat = Адмін-чат

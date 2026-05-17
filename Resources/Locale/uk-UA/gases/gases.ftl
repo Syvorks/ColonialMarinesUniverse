@@ -1,0 +1,9 @@
+gases-oxygen = Кисень
+gases-nitrogen = Азот
+gases-co2 = Вуглекислий газ
+gases-plasma = Плазма
+gases-tritium = Тритій
+gases-water-vapor = Водяна пара
+gases-ammonia = Аміак
+gases-n2o = Звеселяючий газ
+gases-frezon = Фрезон

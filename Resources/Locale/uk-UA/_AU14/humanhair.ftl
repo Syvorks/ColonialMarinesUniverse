@@ -1,0 +1,10 @@
+marking-AU14HumanHairCIA2 = ЦРУ 2
+marking-AU14HumanHairCIA3 = ЦРУ 3
+marking-AU14HumanHairCIA5 = ЦРУ 4
+marking-AU14HumanHairIRS = Агент IRS
+marking-AU14HumanHairFlatPressed = Притиснуте плоско
+marking-AU14HumanHairWaver = Хвиляста
+marking-AU14HumanHairElegant = Елегантний пучок
+marking-AU14HumanHairLowBun = Низький пучок
+marking-AU14HumanHairLowPonyTail = Низький хвостик
+marking-AU14HumanHairLowPonyTailAlt = Низький хвостик (альт.)

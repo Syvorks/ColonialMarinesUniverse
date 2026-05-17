@@ -1,0 +1,24 @@
+# Give Commendation Command
+cmd-rmcgivecommendation-desc = Нагороджує гравця медаллю або желе
+cmd-rmcgivecommendation-help = Використання: rmcgivecommendation <giverName> <receiver> <receiverName> <type> <commendationType> <citation> [roundId]\n  Аргументи:\n  giverName: хто надає нагороду IC (ОБОВ'ЯЗКОВО в лапках, якщо містить пробіли)\n  receiver: ім'я користувача або UserId гравця\n  receiverName: ім'я персонажа (ОБОВ'ЯЗКОВО в лапках, якщо містить пробіли)\n  type: medal або jelly\n  commendationType: число (використовуйте Tab для доступних типів)\n  citation: причина нагороди (ОБОВ'ЯЗКОВО в лапках)\n  roundId: номер раунду, за замовчуванням поточний (необов'язково)
+cmd-rmcgivecommendation-invalid-arguments = Невірна кількість аргументів!
+cmd-rmcgivecommendation-invalid-type = Невірний тип! Має бути 'medal' або 'jelly'.
+cmd-rmcgivecommendation-invalid-award-type = Невірний тип '{ $type }'! Має бути 1-{ $max }.
+cmd-rmcgivecommendation-empty-citation = Цитата не може бути порожньою!
+cmd-rmcgivecommendation-player-not-found = Гравця '{ $player }' не знайдено
+cmd-rmcgivecommendation-success = { $award } нагороджено { $player }!
+cmd-rmcgivecommendation-admin-announcement = { $admin } нагородив { $type } "{ $award }" гравцю { $receiver } (персонаж: { $character }) за Раунд { $round }
+cmd-rmcgivecommendation-hint-giver = IC ім'я того, хто надає (будьте уважні при введенні IC імені)
+cmd-rmcgivecommendation-hint-giver-highcommand = Стандартний автор для медалей морпіхів
+cmd-rmcgivecommendation-hint-giver-queen-mother = Стандартний автор для желе ксеносів
+cmd-rmcgivecommendation-hint-receiver = Ім'я користувача або UserId отримувача
+cmd-rmcgivecommendation-hint-receiver-name = Ім'я персонажа отримувача (будьте уважні при введенні IC імені)
+cmd-rmcgivecommendation-hint-type = Тип (medal або jelly)
+cmd-rmcgivecommendation-hint-type-medal = Нагородити морпіха медаллю
+cmd-rmcgivecommendation-hint-type-jelly = Нагородити ксеноса королівським желе
+cmd-rmcgivecommendation-hint-medal-type = Тип медалі (1-{ $count })
+cmd-rmcgivecommendation-hint-jelly-type = Тип желе (1-{ $count })
+cmd-rmcgivecommendation-hint-invalid-type = Тип має бути 'medal' або 'jelly'
+cmd-rmcgivecommendation-hint-citation = Текст цитати (будьте уважні при введенні IC причини)
+cmd-rmcgivecommendation-hint-round = Ідентифікатор Раунду (необов'язково)
+cmd-rmcgivecommendation-hint-round-current = Поточний раунд

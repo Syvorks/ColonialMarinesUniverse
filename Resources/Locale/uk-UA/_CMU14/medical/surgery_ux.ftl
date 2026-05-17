@@ -1,0 +1,347 @@
+# V2-β surgery UX strings.
+# - Window header / hint
+# - Armed-step status line
+# - Wrong-tool / wrong-part / no-tool popups
+# - Tool category names (resolver categories from SharedCMUSurgeryFlowSystem)
+# - Per-step labels for all 19 V1 CMU surgeries
+
+# ---- Window chrome ---------------------------------------------------
+
+cmu-medical-surgery-window-title = Хірургічна процедура
+cmu-medical-surgery-window-hint = Виберіть частину тіла, виберіть операцію, потім клікніть по пацієнту з потрібним інструментом.
+cmu-medical-surgery-no-eligible = Тут немає доступних операцій.
+cmu-medical-surgery-section-patient = Терплячий
+cmu-medical-surgery-section-workflow = Робочий процес
+cmu-medical-surgery-workflow-ready = Активна процедура не обрана.
+cmu-medical-surgery-workflow-active = { $surgery } активна на { $part }.
+cmu-medical-surgery-section-parts = Частини тіла
+cmu-medical-surgery-section-surgeries = Операції
+cmu-medical-surgery-section-surgeries-on = Операції на { $part }
+cmu-medical-surgery-no-part-selected = Виберіть частину тіла.
+cmu-medical-surgery-procedure-detail = { $step } / { $tool }
+cmu-medical-surgery-arm-button = Розпочати Операцію
+cmu-medical-surgery-cancel-armed = Скасувати Операцію
+cmu-medical-surgery-step-hint = Крок { $step }/{ $total } — { $label } ({ $tool })
+cmu-medical-surgery-step-hint-prereq = Передумова { $step }/{ $total } — { $label } ({ $tool })
+cmu-medical-surgery-armed-heading = ГОТОВА
+
+# ---- In-progress hero panel ------------------------------------------
+
+cmu-medical-surgery-in-progress-heading = В ПРОЦЕСІ
+cmu-medical-surgery-in-progress-subtitle = { $surgery } · { $part }
+cmu-medical-surgery-in-progress-credit = Розпочато { $surgeon } · { $elapsed } тому
+cmu-medical-surgery-step-now = Крок { $step }: { $label }
+cmu-medical-surgery-action-hint = Клікніть { $part } з { $tool }.
+cmu-medical-surgery-action-hint-no-tool = Клікніть { $part }, щоб продовжити.
+cmu-medical-surgery-choose-next-heading = Виберіть наступну операцію
+cmu-medical-surgery-choose-next-hint = Продовжіть інший ремонт на цій відкритій частині або зашийте їх.
+cmu-medical-surgery-continue-with-button = Продовжити з { $surgery }
+cmu-medical-surgery-close-up-button = Закрити
+cmu-medical-surgery-continue-button = Продовжити Операцію
+cmu-medical-surgery-abandon-button = Залишити Операцію
+cmu-medical-surgery-actions-heading = Дії
+
+# ---- Per-part section labels -----------------------------------------
+
+cmu-medical-surgery-part-heading = { $part }
+cmu-medical-surgery-part-condition-healthy = Здорово
+cmu-medical-surgery-part-condition-locked = Інша операція в процесі на { $other } — спочатку завершіть або залиште
+cmu-medical-surgery-part-condition-no-eligible = Немає доступних операцій
+
+cmu-medical-surgery-condition-incision-open = Відкритий розріз
+cmu-medical-surgery-condition-ribcage-open = Відкрита грудна клітка
+cmu-medical-surgery-condition-skull-open = Відкритий череп
+cmu-medical-surgery-condition-bones-open = Відкриті кістки
+cmu-medical-surgery-condition-fracture = { $severity } перелом
+cmu-medical-surgery-condition-internal-bleed = Внутрішня кровотеча
+cmu-medical-surgery-condition-eschar = Струп
+cmu-medical-surgery-condition-in-progress = Операція в процесі
+cmu-medical-surgery-condition-missing = Відрізано
+
+# ---- BUI category headers ---------------------------------------------
+
+cmu-medical-surgery-category-fracture = Перелом
+cmu-medical-surgery-category-bleed = Внутрішня Кровотеча
+cmu-medical-surgery-category-burn = Бернс
+cmu-medical-surgery-category-remove_organ = Видалити Орган
+cmu-medical-surgery-category-transplant = Пересадити Орган
+cmu-medical-surgery-category-suture = Зашити Орган
+cmu-medical-surgery-category-head_organ = Операція Голови
+cmu-medical-surgery-category-amputation = Видалити Кінцівку
+cmu-medical-surgery-category-reattach = Прикріпити Кінцівку
+cmu-medical-surgery-category-parasite = Видалення Паразита
+cmu-medical-surgery-category-close_up = Закрити
+cmu-medical-surgery-category-general = Інше
+
+# ---- Examine surface (CMUSurgeryStateExamineSystem) ------------------
+
+cmu-medical-surgery-examine-patient-in-progress = [color=#dca94c]{ $surgery } в процесі (від { $surgeon }) — далі: { $next }.[/color]
+cmu-medical-surgery-examine-part-in-progress = [color=#dca94c]{ $surgery } в процесі (від { $surgeon }) — далі: { $next }.[/color]
+cmu-medical-surgery-examine-part-abandoned = [color=#888888]Відкрита рана — операція не проводиться.[/color]
+
+# ---- Close-up step labels (RMC fallback resolution) ------------------
+
+cmu-medical-surgery-step-close-incision-label = Закрити Розріз
+cmu-medical-surgery-step-mend-ribcage-label = Зрощити Грудну Клітку
+cmu-medical-surgery-step-mend-skull-label = Зрощити Череп
+cmu-medical-surgery-step-mend-bones-label = Зрощити Кістки
+cmu-medical-surgery-step-close-bones-label = Закрити Кістки
+
+# ---- Armed-step status -----------------------------------------------
+
+cmu-medical-surgery-armed-none = (операція не активована)
+cmu-medical-surgery-armed-step = Активовано: { $surgery } — Крок { $step } ({ $tool })
+cmu-medical-surgery-armed-cancelled = Операцію скасовано.
+cmu-medical-surgery-armed-expired = Час вибору операції вийшов.
+cmu-medical-surgery-auto-armed = Обрано { $surgery }.
+cmu-medical-surgery-auto-continue = Продовжуємо з { $surgery }.
+cmu-medical-surgery-choose-repair-or-close = Виберіть ремонт органа або закрийте їх.
+
+# ---- Click-target popups ---------------------------------------------
+
+cmu-medical-surgery-wrong-part = Це не та частина, на якій ви активували операцію.
+cmu-medical-surgery-wrong-tool = Це не той інструмент для цього кроку.
+cmu-medical-surgery-wrong-tool-damage = Ви проковзнули з { $tool }!
+cmu-medical-surgery-improvised-mishap = Імпровізований { $tool } прослизає і завдає додаткової травми.
+cmu-medical-surgery-step-failed = Операція проковзує і завдає травми.
+cmu-medical-surgery-step-failed-with-tool = { $tool } прослизає і завдає хірургічної травми.
+cmu-medical-surgery-no-tool = Вам потрібен хірургічний інструмент для цього кроку.
+cmu-medical-surgery-missing-skills = Ви не знаєте, як виконати цей крок.
+cmu-medical-surgery-cannot-start = Ця операція більше недоступна.
+cmu-medical-surgery-needs-operating-table = Спочатку перенесіть їх на операційний стіл.
+cmu-medical-surgery-remove-helmet = Спочатку зніміть їх шолом.
+cmu-medical-surgery-remove-armor = Спочатку зніміть заважаючу броню.
+cmu-medical-surgery-wrong-limb = Ця кінцівка не підходить до жодного вільного слота на пацієнтові.
+cmu-medical-surgery-welder-not-lit = Спочатку запаліть інструмент.
+cmu-medical-surgery-patient-not-lying = Пацієнт має лежати або бути прив'язаним до операційного столу.
+cmu-medical-surgery-patient-not-controlled = Пацієнту потрібна анестезія, сильні знеболюючі або обмежувачі перед операцією.
+cmu-medical-surgery-self-pain-control = Самооперація вимагає сильних знеболюючих заздалегідь.
+cmu-medical-surgery-self-not-secured = Пристебніться до стільця, ліжка або візка перед спробою самооперації.
+cmu-medical-surgery-self-not-allowed = Ви не можете виконати цю операцію на собі.
+cmu-medical-surgery-step-pain-interrupted = Біль пацієнта перериває хірургічний крок.
+cmu-medical-amputation-success = Кінцівку видалено.
+
+# ---- Tool category names (used in the BUI button + armed line) -------
+
+cmu-medical-surgery-tool-category-scalpel = Скальпель
+cmu-medical-surgery-tool-category-hemostat = Гемостат
+cmu-medical-surgery-tool-category-retractor = Ретрактор
+cmu-medical-surgery-tool-category-cautery = Коагулятор
+cmu-medical-surgery-tool-category-bone_saw = Кістопила
+cmu-medical-surgery-tool-category-bone_setter = Кістковий Фіксатор
+cmu-medical-surgery-tool-category-bone_gel = Кістковий Гель
+cmu-medical-surgery-tool-category-bone_graft = Кістковий Трансплант
+cmu-medical-surgery-tool-category-organ_clamp = Затискач для Органа
+cmu-medical-surgery-tool-category-scalpel_or_burn_kit = Скальпель або набір для опіків
+cmu-medical-surgery-tool-category-severed_limb = Підходяща Кінцівка
+cmu-medical-surgery-tool-category-blowtorch = Запалений Зварник
+cmu-medical-surgery-tool-category-cable_coil = Котушка з Кабелем
+
+# ---- Per-step labels -------------------------------------------------
+
+cmu-medical-surgery-step-realign-simple-label = Вирівняти Простий Перелом
+cmu-medical-surgery-step-realign-compound-label = Вирівняти Складний Перелом
+cmu-medical-surgery-step-realign-comminuted-label = Вирівняти Уламковий Перелом
+cmu-medical-surgery-step-apply-gel-label = Нанести Кістковий Гель
+cmu-medical-surgery-step-apply-gel-second-label = Нанести Кістковий Гель (Другий Шар)
+cmu-medical-surgery-step-insert-graft-label = Вставити Кістковий Трансплант
+cmu-medical-surgery-step-cauterize-bleed-label = Затиснути Внутрішню Кровотечу
+cmu-medical-surgery-step-clamp-liver-label = Затиснути Судини Печінки
+cmu-medical-surgery-step-clamp-lungs-label = Затиснути Судини Легень
+cmu-medical-surgery-step-clamp-kidneys-label = Затиснути Судини Нирок
+cmu-medical-surgery-step-clamp-heart-label = Затиснути Судини Серця
+cmu-medical-surgery-step-clamp-stomach-label = Затиснути Судини Шлунка
+cmu-medical-surgery-step-extract-liver-label = Видалити Печінку
+cmu-medical-surgery-step-extract-lungs-label = Видалити Легені
+cmu-medical-surgery-step-extract-kidneys-label = Видалити Нирки
+cmu-medical-surgery-step-extract-heart-label = Видалити Серце
+cmu-medical-surgery-step-extract-stomach-label = Видалити Шлунок
+cmu-medical-surgery-step-reinsert-liver-label = Вставити Замінну Печінку
+cmu-medical-surgery-step-reinsert-lungs-label = Вставити Замінні Легені
+cmu-medical-surgery-step-reinsert-kidneys-label = Вставити Замінні Нирки
+cmu-medical-surgery-step-reinsert-stomach-label = Вставити Замінний Шлунок
+cmu-medical-surgery-step-transplant-heart-label = Пересадити Донорське Серце
+cmu-medical-surgery-step-suture-liver-label = Зашити Печінку
+cmu-medical-surgery-step-suture-lungs-label = Зашити Легені
+cmu-medical-surgery-step-suture-kidneys-label = Зашити Нирки
+cmu-medical-surgery-step-suture-heart-label = Зашити Серце
+cmu-medical-surgery-step-suture-stomach-label = Зашити Шлунок
+cmu-medical-surgery-step-amputate-limb-label = Ампутувати Кінцівку
+cmu-medical-surgery-step-reattach-limb-label = Прикріпити Відрізану Кінцівку
+
+# ---- Autodoc ---------------------------------------------------------
+
+cmu-autodoc-window-title = АвтоДок
+cmu-autodoc-no-patient = Немає пацієнта
+cmu-autodoc-status-no-pod = Немає підключеного автодок поду поряд.
+cmu-autodoc-status-empty = Підключений под порожній.
+cmu-autodoc-status-ready = Готовий до постановки автоматичних процедур у чергу.
+cmu-autodoc-status-running = Виконує процедури з черги.
+cmu-autodoc-current-idle = Поточна процедура: бездіяльність
+cmu-autodoc-current-step = Поточна процедура: { $step }
+cmu-autodoc-current-step-timed = Поточна процедура: { $step } (залишилось { $time })
+cmu-autodoc-current-step-detail = { $surgery } / { $part } / { $step }
+cmu-autodoc-start-button = Старт
+cmu-autodoc-stop-button = Стоп
+cmu-autodoc-clear-button = Очистити
+cmu-autodoc-eject-button = Випустити Пацієнта
+cmu-autodoc-remove-button = Видалити
+cmu-autodoc-queue-button = У чергу
+cmu-autodoc-queue-heading = Черга
+cmu-autodoc-parts-heading = Деталі
+cmu-autodoc-surgeries-heading = Операції
+cmu-autodoc-queue-empty = Немає процедур у черзі.
+cmu-autodoc-queue-summary = { $count } процедур(а) у черзі
+cmu-autodoc-available-procedures = { $count } доступних процедур(а)
+cmu-autodoc-part-procedures = { $count } процедур(а)
+cmu-autodoc-surgery2-required = Для постановки кроків автодока в чергу потрібне навчання Хірургія 2.
+cmu-autodoc-no-surgeries = Тут немає доступних операцій.
+cmu-autodoc-queue-row = #{ $index } { $surgery } на { $part } - { $step }
+cmu-autodoc-surgery-row = { $surgery } - { $step }
+cmu-autodoc-automated-step-label = Автоматичний цикл ремонту
+cmu-autodoc-automated-step-note = Автодок ремонтує цю ціль за машинним таймером.
+cmu-autodoc-repair-wounds-surgery = Ремонт Ран / Опіків
+cmu-autodoc-procedure-time-note = { $time } автоматичної процедури.
+cmu-autodoc-minutes = { $minutes } хв
+
+# ---- Body scanner ----------------------------------------------------
+
+cmu-body-scanner-window-title = Сканер тіла
+cmu-body-scanner-no-patient = Немає пацієнта
+cmu-body-scanner-status-no-pod = Немає підключеного скан-поду поряд.
+cmu-body-scanner-status-empty = Підключений скан-под порожній.
+cmu-body-scanner-status-ready = Сканування пацієнта готове.
+cmu-body-scanner-status-no-skill = Для завершення сканувань потрібне навчання Хірургія 1.
+cmu-body-scanner-boost-active = Хірургічний асистент відкалібровано: залишилось { $time }.
+cmu-body-scanner-boost-inactive = Хірургічний асистент не відкалібровано.
+cmu-body-scanner-scan-heading = Сканувати
+cmu-body-scanner-terms-heading = Шари зрізів
+cmu-body-scanner-targets-heading = Активні Показники Зрізів
+cmu-body-scanner-start-button = Розпочати Калібрування
+cmu-body-scanner-reset-button = Скинути Калібрування
+cmu-body-scanner-eject-button = Випустити Пацієнта
+cmu-body-scanner-surgery1-required = Для сканувань тіла потрібне навчання Хірургія 1.
+cmu-body-scanner-no-scan-lines = Немає даних сканування.
+cmu-body-scanner-diagnostic-summary = { $count } діагностичних рядків
+cmu-body-scanner-match-summary = { $matched }/{ $required } зафіксовано, залишилось { $time }
+cmu-body-scanner-match-summary-idle = { $matched }/{ $required } зафіксовано, не розпочато
+cmu-body-scanner-calibrated-summary = Відкалібровано, залишилось { $time } асистента
+cmu-body-scanner-calibrated-badge = ВІДКАЛІБРОВАНО { $time }
+cmu-body-scanner-calibration-ready = 2:00
+cmu-body-scanner-lockout-summary = Активний зріз заблоковано, залишилось { $time }
+cmu-body-scanner-lockout-status = Активний зріз заблоковано: залишилось { $time }.
+cmu-body-scanner-lockout-detail = Калібрування не вдалося. Зачекайте, доки блокування зніметься.
+cmu-body-scanner-no-surgical-targets = Цілей не виявлено.
+cmu-body-scanner-no-surgical-targets-detail = Бонус не призначено.
+cmu-body-scanner-calibration-heading = Анатомічне Сканування Зрізів
+cmu-body-scanner-sweep-title = Шарове сканерне зчищення
+cmu-body-scanner-sweep-detail = Налаштуйте зріз, щоб почати.
+cmu-body-scanner-layer-selected = Налаштований зріз - { $locked }/{ $total } зафіксовано
+cmu-body-scanner-layer-ready = { $locked }/{ $total } зафіксовано
+cmu-body-scanner-layer-empty = Аномальних показників немає
+cmu-body-scanner-signal-locked = Сигнал зафіксовано
+cmu-body-scanner-signal-ready = { $detail } - блокування на бірюзовому
+cmu-body-scanner-start-status = Розпочніть калібрування, щоб запустити сканування зрізів.
+cmu-body-scanner-ready-status = Налаштуйте зріз, потім блокуйте аномальні показники, поки сканер бірюзовий.
+cmu-body-scanner-armed-status = Зріз налаштовано: { $layer }. Блокуйте показники, коли сканер заходить у бірюзову зону.
+cmu-body-scanner-penalty-status = Поганий час або зріз: -{ $seconds } с.
+cmu-body-scanner-feedback-correct = Сигнал зафіксовано.
+cmu-body-scanner-feedback-wrong-timing = Сканер пропустив зону захоплення: -{ $seconds } с.
+cmu-body-scanner-feedback-wrong-layer = Інтерференція шарів: -{ $seconds } с.
+cmu-body-scanner-expired-status = Час вийшов. Скиньте калібрування, щоб спробувати знову.
+cmu-body-scanner-complete-status = Усі показники зафіксовано. Хірургічний асистент відкалібровано.
+cmu-body-scanner-timer-active = ТАЙМЕР АКТИВНОГО ЗРІЗУ
+cmu-body-scanner-timer-expired = ТАЙМЕР ВИЧЕРПАНО
+cmu-body-scanner-timer-locked = ЗРІЗ ЗАБЛОКОВАНО
+cmu-body-scanner-timer-detail = Заблокуйте показники до закриття вікна сканування.
+cmu-body-scanner-no-layer-signals = Немає аномальних показників на { $layer }.
+cmu-body-scanner-interference-title = Невирішений показник
+cmu-body-scanner-interference-detail = Інтерференція на { $layer }
+cmu-body-scanner-decoy-ready = { $detail } - шумовий відголосок
+cmu-body-scanner-decoy-vitals-1 = Кардіо-сплеск ехо
+cmu-body-scanner-decoy-vitals-2 = Мерехтіння кисню крові
+cmu-body-scanner-decoy-detail-vitals = перехідний артефакт життєвих показників
+cmu-body-scanner-decoy-skeleton-1 = Тонка тінь кістки
+cmu-body-scanner-decoy-skeleton-2 = Привид суглобового вирівнювання
+cmu-body-scanner-decoy-detail-skeleton = нестабільний кістковий силует
+cmu-body-scanner-decoy-organs-1 = Розквіт м'яких органів
+cmu-body-scanner-decoy-organs-2 = Відображення щільності
+cmu-body-scanner-decoy-detail-organs = непослідовна щільність органа
+cmu-body-scanner-decoy-tissue-1 = Поверхневий спалах тканини
+cmu-body-scanner-decoy-tissue-2 = Судинна шумова смуга
+cmu-body-scanner-decoy-detail-tissue = шумове відображення м'яких тканин
+cmu-body-scanner-triage-stable = Стабільні показники
+cmu-body-scanner-triage-serious = Серйозні знахідки
+cmu-body-scanner-triage-critical = Критичні знахідки
+cmu-body-scanner-triage-clear = Жодних термінових аномальних знахідок.
+cmu-body-scanner-health-stable = Стабільний
+cmu-body-scanner-health-damaged = Пошкоджено
+cmu-body-scanner-health-critical = Критичний
+cmu-body-scanner-section-vitals = Життєві показники
+cmu-body-scanner-section-body = Тіло
+cmu-body-scanner-section-organs = Органи
+cmu-body-scanner-term-assigned = { $term } -> { $target }
+cmu-body-scanner-target-filled = { $target }: { $term }
+cmu-body-scanner-line-state = Стан: { $state }
+cmu-body-scanner-line-damage = Шкода: всього { $total } (тупа { $brute }, опік { $burn })
+cmu-body-scanner-line-blood = Кров: { $blood } / { $max }
+cmu-body-scanner-heart-stopped = Серце: активність не виявлена
+cmu-body-scanner-heart-active = Серце: { $bpm } уд/хв
+cmu-body-scanner-line-no-data = Немає доступних діагностичних даних.
+cmu-body-scanner-line-part = { $part }: { $details }
+cmu-body-scanner-part-health = HP { $current } / { $max }
+cmu-body-scanner-part-wounds = { $count } необроблених ран
+cmu-body-scanner-part-fracture = { $severity } перелом
+cmu-body-scanner-part-bleed = внутрішня кровотеча { $rate }/с
+cmu-body-scanner-part-eschar = струп
+cmu-body-scanner-part-splinted = зашиновано
+cmu-body-scanner-part-cast = у гіпсі
+cmu-body-scanner-part-tourniquet = з джгутом
+cmu-body-scanner-part-missing-limb = відсутня / відрізана кінцівка
+cmu-body-scanner-line-organ = { $organ }: { $stage } ({ $current } / { $max })
+cmu-body-scanner-line-missing-organ = Відсутній { $organ } у { $part }
+cmu-body-scanner-signal-heart-stopped = Серце: активність не виявлена
+cmu-body-scanner-signal-organ-damage = { $organ }: { $stage } ушкодження органа
+cmu-body-scanner-signal-low-blood = Низький об'єм крові: { $blood } / { $max }
+cmu-body-scanner-signal-internal-bleed = { $part }: внутрішня кровотеча { $rate }/с
+cmu-body-scanner-signal-fracture = { $part }: { $severity } перелом
+cmu-body-scanner-signal-wounds = { $part }: { $count } необроблених ран
+cmu-body-scanner-signal-trauma = { $part }: травма тканин { $current } / { $max }
+cmu-body-scanner-signal-missing-organ = Відсутній { $organ } у { $part }
+cmu-body-scanner-signal-missing-limb = { $part }: відсутня / відрізана кінцівка
+cmu-body-scanner-slice-detail-cardiac = серцевий ритм
+cmu-body-scanner-slice-detail-organ = щільність органа
+cmu-body-scanner-slice-detail-blood = об'єм крові
+cmu-body-scanner-slice-detail-bleed = плин тканини
+cmu-body-scanner-slice-detail-fracture = вирівнювання кістки
+cmu-body-scanner-slice-detail-wound = розрив тканини
+cmu-body-scanner-slice-detail-trauma = щільність м'яких тканин
+cmu-body-scanner-slice-detail-missing-organ = силует органа
+cmu-body-scanner-slice-detail-missing-limb = силует кінцівки
+
+cmu-limb-printer-window-title = Принтер Кінцівок
+cmu-limb-printer-header = Виготовлення Кінцівки
+cmu-limb-printer-matrix-heading = Синтезова Матриця
+cmu-limb-printer-blood-heading = Шаблон Крові
+cmu-limb-printer-no-beaker = Не вставлено мензурку матриці.
+cmu-limb-printer-no-syringe = Не вставлено шприц із кров'ю.
+cmu-limb-printer-fluid-amount = { $current } / { $max }од
+cmu-limb-printer-matrix-cost = { $cost }од матриці на друк
+cmu-limb-printer-blood-cost = { $cost }од крові на друк
+cmu-limb-printer-remove-beaker = Видалити Мензурку
+cmu-limb-printer-remove-syringe = Видалити Шприц
+cmu-limb-printer-left-heading = Ліва
+cmu-limb-printer-right-heading = Права
+cmu-limb-printer-print-ready = Готово до друку
+cmu-limb-printer-status-ready = Готово до синтезу.
+cmu-limb-printer-missing-beaker = Вставте мензурку з біогенною матрицею.
+cmu-limb-printer-missing-matrix = Біогенна матриця замала.
+cmu-limb-printer-missing-syringe = Вставте шприц із кров'ю пацієнта.
+cmu-limb-printer-missing-blood = Зразок крові пацієнта замалий.
+cmu-limb-printer-printed = Надруковано { $limb }.
+cmu-limb-printer-left-arm = Ліва рука
+cmu-limb-printer-left-leg = Ліва нога
+cmu-limb-printer-right-arm = Права рука
+cmu-limb-printer-right-leg = Права нога
+cmu-limb-printer-slot-beaker = мензурка матриці
+cmu-limb-printer-slot-syringe = шприц з кров'ю

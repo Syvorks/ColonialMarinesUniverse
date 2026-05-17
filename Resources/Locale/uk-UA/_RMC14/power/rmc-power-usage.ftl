@@ -1,0 +1,1 @@
+rmc-power-usage-display-defib = Залишилось [color=yellow]{$uses}[/color] з [color=yellow]{$maxuses}[/color] використань у внутрішній батареї.
