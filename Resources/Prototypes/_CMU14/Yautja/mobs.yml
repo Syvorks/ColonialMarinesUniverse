@@ -2,7 +2,7 @@
   save: false
   parent: CMMobHuman
   id: CMUMobYautja
-  name: "Мисливець Яутжа"
+  name: Yautja Hunter
   suffix: Yautja, Event
   components:
   - type: Yautja
@@ -93,7 +93,7 @@
 - type: entity
   parent: BaseSpeciesDummy
   id: CMUMobYautjaDummy
-  name: "Манекен Яутжа"
+  name: Yautja Dummy
   categories: [ HideSpawnMenu ]
   components:
   - type: HumanoidAppearance

@@ -2,7 +2,7 @@
   parent: AU14JobRadioTelephoneOperatorBase
   id: AU14JobGOVFORRadioTelephoneOperator
   name: au14-job-name-radiotelephoneoperator
-  description: "au14-job-description-radiotelephoneooerator"
+  description: au14-job-description-radiotelephoneooerator
   setPreference: true
   requirements:
   - !type:TraitsRequirement
@@ -82,7 +82,7 @@
 - type: entity
   parent: CMSpawnPointJobBase
   id: AU14SpawnPointGOVFORRadioTelephoneOperator
-  name: "точка появи радіотелефоніста ГОВФОР"
+  name: Spawn Point GOVFOR Radio Telephone Operator
   components:
   - type: SpawnPoint
     job_id: AU14JobGOVFORRadioTelephoneOperator

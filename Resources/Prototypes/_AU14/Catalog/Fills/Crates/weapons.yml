@@ -3,7 +3,7 @@
 - type: entity
   id: AU14CrateL165A1
   parent: RMCCrateWeapons
-  name: "ящик ручних гармат L165A1 (x2)"
+  name: L165A1 Hand Cannon Crate (x2)
   components:
   - type: StorageFill
     contents:

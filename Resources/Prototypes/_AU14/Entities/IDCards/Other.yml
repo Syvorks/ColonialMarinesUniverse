@@ -1,7 +1,7 @@
 ﻿- type: entity
   parent: CMIDCardBase
   id: AU14IDCardMobBoss
-  name: "ID-карта боса мафії"
+  name: Mob boss ID card
   components:
   - type: PresetIdCard
     job: AU14JobMobBoss
@@ -11,7 +11,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardMobGoon
-  name: "ID-карта громили мафії"
+  name: Mob goon ID card
   components:
   - type: PresetIdCard
     job: AU14JobMobGoon
@@ -21,7 +21,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardCivilianPizzaDeliveryBoy
-  name: "iD-карта доставника піци"
+  name: delivery pizza boy ID card
   components:
   - type: PresetIdCard
     job: AU14JobCivilianDeliveryPizzaBoy
@@ -29,7 +29,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardCivilianProfessorVonBandolier
-  name: "iD-карта професора фон Бандольєра"
+  name: professor von bandolier ID card
   components:
   - type: PresetIdCard
     job: AU14JobCivilianProfessorVonBandolier
@@ -37,7 +37,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardTimeSharesSalesman
-  name: "iD-карта продавця таймшерів"
+  name: times shares saleperson ID card
   components:
   - type: PresetIdCard
     job: AU14JobCivilianTimesSharesSalesman
@@ -45,7 +45,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardRedCrossCMO
-  name: "iD-карта головного лікаря медперсоналу МКЧХ"
+  name: icrc medical staff cmo ID card
   components:
   - type: PresetIdCard
     job: AU14JobRedCrossCMO
@@ -53,7 +53,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardRedCrossDoctor
-  name: "iD-карта лікаря медперсоналу МКЧХ"
+  name: icrc medical staff doctor ID card
   components:
   - type: PresetIdCard
     job: AU14JobRedCrossDoctor
@@ -61,7 +61,7 @@
 - type: entity
   parent: CMIDCardBase
   id: AU14IDCardRedCrossNurse
-  name: "iD-карта медсестри медперсоналу МКЧХ"
+  name: icrc medical staff nurse ID card
   components:
   - type: PresetIdCard
     job: AU14JobRedCrossNurse

@@ -3,8 +3,8 @@
 - type: entity
   parent: CMEncryptionKey
   id: AU14EncryptionKeyMob
-  name: "ключ шифрування мафії"
-  description: "Ключ шифрування для зв’язку на каналі «Родина»."
+  name: Mob encryption key
+  description: An encryption key used to communicate on the Family channel.
   components:
   - type: EncryptionKey
     channels:
@@ -16,8 +16,8 @@
 - type: entity
   parent: RMCHeadsetMarine
   id: AU14HeadsetMob
-  name: "гарнітура мафії"
-  description: "Звичайна колоніальна гарнітура з власним каналом"
+  name: Mob headset
+  description: A common colony headset with a custom channel
   components:
   - type: Sprite
     state: generic_headset
@@ -29,8 +29,8 @@
 - type: entity
   parent: RMCHeadsetMarine
   id: AU14HeadsetWorkingJoe
-  name: "гарнітура Воркінг Джо"
-  description: "Звичайна гарнітура, яку використовують Воркінг Джо."
+  name: Working Joe headset
+  description: A common headset used by Working Joes.
   components:
   - type: Sprite
     state: generic_headset
