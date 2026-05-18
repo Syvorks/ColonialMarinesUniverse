@@ -12,6 +12,7 @@ public abstract partial class SharedRankSystem : EntitySystem
 {
     [Dependency] private IPrototypeManager _prototypes = default!;
     [Dependency] private IEntityManager _entMan = default!;
+    [Dependency] private ILocalizationManager _loc = default!;
 
     public override void Initialize()
     {
@@ -79,6 +80,17 @@ public abstract partial class SharedRankSystem : EntitySystem
     }
 
     /// <summary>
+    ///     Tries to get a localized version of a rank's prefix from the locale files,
+    ///     falling back to the raw value defined in the YAML prototype.
+    /// </summary>
+    private string LocalizePrefix(RankPrototype rank, string fallback)
+    {
+        return _loc.TryGetString($"cmu-rank-prefix-{rank.ID}", out var localized)
+            ? localized
+            : fallback;
+    }
+
+    /// <summary>
     ///     Gets the rank name of a given mob.
     /// </summary>
     public string? GetRankString(EntityUid uid, bool isShort = false, bool hasPaygrade = false)
@@ -91,10 +103,10 @@ public abstract partial class SharedRankSystem : EntitySystem
         if (isShort)
         {
             if (rank.FemalePrefix == null || rank.MalePrefix == null)
-                return rank.Prefix;
+                return LocalizePrefix(rank, rank.Prefix);
 
             if (!TryComp<HumanoidAppearanceComponent>(uid, out var humanoidAppearance))
-                return rank.Prefix;
+                return LocalizePrefix(rank, rank.Prefix);
 
             var genderPrefix = humanoidAppearance.Gender switch
             {
@@ -103,7 +115,7 @@ public abstract partial class SharedRankSystem : EntitySystem
                 _ => rank.Prefix,
             };
 
-            return genderPrefix;
+            return LocalizePrefix(rank, genderPrefix);
         }
 
         if (hasPaygrade && rank.Paygrade != null)
