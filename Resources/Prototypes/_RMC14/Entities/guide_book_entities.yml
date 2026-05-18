@@ -146,7 +146,7 @@
 - type: entity
   parent: RMCBaseMapIcon
   id: RMCBoilerMapIcon
-  name: "Кип'ятильник"
+  name: "Бойлер"
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite

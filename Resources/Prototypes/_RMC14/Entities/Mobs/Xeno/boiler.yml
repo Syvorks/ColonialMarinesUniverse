@@ -8,7 +8,7 @@
   - RMCXenoCommendationReceiver
   - RMCXenoMobCollision
   id: CMXenoBoiler
-  name: "Кип'ятильник"
+  name: "Бойлер"
   description: "Величезний, гротескний ксенонід, вкритий світним, текучим кислотним слизом."
   components:
   - type: GuideHelp
