@@ -10,7 +10,7 @@ ui-vote-votekick-type-cheating = Читерство
 ui-vote-votekick-type-spamming = Спам
 
 # Заголовок вікна меню створення голосування
-ui-vote-create-title = Розпочати голосування
+ui-vote-create-title = Виклик голосування
 
 # Кнопка Submit у меню створення голосування
 ui-vote-create-button = Розпочати голосування
@@ -39,3 +39,5 @@ ui-vote-fluff = Працює на Robust™ Anti-Tamper Technology
 
 cmd-votemenu-desc = Відкриває меню голосування.
 cmd-votemenu-help = Використання: votemenu
+
+ui-vote-call-disabled = Виклики голосування наразі вимкнені.

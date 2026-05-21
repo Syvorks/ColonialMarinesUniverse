@@ -478,3 +478,4 @@ ent-CMUActionYautjaAbominationFrenzy = Дикий Шал
     .desc = Терзайте ціль або змахніть по сусідніх цілях, коли шал у режимі області.
 ent-CMUActionYautjaAbominationToggleFrenzy = Перемкнути Режим Шалу
     .desc = Перемикайте Дикий Шал між ударами по одній цілі та по області.
+cmu-yautja-self-destruct-critical = Браслет не відповідає помираючому мисливцю.
