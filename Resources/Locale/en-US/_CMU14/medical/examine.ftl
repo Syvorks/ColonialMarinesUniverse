@@ -47,6 +47,7 @@ cmu-medical-examine-fracture = {"a "}{ $stabilized ->
 }
 
 cmu-medical-examine-charred-burn-tissue = charred burn tissue
+cmu-medical-examine-severed = severed
 
 cmu-medical-examine-sentence-two = { $a } and { $b }
 cmu-medical-examine-sentence-many = { $rest }, and { $last }

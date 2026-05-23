@@ -75,6 +75,7 @@ cmu-medical-examine-fracture = { $stabilized ->
 }
 
 cmu-medical-examine-charred-burn-tissue = обвуглена тканина
+cmu-medical-examine-severed = відрізано
 
 cmu-medical-examine-sentence-two = { $a } та { $b }
 cmu-medical-examine-sentence-many = { $rest } та { $last }
