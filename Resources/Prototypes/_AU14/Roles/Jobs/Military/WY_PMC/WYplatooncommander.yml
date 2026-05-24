@@ -1,7 +1,7 @@
 - type: job
   parent: AU14JobPlatCoBase
   id: AU14JobGOVFORPlatCoWYPMC
-  name: PMC Operations Director
+  name: "Операційний директор ПВК"
   spawnMenuRoleName: Platoon Commander (WYPMC)
   ranks:
     AU14RankWeYuCommanderSenior:
