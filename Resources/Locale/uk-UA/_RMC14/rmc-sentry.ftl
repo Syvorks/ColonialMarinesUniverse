@@ -15,7 +15,7 @@ rmc-sentry-active-norot = {CAPITALIZE(THE($sentry))} зараз активна. 
 rmc-sentry-item-norot = Ви не можете обертати її в такому стані!
 rmc-sentry-magazine-does-not-fit = {CAPITALIZE(THE($magazine))} не підходить до {THE($sentry)}!
 
-rmc-sentry-upgrade-not-item = Вам потрібно розібрати {THE($sentry)} мультитулом перед апгрейдом!
+rmc-sentry-upgrade-not-item = Вам потрібно розібрати {THE($sentry)} гайковим ключем перед покращенням!
 rmc-sentry-upgrade-not-holding = Вам потрібно тримати набір апгрейду в активній руці, щоб покращити {THE($sentry)}!
 rmc-sentry-upgrade-not-upgradeable = Ви не можете покращити {THE($sentry)}!
 
@@ -61,3 +61,12 @@ health-examinable-sentry-Shock-75 = [color=crimson]{CAPITALIZE(SUBJECT($target))
 
 rmc-sentry-not-emergency = {CAPITALIZE(THE($deployer))} може бути активований лише в надзвичайних ситуаціях.
 rmc-sentry-deploy = Ви розгортаєте {THE($spawned)}
+
+rmc-sentry-disassembled-with-wrench = Можна розібрати [color=cyan]гайковим ключем[/color].
+rmc-sentry-faction-set-with-multitool = Скористайтеся [color=cyan]мультитулом[/color], щоб призначити або очистити фракцію.
+rmc-sentry-faction-dialog-title = Налаштування турелі
+rmc-sentry-faction-assign = Призначити моїй фракції
+rmc-sentry-faction-clear = Очистити призначення фракції
+rmc-sentry-faction-assigned = {CAPITALIZE(THE($sentry))} тепер призначено вашій фракції.
+rmc-sentry-faction-cleared = {CAPITALIZE(THE($sentry))} більше не має призначення фракції — вона не стрілятиме, доки її не призначать знову.
+rmc-sentry-no-faction-set = {CAPITALIZE(THE($sentry))} не має призначеної фракції — скористайтеся [color=cyan]мультитулом[/color], щоб спочатку налаштувати її.

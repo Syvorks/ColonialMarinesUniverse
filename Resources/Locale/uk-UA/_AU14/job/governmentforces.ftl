@@ -26,7 +26,7 @@ au14-job-prefix-govfordcc = БМ
 
 AU14JobGOVFORSectionSergeant = Старший сержант
 au14-job-name-govforSSG = Старший сержант
-au14-job-description-govforSSG = Старший рядовий склад. Забезпечуйте роботу взводу.
+au14-job-description-govforSSG = Старший сержантський склад. Забезпечуйте роботу взводу.
 au14-job-prefix-govforSSG = СТРСРЖТ
 
 AU14JobGOVFORSquadSergeant = Командир відділення
@@ -165,3 +165,8 @@ au14-job-prefix-juniorofficer-adj = ОА
 
 au14-job-name-specialist-pyro = Піротехнік
 au14-job-prefix-specialist-pyro = ПІРО
+
+au14-job-name-govforsquadautomaticrifleman-plural = Кулеметники
+au14-job-name-govforplatooncorpsman-plural = Санітари
+au14-job-name-radiotelephoneoperator-alt = Радіотелефоніст
+au14-job-name-govfork9handler = Кінолог K9

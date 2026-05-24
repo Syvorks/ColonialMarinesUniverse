@@ -31,23 +31,20 @@ rmc-bioscan-ares = Біосканування завершено.
     *[other], включаючи одну в {$planetLocation}
   }
 
-rmc-bioscan-xeno-announcement = [color=#318850][font size=14][bold]Королева-Мати проникає у ваш розум з далеких світів.
-    {$message}[/bold][/font][/color]
+rmc-bioscan-xeno-announcement = [color=#318850][font size=14][bold]Королева-Мати торкається вашого розуму з далеких світів.
+   {$message}[/bold][/font][/color]
 
-rmc-bioscan-xeno = Моїм дітям та їхній Королеві: Я відчуваю { $onShip ->
+rmc-bioscan-xeno = До моїх дітей та їхньої Королеви: я відчуваю { $onShip ->
     [0] жодного носія
     [1] приблизно 1 носія
-    [2] приблизно 2 носія
-    [3] приблизно 3 носія
-    [4] приблизно 4 носія
     *[other] приблизно {$onShip} носіїв
   } у металевому вулику{ $shipLocation ->
     [none] {""}
-    *[other], включаючи одного в {$shipLocation},
-  } та {$onPlanet ->
-    [0] жодного
+    *[other], зокрема одного в {$shipLocation},
+  } і { $onPlanet ->
+    [0] нікого
     *[other] {$onPlanet}
-  } розкиданих в іншому місці{$planetLocation ->
+  } деінде{$planetLocation ->
     [none].
-    *[other], включаючи одного в {$planetLocation}
+    *[other], зокрема одного в {$planetLocation}
   }

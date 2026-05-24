@@ -400,3 +400,4 @@ ui-options-admin-overlay-ghost-hide-distance = Відстань приховув
 
 ui-options-crt-ui-enabled = Використовувати тему інтерфейсу ЕПТ
 ui-options-crt-ui-color-example = Текст попереднього перегляду
+ui-options-zlevel-blur = Розмиття Z-рівнів:
