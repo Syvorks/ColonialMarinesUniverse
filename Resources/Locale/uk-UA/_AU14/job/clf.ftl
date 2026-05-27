@@ -28,3 +28,5 @@ au14-job-name-clfcellleader = Командир осередку ФВК
 au14-job-description-clfcellleader = Ведіть своїх людей і захопіть колонію. Витісняйте, захоплюйте та/або вбивайте будь-які урядові сили, які не здаються. Переконуйте місцевих жителів приєднатися до вашої справи.
 au14-job-prefix-clfcellleader = ЦИВ
 AU14JobCLFCellLeader = Командир осередку ФВК
+
+au14-job-name-clfguerilla-alt = Боєць ФВК (3-тя сторона)

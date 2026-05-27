@@ -1,4 +1,4 @@
-﻿<Document>
+<Document>
 
   #Бойовий технік (Combat Technician)
 
@@ -101,8 +101,8 @@
   Бойовий технік — серед небагатьох морпіхів, спеціально навчених ремонтувати життєво важливе обладнання на Колонії. Два, які вам будуть довірені — це Телекомунікаційна та Сенсорна вежі, про які можна дізнатися більше [textlink="тут" link="RMCGuideCommunicationsTowers"].
 
   <Box>
-    <GuideEntityEmbed Entity="RMCCommunicationsTower"/>
-    <GuideEntityEmbed Entity="RMCSensorTower"/>
+    <GuideEntityEmbed Entity="AU14CommunicationsTower"/>
+    <GuideEntityEmbed Entity="AU14SensorTower"/>
   </Box>
 
   ##Будівництво укріплень

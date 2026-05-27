@@ -33,7 +33,7 @@ highlights-military-police = Військова поліція, «CMP», «MP»,
 highlights-provost-inspector = Інспектор Провосту, Інспектор, «PvI», «CMP», «MP», «MPs», «MW», «Тривога», Ізолятор, «Перма», Чергу, Колоніст, Вижилий, «СОП», «Mlaw», Закон морпіхів, Арешт, Затримання, Апеляція, Страта, Страчений
 
 # Other
-highlights-corporate-liaison = Корпоративний звʼязковий, «КЗ», «CL», Звʼязковий, Вейленд-Ютані, Вестон-Ямада, «WeYa», Ве-Я
+highlights-corporate-liaison = Корпоративний зв'язковий, "КЗ", "CL", Liaison, Зв'язковий, Вейланд-Ютані, "WeYu", We-Yu, ВейЮ
 highlights-correspondent = Кореспондент, «CC», Новини
 highlights-mess-technician = Технік їдальні, «ТЇ», «MST», «Mess», Кухня, Їжа, Голодний
 

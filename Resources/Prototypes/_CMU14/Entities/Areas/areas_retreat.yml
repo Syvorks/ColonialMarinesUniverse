@@ -492,7 +492,7 @@
   name: Octanis Complex Powerplant - Turbine Room
   components:
   - type: Sprite
-    state: oc_engi_turbine
+    state: oc_engi_turbineroom
   - type: Area
     minimapColor: '#573e19'
 
@@ -909,11 +909,21 @@
 
 - type: entity
   parent: CMUAreaRetreatIndoors
+  id: CMUAreaRetreatHREngineeringTcomms
+  name: Hope's Retreat - Telecomms Building
+  components:
+  - type: Sprite
+    state: hr_engi_tcomms
+  - type: Area
+    minimapColor: '#573e19'
+
+- type: entity
+  parent: CMUAreaRetreatIndoors
   id: CMUAreaRetreatHREngineeringTurbineRoom
   name: Hope's Retreat - Turbine Room
   components:
   - type: Sprite
-    state: hr_engi_turbine
+    state: hr_engi_turbineroom
   - type: Area
     minimapColor: '#573e19'
 
@@ -974,6 +984,16 @@
   components:
   - type: Sprite
     state: hr_misc_southerndorms
+  - type: Area
+    minimapColor: '#573e19'
+
+- type: entity
+  parent: CMUAreaRetreatIndoors
+  id: CMUAreaRetreatHRMiscNorthernWarehouse
+  name: Hope's Retreat - Northern Warehouse
+  components:
+  - type: Sprite
+    state: hr_misc_northernwarehouse
   - type: Area
     minimapColor: '#573e19'
 

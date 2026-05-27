@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: AU14ProdigyLaptop
-  name: Prodigy Advance Networking Device (PAND)
-  description: A ruggedized military laptop used for remote control and programming made by Prodigy Security Corp. Can be placed on tables for easier access, it can also be used to link to sentries if need be.
+  name: "система втручання у розширені системи Prodigy (PASTS)"
+  description: "Захищений військовий ноутбук для дистанційного керування та програмування, виготовлений Prodigy Security Corp. Для зручнішого доступу його можна ставити на столи. Також працює як ноутбук для турелей!"
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Devices/sentrycomp.rsi
@@ -42,3 +42,36 @@
   - type: RequiresSkill
     skills:
       RMCSkillEngineer: 2
+
+- type: entity
+  parent: BaseItem
+  id: AU14ExtractionTeamBeacon
+  name: "маяк евакуаційної групи Prodigy"
+  description: "Одноразовий передавач для виклику евакуаційної групи Prodigy. Після активації стає марним. Що значить, це просто дорогий лазерний указник? (OOC-примітка: якщо він не спрацює, зверніться в ahelp і попросіть заспавнити ProdigyExtractionParty)"
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Medical/Surgery/scalpel.rsi
+    state: scalpel_laser
+  - type: Item
+    size: Small
+  - type: Clickable
+  - type: InteractionOutline
+  - type: Physics
+    bodyType: Dynamic
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.15,0.25,0.15"
+        density: 50
+        mask:
+        - ItemMask
+        restitution: 0.3
+        friction: 0.2
+  - type: Appearance
+  - type: SpawnThirdPartyTool
+    party: ProdigyExtractionParty
+    dropship: true
+  - type: UseDelay
+    delay: 0.5

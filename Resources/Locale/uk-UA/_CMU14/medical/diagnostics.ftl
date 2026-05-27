@@ -58,8 +58,8 @@ cmu-medical-scanner-card-body = Тіло
 cmu-medical-scanner-card-organs = Органи
 cmu-medical-scanner-card-reagents = Реагенти у кровотоці
 cmu-medical-scanner-card-recommended = Рекомендовано
-cmu-medical-scanner-card-patient = Терплячий
-cmu-medical-scanner-card-damage = Профіль шкоди
+cmu-medical-scanner-card-patient = Пацієнт
+cmu-medical-scanner-card-damage = Профіль ушкоджень
 cmu-medical-scanner-loading = Отримання телеметрії сканування
 cmu-medical-scanner-loading-subtext = розв'язання стану сервера
 
@@ -69,10 +69,10 @@ cmu-medical-scanner-stat-blood = КРОВ
 cmu-medical-scanner-stat-temp = ТЕМП °C
 cmu-medical-scanner-stat-shock-risk = РИЗИК ШОКУ
 cmu-medical-scanner-stat-pulse-stopped     = 0
-cmu-medical-scanner-stat-deceased-short = МЕРТВІ
+cmu-medical-scanner-stat-deceased-short = МЕРТВИЙ
 
 cmu-medical-scanner-status-stable = СТАБІЛЬНИЙ
-cmu-medical-scanner-status-serious = СЕРЙОЗНИЙ
+cmu-medical-scanner-status-serious = ВАЖКИЙ
 cmu-medical-scanner-status-critical = КРИТИЧНИЙ
 cmu-medical-scanner-status-deceased = ПОМЕРЛИЙ
 
@@ -126,7 +126,7 @@ cmu-medical-scanner-organ-lungs = Легені
 cmu-medical-scanner-organ-liver = Печінка
 cmu-medical-scanner-organ-brain = Мозок
 cmu-medical-scanner-organ-kidneys = Нирки
-cmu-medical-scanner-organ-stomach = Живіт
+cmu-medical-scanner-organ-stomach = Шлунок
 cmu-medical-scanner-organ-eyes = Очі
 cmu-medical-scanner-organ-ears = Вуха
 

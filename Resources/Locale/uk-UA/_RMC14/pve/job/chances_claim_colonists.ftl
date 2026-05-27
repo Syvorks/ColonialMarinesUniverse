@@ -1,10 +1,10 @@
-rmc-job-greeting-chances-colonist = Ви — колоніст, що живе на LV-522. Ваш роботодавець, корпорація Вестон-Ямада, доручає вам виконувати ваші звичні обовʼязки.
+rmc-job-greeting-chances-colonist = Ви — колоніст, що живе на LV-522. Ваш роботодавець, корпорація Вейланд-Ютані, доручає вам виконувати ваші звичні обовʼязки.
 
   Ви [bold][color=#51A16C][font size=16]НЕ ВОРОЖІ до ОНМК![/font][/color][/bold]
 
-rmc-job-name-colonist-chances-trucker = Оператор важкої техніки Вестон-Ямада
+rmc-job-name-colonist-chances-trucker = Оператор важкої техніки Вейланд-Ютані
 rmc-job-description-colonist-chances-trucker = Працювати на важкій техніці в колонії та поблизу неї.
-CMSurvivorChancesTrucker = Оператор важкої техніки Вестон-Ямада
+CMSurvivorChancesTrucker = Оператор важкої техніки Вейланд-Ютані
 
 rmc-job-name-colonist-chances-miner = Інженер-розвідувач шахт
 CMSurvivorChancesMiner = Інженер-розвідувач шахт

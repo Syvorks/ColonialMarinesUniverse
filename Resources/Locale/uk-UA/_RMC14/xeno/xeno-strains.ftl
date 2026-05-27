@@ -190,3 +190,70 @@ rmc-xeno-designer-description = Ви втрачаєте:
     - Великий Викид Смоли перетворює проектні вузли на слабші відбиваючі стіни
     - Трохи сильніший підкат
 rmc-xeno-designer-popup = Ви — конструктор вулика, йдіть і розширюйте вулик за його межі.
+
+rmc-xeno-heatshield-name = Теплощит
+rmc-xeno-heatshield-description = Ви обмінюєте удар головою, помах хвостом і укріплення на бойові інструменти, керовані вогнем.
+  Ви отримуєте:
+  - Зменшену шкоду від вогню та бонусну опікову шкоду, коли горите.
+  - Жовч, що гасить членів вулика або готує ворогів до займання.
+  - Самозаймання й терморегуляцію для контролю власного полум’я.
+rmc-xeno-heatshield-popup = Цей змушує вогонь служити вулику.
+rmc-xeno-venator-name = Венатор
+rmc-xeno-venator-description = Ви обмінюєте їдкий удар хвостом і базові плювальні прийоми на продумані інструменти кислотного полювання.
+  Ви отримуєте:
+  - Їдкий плювок, кислотну кулю та ферментний подих.
+  - Заряди накопиченої кислоти, що знижують броню до витрати та прискорюють вашу наступну кислотну атаку.
+rmc-xeno-venator-popup = Цей вистежує зі вже готовою отрутою.
+rmc-xeno-alchemist-name = Алхімік
+rmc-xeno-alchemist-description = Ви обмінюєте стандартний кислотний набір плювача на хімічні запаси та ін’єкції хвостом.
+  Ви отримуєте:
+  - Виробництво, очищення та вибір хімічних запасів.
+  - Ін’єкції хвостом, що шкодять ворогам залежно від збереженої суміші.
+rmc-xeno-alchemist-popup = Цей варить руїну у своїх венах.
+rmc-xeno-bulwark-name = Бастіон
+rmc-xeno-bulwark-description = Ви обмінюєте удар, ривок і кидок на контроль території бронепластинами.
+  Ви отримуєте:
+  - Укріплені пластини для потужного фронтального захисту.
+  - Удар пластиною, помах хвостом і спрямований відбивний щит.
+rmc-xeno-bulwark-popup = Цей стає стіною до того, як стіна зламається.
+cm-xeno-heatshield-vomit-bile-extinguish = Ви душите полум’я жовчю.
+cm-xeno-heatshield-vomit-bile-hostile = Ви вкриваєте ціль леткою жовчю.
+cm-xeno-heatshield-vomit-bile-tile = Ви душите палаючу землю жовчю.
+cm-xeno-heatshield-vomit-bile-no-fire = Цей член вулика не горить.
+cm-xeno-heatshield-vomit-bile-no-target = Там немає полум’я або придатних цілей.
+cm-xeno-heatshield-self-immolate = Ви розпалюєте власне полум’я.
+cm-xeno-heatshield-thermoregulation-not-burning = Щоб терморегулюватися, ви маєте горіти.
+cm-xeno-venator-store-acid = Ви накопичуєте кислотний заряд. Заряди: {$charges}.
+cm-xeno-venator-store-acid-full = Ви не можете накопичити більше кислоти.
+cm-xeno-venator-store-acid-locked = Ваші залози ще відновлюються після останньої кислотної атаки.
+cm-xeno-bulwark-reflective-shield-encase = Щоб використати Відбивний щит, потрібні активні Укріплені пластини.
+cm-xeno-bulwark-tail-swing-encased = Перед помахом хвостом потрібно послабити пластини.
+cm-xeno-bulwark-plate-bash-adjacent = Щоб запустити ціль Укріпленими пластинами, потрібно бути поряд із нею.
+cm-xeno-dancer-projectile-dodge = Ви прослизаєте повз снаряд.
+cm-xeno-dancer-yellow-spread-self = Страх шириться серед здобичі, їхня слабкість підживлює ваші інстинкти знищити їх!
+cm-xeno-dancer-yellow-spread-target = Ви відчуваєте, як страх сповзає по хребту... наступним можете бути ви!
+cm-xeno-alchemist-selected-sagunine = Сагунін обрано.
+cm-xeno-alchemist-selected-cholinine = Холінін обрано.
+cm-xeno-alchemist-selected-noctine = Ноктин обрано.
+cm-xeno-alchemist-selected-none = Хімікат не обрано.
+cm-xeno-alchemist-chemical-sagunine = Сагунін
+cm-xeno-alchemist-chemical-cholinine = Холінін
+cm-xeno-alchemist-chemical-noctine = Ноктин
+cm-xeno-alchemist-chemical-none = Немає
+cm-xeno-alchemist-chemical-stockpile =
+    {$chemical}: збережено {$amount}
+    Загалом: {$total}/{$max}
+cm-xeno-alchemist-chemical-stockpile-total =
+    {$chemical}
+    Загалом: {$total}/{$max}
+cm-xeno-alchemist-stockpile = Запас: {$amount}.
+cm-xeno-alchemist-removed = Ви очищуєте обраний запас.
+cm-xeno-alchemist-empty = У вас немає збереженої суміші для ін’єкції.
+cm-xeno-alchemist-producing = Ваші залози вже виробляють.
+cm-xeno-alchemist-no-selected = Спершу оберіть хімікат.
+cm-xeno-alchemist-stockpile-full = Ваш хімічний запас повний.
+cm-xeno-reaper-harvest-dead = Плоть має бути мертвою, перш ніж ви зможете її зібрати.
+cm-xeno-reaper-harvest-permadead-marine = Ви можете збирати лише остаточно мертвого морпіха.
+cm-xeno-reaper-harvest-spent = Це тіло вже було зібрано.
+cm-xeno-reaper-not-enough-flesh = Вам потрібно більше плотської смоли.
+cm-xeno-reaper-carrion-mantle = Падло твердне у захисну мантію.

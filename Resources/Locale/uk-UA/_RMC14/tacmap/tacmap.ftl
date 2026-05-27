@@ -40,3 +40,5 @@ ui-tactical-map-follow-player-inactive = Центрувати
 ui-tactical-map-cooldown-seconds = {$seconds}
 
 ui-tactical-map-tunnel-info = Тунель: {$name}
+
+ui-tactical-map-tab-squad = Відділення
